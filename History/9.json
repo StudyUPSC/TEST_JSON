@@ -1,0 +1,248 @@
+[
+  {
+    "id": "history9",
+    "title": "बंगाल विभाजन एवं स्वदेशी आंदोलन (Partition of Bengal & Swadeshi Movement)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "The Partition of Bengal was announced by which Viceroy?",
+        "questionHindi": "बंगाल का विभाजन किस वायसराय द्वारा घोषित किया गया था?",
+        "options": [
+          "Lord Minto",
+          "Lord Curzon",
+          "Lord Hardinge",
+          "Lord Chelmsford"
+        ],
+        "optionsHindi": [
+          "लॉर्ड मिंटो",
+          "लॉर्ड कर्जन",
+          "लॉर्ड हार्डिंग",
+          "लॉर्ड चेम्सफोर्ड"
+        ],
+        "answer": 1,
+        "explanation": "The Partition of Bengal was announced by Lord Curzon in 1905.",
+        "explanationHindi": "बंगाल का विभाजन लॉर्ड कर्जन द्वारा 1905 में घोषित किया गया था।"
+      },
+      {
+        "type": "normal",
+        "question": "The Swadeshi Movement was formally proclaimed on:",
+        "questionHindi": "स्वदेशी आंदोलन की विधिवत घोषणा कब की गई?",
+        "options": [
+          "7 August 1905",
+          "16 October 1905",
+          "7 August 1906",
+          "16 October 1906"
+        ],
+        "optionsHindi": [
+          "7 अगस्त 1905",
+          "16 अक्टूबर 1905",
+          "7 अगस्त 1906",
+          "16 अक्टूबर 1906"
+        ],
+        "answer": 0,
+        "explanation": "The Swadeshi Movement was formally proclaimed on 7 August 1905 at the historic meeting in Calcutta Town Hall.",
+        "explanationHindi": "स्वदेशी आंदोलन की विधिवत घोषणा 7 अगस्त 1905 को कलकत्ता टाउनहॉल की ऐतिहासिक बैठक में की गई।"
+      },
+      {
+        "type": "normal",
+        "question": "Who wrote the song 'Amar Sonar Bangla'?",
+        "questionHindi": "'आमार सोनार बांग्ला' गीत किसने लिखा?",
+        "options": [
+          "Bankim Chandra Chatterjee",
+          "Rabindranath Tagore",
+          "Kazi Nazrul Islam",
+          "Dwijendranath Tagore"
+        ],
+        "optionsHindi": [
+          "बंकिम चंद्र चटर्जी",
+          "रवीन्द्रनाथ टैगोर",
+          "काजी नजरुल इस्लाम",
+          "द्विजेन्द्रनाथ टैगोर"
+        ],
+        "answer": 1,
+        "explanation": "Rabindranath Tagore wrote 'Amar Sonar Bangla' in 1906, which later became the national anthem of Bangladesh in 1972.",
+        "explanationHindi": "रवीन्द्रनाथ टैगोर ने 1906 में 'आमार सोनार बांग्ला' लिखा, जो 1972 में बांग्लादेश का राष्ट्रगान बना।"
+      },
+      {
+        "type": "normal",
+        "question": "The Swadeshi Movement saw the participation of which section of society?",
+        "questionHindi": "स्वदेशी आंदोलन में समाज के किस वर्ग ने भाग लिया?",
+        "options": [
+          "Peasants of Bengal",
+          "Women",
+          "Both women and peasants",
+          "Only middle class"
+        ],
+        "optionsHindi": [
+          "बंगाल के किसान",
+          "महिलाएं",
+          "महिलाएं और किसान दोनों",
+          "केवल मध्य वर्ग"
+        ],
+        "answer": 2,
+        "explanation": "The Swadeshi Movement saw participation of women as a major feature, and peasants of Barisal also supported it.",
+        "explanationHindi": "स्वदेशी आंदोलन में महिलाओं का भाग लेना प्रमुख विशेषता थी और बारिसाल के किसानों ने भी सहयोग दिया।"
+      },
+      {
+        "type": "normal",
+        "question": "Who were the prominent leaders of the Extremist group in Congress?",
+        "questionHindi": "कांग्रेस में उग्रवादी समूह के प्रमुख नेता कौन थे?",
+        "options": [
+          "Lal, Bal, Pal",
+          "Gokhale, Banerjee, Ghosh",
+          "Tilak, Naoroji, Mehta",
+          "Banerjee, Gokhale, Naoroji"
+        ],
+        "optionsHindi": [
+          "लाल, बाल, पाल",
+          "गोखले, बनर्जी, घोष",
+          "तिलक, नौरोजी, मेहता",
+          "बनर्जी, गोखले, नौरोजी"
+        ],
+        "answer": 0,
+        "explanation": "The prominent leaders of the Extremist group were Lal Lajpat Rai, Bal Gangadhar Tilak, and Bipin Chandra Pal (Lal-Bal-Pal).",
+        "explanationHindi": "उग्रवादी नेताओं में लाल लाजपत राय, बाल गंगाधर तिलक, और बिपिन चंद्र पाल (लाल-बाल-पाल) प्रमुख थे।"
+      },
+      {
+        "type": "normal",
+        "question": "The Surat Split (Congress Split) occurred in which year?",
+        "questionHindi": "कांग्रेस विभाजन (सूरत फूट) किस वर्ष हुआ?",
+        "options": [
+          "1905",
+          "1906",
+          "1907",
+          "1908"
+        ],
+        "optionsHindi": [
+          "1905",
+          "1906",
+          "1907",
+          "1908"
+        ],
+        "answer": 2,
+        "explanation": "The Surat Split of Congress occurred in 1907 due to differences between Extremists and Moderates.",
+        "explanationHindi": "कांग्रेस विभाजन (सूरत फूट) 1907 में उग्रवादियों और उदारवादियों के बीच मतभेदों के कारण हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "The Muslim League was founded in 1906 at:",
+        "questionHindi": "मुस्लिम लीग की स्थापना 1906 में कहाँ हुई?",
+        "options": [
+          "Calcutta",
+          "Dhaka",
+          "Lucknow",
+          "Aligarh"
+        ],
+        "optionsHindi": [
+          "कलकत्ता",
+          "ढाका",
+          "लखनऊ",
+          "अलीगढ़"
+        ],
+        "answer": 1,
+        "explanation": "The Muslim League was founded in 1906 at Dhaka under the leadership of Nawab Salimullah Khan and Aga Khan.",
+        "explanationHindi": "मुस्लिम लीग की स्थापना 1906 में सलीमुल्लाह खाँ और आगा खाँ के नेतृत्व में ढाका में हुई।"
+      },
+      {
+        "type": "normal",
+        "question": "Who were the Chaphekar Brothers?",
+        "questionHindi": "चापेकर बंधु कौन थे?",
+        "options": [
+          "Revolutionary leaders from Maharashtra",
+          "Moderate leaders from Bengal",
+          "Extremist leaders from Punjab",
+          "Muslim League founders"
+        ],
+        "optionsHindi": [
+          "महाराष्ट्र के क्रांतिकारी नेता",
+          "बंगाल के उदारवादी नेता",
+          "पंजाब के उग्रवादी नेता",
+          "मुस्लिम लीग के संस्थापक"
+        ],
+        "answer": 0,
+        "explanation": "Damodar Hari Chaphekar and Balkrishna Hari Chaphekar were revolutionary leaders from Maharashtra who assassinated Commissioner Plague and Lt. Ayston in 1897.",
+        "explanationHindi": "दामोदर हरि चापेकर और बालकृष्ण हरि चापेकर महाराष्ट्र के क्रांतिकारी नेता थे जिन्होंने 1897 में प्लेग कमिश्नर पैंड और लेफ्टिनेंट आयस्टन की हत्या की।"
+      },
+      {
+        "type": "normal",
+        "question": "The revolutionary organization 'Abhinav Bharat' was founded by:",
+        "questionHindi": "क्रांतिकारी संगठन 'अभिनव भारत' की स्थापना किसने की?",
+        "options": [
+          "Chaphekar Brothers",
+          "Savarkar Brothers",
+          "Aurobindo Ghosh",
+          "Jatindranath Banerjee"
+        ],
+        "optionsHindi": [
+          "चापेकर बंधु",
+          "सावरकर बंधु",
+          "अरविंद घोष",
+          "जातीन्द्रनाथ बनर्जी"
+        ],
+        "answer": 1,
+        "explanation": "The Savarkar brothers (Ganesh and Vinayak Damodar Savarkar) founded 'Abhinav Bharat' in 1906.",
+        "explanationHindi": "सावरकर बंधुओं (गणेश एवं विनायक दामोदर सावरकर) ने 1906 में 'अभिनव भारत' की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "Anushilan Samiti was founded in Calcutta by:",
+        "questionHindi": "अनुशीलन समिति की स्थापना कलकत्ता में किसने की?",
+        "options": [
+          "Pulin Das",
+          "Jatindranath Banerjee and Barindranath Ghosh",
+          "Aurobindo Ghosh",
+          "P. Mitra"
+        ],
+        "optionsHindi": [
+          "पुलिनदास",
+          "जातीन्द्रनाथ बनर्जी एवं बारीन्द्रनाथ घोष",
+          "अरविंद घोष",
+          "पी. मित्रा"
+        ],
+        "answer": 1,
+        "explanation": "Anushilan Samiti was founded in Calcutta by Barindranath Ghosh and Jatindranath Banerjee (Bagha Jatin).",
+        "explanationHindi": "अनुशीलन समिति की स्थापना कलकत्ता में बारीन्द्रनाथ घोष एवं जातीन्द्रनाथ बनर्जी (बाघा जतिन) ने की।"
+      },
+      {
+        "type": "normal",
+        "question": "Who founded the Dhaka Anushilan Samiti?",
+        "questionHindi": "ढाका अनुशीलन समिति की स्थापना किसने की?",
+        "options": [
+          "Pulin Das",
+          "Jatindranath Banerjee",
+          "Barindranath Ghosh",
+          "P. Mitra"
+        ],
+        "optionsHindi": [
+          "पुलिनदास",
+          "जातीन्द्रनाथ बनर्जी",
+          "बारीन्द्रनाथ घोष",
+          "पी. मित्रा"
+        ],
+        "answer": 0,
+        "explanation": "Dhaka Anushilan Samiti was founded by Pulin Das in 1902.",
+        "explanationHindi": "ढाका अनुशीलन समिति की स्थापना पुलिनदास ने 1902 में की।"
+      },
+      {
+        "type": "normal",
+        "question": "The revolutionary organization 'Mitra Mela' was established in:",
+        "questionHindi": "क्रांतिकारी संगठन 'मित्र मेला' की स्थापना कब हुई?",
+        "options": [
+          "1895",
+          "1899",
+          "1902",
+          "1906"
+        ],
+        "optionsHindi": [
+          "1895",
+          "1899",
+          "1902",
+          "1906"
+        ],
+        "answer": 1,
+        "explanation": "Mitra Mela was established in 1899 by the Savarkar brothers in Nasik.",
+        "explanationHindi": "मित्र मेला की स्थापना 1899 में सावरकर बंधुओं द्वारा नासिक में की गई।"
+      }
+    ]
+  }
+]
