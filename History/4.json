@@ -1,0 +1,308 @@
+[
+  {
+    "id": "history4",
+    "title": "गुप्त राजवंश (Gupta Dynasty)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Who is considered the founder of the Gupta dynasty?",
+        "questionHindi": "गुप्त वंश का संस्थापक किसे माना जाता है?",
+        "options": [
+          "Chandragupta I",
+          "Samudragupta",
+          "Shrigupta",
+          "Ghatotkacha Gupta"
+        ],
+        "optionsHindi": [
+          "चन्द्रगुप्त प्रथम",
+          "समुद्रगुप्त",
+          "श्रीगुप्त",
+          "घटोत्कष गुप्त"
+        ],
+        "answer": 2,
+        "explanation": "Shrigupta established the Gupta dynasty. Hence, he is considered the founder.",
+        "explanationHindi": "श्रीगुप्त ने ही गुप्त राजवंश की स्थापना की। अतः इसे गुप्त राजवंश का संस्थापक माना जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Who is regarded as the first ruler of the Gupta dynasty to adopt the title 'Maharajadhiraja'?",
+        "questionHindi": "गुप्त वंश का पहला शासक किसे माना जाता है, जिसने 'महाराजाधिराज' की उपाधि धारण की?",
+        "options": [
+          "Samudragupta",
+          "Chandragupta I",
+          "Kumaragupta I",
+          "Skandagupta"
+        ],
+        "optionsHindi": [
+          "समुद्रगुप्त",
+          "चन्द्रगुप्त प्रथम",
+          "कुमारगुप्त प्रथम",
+          "स्कन्दगुप्त"
+        ],
+        "answer": 1,
+        "explanation": "Chandragupta I was the first Gupta ruler to adopt the title 'Maharajadhiraja'.",
+        "explanationHindi": "चन्द्रगुप्त प्रथम ही गुप्तवंश का पहला शासक था, जिसने 'महाराजाधिराज' की उपाधि धारण की।"
+      },
+      {
+        "type": "normal",
+        "question": "Chandragupta I strengthened his political position by marrying which Lichchhavi princess?",
+        "questionHindi": "चन्द्रगुप्त प्रथम ने अपनी राजनीतिक स्थिति को सुदृढ़ करने के लिए किस लिच्छवी राजकुमारी से विवाह किया?",
+        "options": [
+          "Kumaradevi",
+          "Dattadevi",
+          "Dhruvadevi",
+          "Prabhavatigupta"
+        ],
+        "optionsHindi": [
+          "कुमारदेवी",
+          "दत्तदेवी",
+          "ध्रुवदेवी",
+          "प्रभावतीगुप्त"
+        ],
+        "answer": 0,
+        "explanation": "Chandragupta I married Lichchhavi princess Kumaradevi to strengthen his political position.",
+        "explanationHindi": "चन्द्रगुप्त प्रथम ने अपनी राजनीतिक स्थिति को सुदृढ़ करने के लिए लिच्छवी राजकुमारी कुमारदेवी से विवाह किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The Prayag Prashasti was composed by whom?",
+        "questionHindi": "प्रयाग प्रशस्ति की रचना किसने की?",
+        "options": [
+          "Kalidasa",
+          "Harisena",
+          "Banabhatta",
+          "Ravikirti"
+        ],
+        "optionsHindi": [
+          "कालिदास",
+          "हरिषेण",
+          "बाणभट्ट",
+          "रविकीर्ति"
+        ],
+        "answer": 1,
+        "explanation": "The Prayag Prashasti (Allahabad Pillar Inscription) was composed by Harisena.",
+        "explanationHindi": "प्रयाग प्रशस्ति (इलाहाबाद स्तंभ अभिलेख) की रचना हरिषेण द्वारा की गई थी।"
+      },
+      {
+        "type": "normal",
+        "question": "Who has been described as 'the Napoleon of India' by V.A. Smith?",
+        "questionHindi": "वी.ए. स्मिथ ने किसे 'भारत का नेपोलियन' कहा है?",
+        "options": [
+          "Chandragupta Maurya",
+          "Samudragupta",
+          "Harsha",
+          "Rajendra Chola"
+        ],
+        "optionsHindi": [
+          "चन्द्रगुप्त मौर्य",
+          "समुद्रगुप्त",
+          "हर्ष",
+          "राजेन्द्र चोल"
+        ],
+        "answer": 1,
+        "explanation": "Samudragupta has been described as 'the Napoleon of India' by V.A. Smith because he never faced defeat.",
+        "explanationHindi": "समुद्रगुप्त को वी.ए. स्मिथ ने 'भारत का नेपोलियन' कहा है क्योंकि उसे कभी पराजय का सामना नहीं करना पड़ा।"
+      },
+      {
+        "type": "normal",
+        "question": "Samudragupta is depicted on his coins playing which musical instrument?",
+        "questionHindi": "समुद्रगुप्त को उसके सिक्कों पर कौन-सा वाद्य यंत्र बजाते हुए दिखाया गया है?",
+        "options": [
+          "Mridangam",
+          "Veena",
+          "Flute",
+          "Tabla"
+        ],
+        "optionsHindi": [
+          "मृदंगम",
+          "वीणा",
+          "बांसुरी",
+          "तबला"
+        ],
+        "answer": 1,
+        "explanation": "Samudragupta is depicted playing the veena on his coins, showing his love for music.",
+        "explanationHindi": "समुद्रगुप्त को उसके 'वीणावादन' प्रकार के सिक्कों पर वीणा बजाते हुए दिखाया गया है, जो उनके संगीत प्रेम को दर्शाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Chandragupta II established matrimonial alliances with which three major dynasties?",
+        "questionHindi": "चन्द्रगुप्त द्वितीय ने किन तीन प्रमुख राजवंशों के साथ वैवाहिक संबंध स्थापित किए?",
+        "options": [
+          "Naga, Vakataka, and Kadamba",
+          "Shunga, Kanva, and Satavahana",
+          "Kushana, Shaka, and Parthian",
+          "Chola, Chera, and Pandya"
+        ],
+        "optionsHindi": [
+          "नाग, वाकाटक और कदम्ब",
+          "शुंग, कण्व और सातवाहन",
+          "कुषाण, शक और पार्थियन",
+          "चोल, चेर और पांड्य"
+        ],
+        "answer": 0,
+        "explanation": "Chandragupta II established matrimonial alliances with the Naga, Vakataka, and Kadamba dynasties.",
+        "explanationHindi": "चन्द्रगुप्त द्वितीय ने नाग, वाकाटक और कदम्ब राजवंशों के साथ वैवाहिक संबंध स्थापित किए।"
+      },
+      {
+        "type": "normal",
+        "question": "Who succeeded Chandragupta II as the Gupta ruler?",
+        "questionHindi": "चन्द्रगुप्त द्वितीय के बाद गुप्त शासक कौन बना?",
+        "options": [
+          "Samudragupta",
+          "Kumaragupta I",
+          "Skandagupta",
+          "Govindagupta"
+        ],
+        "optionsHindi": [
+          "समुद्रगुप्त",
+          "कुमारगुप्त प्रथम",
+          "स्कन्दगुप्त",
+          "गोविन्दगुप्त"
+        ],
+        "answer": 1,
+        "explanation": "Kumaragupta I, son of Chandragupta II and Dhruvadevi, succeeded him.",
+        "explanationHindi": "चन्द्रगुप्त द्वितीय के पश्चात् ध्रुवदेवी से उत्पन्न उसका पुत्र कुमारगुप्त प्रथम शासक बना।"
+      },
+      {
+        "type": "normal",
+        "question": "Which inscription of Skandagupta mentions his reign?",
+        "questionHindi": "स्कन्दगुप्त का कौन-सा अभिलेख उसके शासनकाल की जानकारी देता है?",
+        "options": [
+          "Prayag Prashasti",
+          "Junagadh Inscription",
+          "Nanaghat Inscription",
+          "Nasik Inscription"
+        ],
+        "optionsHindi": [
+          "प्रयाग प्रशस्ति",
+          "जुनागढ़ अभिलेख",
+          "नानाघाट अभिलेख",
+          "नासिक अभिलेख"
+        ],
+        "answer": 1,
+        "explanation": "Skandagupta's Junagadh inscription of 455 CE provides information about his reign.",
+        "explanationHindi": "स्कन्दगुप्त का 455 ई. का जुनागढ़ अभिलेख उसके शासनकाल की जानकारी देता है।"
+      },
+      {
+        "type": "normal",
+        "question": "The highest official in the Gupta army was called:",
+        "questionHindi": "गुप्त सेना का सर्वोच्च अधिकारी क्या कहलाता था?",
+        "options": [
+          "Mahabaladhikrita",
+          "Sandhivigrahika",
+          "Kumaramatya",
+          "Mahapratihara"
+        ],
+        "optionsHindi": [
+          "महाबलाधिकृत",
+          "सांधिविग्रहिक",
+          "कुमारामात्य",
+          "महाप्रतिहार"
+        ],
+        "answer": 0,
+        "explanation": "The highest official in the Gupta army was called Mahabaladhikrita.",
+        "explanationHindi": "गुप्त सेना का सर्वोच्च अधिकारी महाबलाधिकृत कहलाता था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which official was responsible for records and documents in the Gupta administration?",
+        "questionHindi": "गुप्त प्रशासन में अभिलेखों और दस्तावेजों के लिए कौन-सा अधिकारी जिम्मेदार था?",
+        "options": [
+          "Mahashvapatalika",
+          "Karanika",
+          "Pustapala",
+          "Dhruvadhikarana"
+        ],
+        "optionsHindi": [
+          "महाश्वपटलिक",
+          "करणिक",
+          "पुस्तपाल",
+          "ध्रुवाधिकरण"
+        ],
+        "answer": 0,
+        "explanation": "The Mahashvapatalika was the head of the records department, responsible for royal edicts and land records.",
+        "explanationHindi": "महाश्वपटलिक अभिलेख विभाग का प्रधान था, जो प्रमुख राजाज्ञाओं और भूमि अभिलेखों के लिए जिम्मेदार था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which tax in the Gupta period was imposed on pastures?",
+        "questionHindi": "गुप्त काल में चरागाहों पर कौन-सा कर लगाया जाता था?",
+        "options": [
+          "Charasana",
+          "Halirakara",
+          "Shulka",
+          "Pranaya"
+        ],
+        "optionsHindi": [
+          "चारासन",
+          "हलिराकर",
+          "शुल्क",
+          "प्रणय"
+        ],
+        "answer": 0,
+        "explanation": "Charasana was the tax imposed on pastures in the Gupta period.",
+        "explanationHindi": "गुप्त काल में चरागाहों पर चारासन कर लगाया जाता था।"
+      },
+      {
+        "type": "normal",
+        "question": "Kalidasa's work 'Raghuvamsha' consists of how many cantos (sargas)?",
+        "questionHindi": "कालिदास की रचना 'रघुवंश' में कितने सर्ग हैं?",
+        "options": [
+          "17",
+          "19",
+          "6",
+          "10"
+        ],
+        "optionsHindi": [
+          "17",
+          "19",
+          "6",
+          "10"
+        ],
+        "answer": 1,
+        "explanation": "Raghuvamsha is a great epic consisting of 19 cantos (sargas).",
+        "explanationHindi": "रघुवंश 19 सर्गों का महाकाव्य है।"
+      },
+      {
+        "type": "normal",
+        "question": "In which work of Kalidasa is the love story of Dushyanta and Shakuntala described?",
+        "questionHindi": "कालिदास की किस रचना में दुष्यंत और शकुंतला की प्रेम कथा का वर्णन है?",
+        "options": [
+          "Malavikagnimitram",
+          "Vikramorvashiyam",
+          "Abhijnanashakuntalam",
+          "Meghadutam"
+        ],
+        "optionsHindi": [
+          "मालविकाग्निमित्रम्",
+          "विक्रमोर्वशीयम्",
+          "अभिज्ञानशाकुंतलम्",
+          "मेघदूतम्"
+        ],
+        "answer": 2,
+        "explanation": "Abhijnanashakuntalam is the work describing the love story of Dushyanta and Shakuntala.",
+        "explanationHindi": "अभिज्ञानशाकुंतलम् में दुष्यंत और शकुंतला की प्रेम कथा का वर्णन है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Gupta ruler is known by the title 'Vikramaditya'?",
+        "questionHindi": "किस गुप्त शासक को 'विक्रमादित्य' की उपाधि से जाना जाता है?",
+        "options": [
+          "Samudragupta",
+          "Chandragupta II",
+          "Kumaragupta I",
+          "Skandagupta"
+        ],
+        "optionsHindi": [
+          "समुद्रगुप्त",
+          "चन्द्रगुप्त द्वितीय",
+          "कुमारगुप्त प्रथम",
+          "स्कन्दगुप्त"
+        ],
+        "answer": 1,
+        "explanation": "Chandragupta II is known by the title 'Vikramaditya'.",
+        "explanationHindi": "चन्द्रगुप्त द्वितीय को 'विक्रमादित्य' की उपाधि से जाना जाता है।"
+      }
+    ]
+  }
+]
