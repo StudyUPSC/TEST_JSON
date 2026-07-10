@@ -1,0 +1,428 @@
+[
+  {
+    "id": "history8",
+    "title": "विजयनगर साम्राज्य (Vijayanagara Empire)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Who founded the Vijayanagara Empire?",
+        "questionHindi": "विजयनगर साम्राज्य की स्थापना किसने की?",
+        "options": [
+          "Krishnadeva Raya",
+          "Harihara I and Bukka",
+          "Saluva Narasimha",
+          "Rama Raya"
+        ],
+        "optionsHindi": [
+          "कृष्णदेव राय",
+          "हरिहर प्रथम और बुक्का",
+          "सालुव नरसिंह",
+          "रामराय"
+        ],
+        "answer": 1,
+        "explanation": "Harihara I and Bukka, two of the five sons of Sangama, founded the Vijayanagara Empire in 1336 CE.",
+        "explanationHindi": "संगम के पाँच पुत्रों में से दो पुत्रों हरिहर प्रथम तथा बुक्का ने सन् 1336 ई. में विजयनगर साम्राज्य की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "Which was the first dynasty of the Vijayanagara Empire?",
+        "questionHindi": "विजयनगर साम्राज्य का प्रथम वंश कौन-सा था?",
+        "options": [
+          "Saluva",
+          "Tuluva",
+          "Sangama",
+          "Aravidu"
+        ],
+        "optionsHindi": [
+          "सालुव",
+          "तुलुव",
+          "संगम",
+          "आरविडु"
+        ],
+        "answer": 2,
+        "explanation": "The first dynasty of the Vijayanagara Empire was the Sangama dynasty, named after their father Sangama.",
+        "explanationHindi": "इस साम्राज्य के प्रथम वंश का नाम पिता के नाम पर 'संगम वंश' पड़ा।"
+      },
+      {
+        "type": "normal",
+        "question": "During whose reign did Vijayanagara extend to the entire South India including Tamil and Chera territories?",
+        "questionHindi": "किसके शासनकाल में विजयनगर साम्राज्य का विस्तार पूरे दक्षिण भारत तक हो गया, जिसमें तमिल व चेरा (केरल) के प्रदेश भी शामिल थे?",
+        "options": [
+          "Harihara I",
+          "Bukka I",
+          "Harihara II",
+          "Devaraya I"
+        ],
+        "optionsHindi": [
+          "हरिहर प्रथम",
+          "बुक्का प्रथम",
+          "हरिहर द्वितीय",
+          "देवराय प्रथम"
+        ],
+        "answer": 1,
+        "explanation": "Bukka I destroyed the Sultanate of Madurai in 1377 CE and incorporated it into Vijayanagara, expanding the empire to entire South India.",
+        "explanationHindi": "बुक्का प्रथम ने सन् 1377 ई. में मदुरै के अस्तित्व को मिटाकर विजयनगर साम्राज्य में मिला लिया, जिससे साम्राज्य का विस्तार पूरे दक्षिण भारत तक हो गया।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Bahmani ruler defeated Harihara II?",
+        "questionHindi": "हरिहर द्वितीय को किस बहमनी शासक ने पराजित किया?",
+        "options": [
+          "Alauddin Bahman Shah",
+          "Firoz Shah Bahmani",
+          "Ahmad Shah I",
+          "Mahmud Shah"
+        ],
+        "optionsHindi": [
+          "अलाउद्दीन बहमन शाह",
+          "फिरोजशाह बहमनी",
+          "अहमद शाह I",
+          "महमूद शाह"
+        ],
+        "answer": 1,
+        "explanation": "Firoz Shah Bahmani defeated Harihara II in the conflict over the Raichur Doab.",
+        "explanationHindi": "रायचूर दोआब को लेकर उसका बहमनी राज्य से झगड़ा हुआ, लेकिन उसमें फिरोजशाह बहमनी ने उसे पराजित किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The battle between Firoz Shah Bahmani and Devaraya I is known as:",
+        "questionHindi": "फिरोजशाह बहमनी और देवराय प्रथम के बीच युद्ध को क्या कहा जाता है?",
+        "options": [
+          "Battle of Raichur",
+          "Battle of Bankapur",
+          "Battle of the Goldsmith's Daughter",
+          "Battle of Talikota"
+        ],
+        "optionsHindi": [
+          "रायचूर का युद्ध",
+          "बांकापुर का युद्ध",
+          "सोनार की बेटी का युद्ध",
+          "तालीकोटा का युद्ध"
+        ],
+        "answer": 2,
+        "explanation": "The battle between Firoz Shah Bahmani and Devaraya I is known as the 'Battle of the Goldsmith's Daughter'.",
+        "explanationHindi": "फिरोज और देवराय के बीच 'सोनार की बेटी' नामक युद्ध हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "Who is considered the greatest ruler of the Sangama dynasty?",
+        "questionHindi": "संगम वंश का महानतम शासक किसे माना जाता है?",
+        "options": [
+          "Harihara II",
+          "Devaraya I",
+          "Devaraya II",
+          "Krishnadeva Raya"
+        ],
+        "optionsHindi": [
+          "हरिहर द्वितीय",
+          "देवराय प्रथम",
+          "देवराय द्वितीय",
+          "कृष्णदेव राय"
+        ],
+        "answer": 2,
+        "explanation": "Devaraya II is considered the greatest ruler of the Sangama dynasty.",
+        "explanationHindi": "देवराय द्वितीय को संगम वंश का महानतम शासक माना जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Who founded the Saluva dynasty?",
+        "questionHindi": "सालुव वंश की स्थापना किसने की?",
+        "options": [
+          "Saluva Narasimha",
+          "Vir Narasimha",
+          "Krishnadeva Raya",
+          "Rama Raya"
+        ],
+        "optionsHindi": [
+          "सालुव नरसिंह",
+          "वीर नरसिंह",
+          "कृष्णदेव राय",
+          "रामराय"
+        ],
+        "answer": 0,
+        "explanation": "Saluva Narasimha founded the Saluva dynasty in 1485 CE.",
+        "explanationHindi": "सालुव नरसिंह ने सन् 1485 ई. में सालुव वंश की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "Who was the most famous ruler of the Vijayanagara Empire?",
+        "questionHindi": "विजयनगर साम्राज्य का सबसे प्रसिद्ध शासक कौन था?",
+        "options": [
+          "Harihara II",
+          "Devaraya II",
+          "Krishnadeva Raya",
+          "Sadasiva Raya"
+        ],
+        "optionsHindi": [
+          "हरिहर द्वितीय",
+          "देवराय द्वितीय",
+          "कृष्णदेव राय",
+          "सदाशिव राय"
+        ],
+        "answer": 2,
+        "explanation": "Krishnadeva Raya was the most famous ruler of the Vijayanagara Empire.",
+        "explanationHindi": "कृष्णदेव राय विजयनगर साम्राज्य का सबसे प्रसिद्ध शासक था।"
+      },
+      {
+        "type": "normal",
+        "question": "Krishnadeva Raya defeated which Gajapati ruler and captured Udayagiri?",
+        "questionHindi": "कृष्णदेव राय ने किस गजपति शासक को हराकर उदयगिरी जीता?",
+        "options": [
+          "Kapilendra Deva",
+          "Purushottama Deva",
+          "Prataprudra Deva",
+          "Gajapati Pratap"
+        ],
+        "optionsHindi": [
+          "कपिलेन्द्र देव",
+          "पुरुषोत्तम देव",
+          "प्रतापरुद्र देव",
+          "गजपति प्रताप"
+        ],
+        "answer": 2,
+        "explanation": "Krishnadeva Raya defeated Gajapati ruler Prataprudra Deva and captured Udayagiri in 1513 CE.",
+        "explanationHindi": "कृष्णदेव राय ने सन् 1513 ई. में गजपति शासक प्रतापरुद्र देव से उदयगिरी जीता।"
+      },
+      {
+        "type": "normal",
+        "question": "What title did Krishnadeva Raya adopt after restoring the Bahmani Sultan to power?",
+        "questionHindi": "बहमनी सुल्तान को पुनः सत्ता में बैठाने के बाद कृष्णदेव राय ने कौन-सी उपाधि धारण की?",
+        "options": [
+          "Yavanarajya Sthapanacharya",
+          "Maharajadhiraja",
+          "Abhinava Bhoja",
+          "Andhra Bhoja"
+        ],
+        "optionsHindi": [
+          "यवनराज्य स्थापनाचार्य",
+          "महाराजाधिराज",
+          "अभिनव भोज",
+          "आंध्र भोज"
+        ],
+        "answer": 0,
+        "explanation": "After restoring Mahmud Shah of Bidar to power, Krishnadeva Raya adopted the title 'Yavanarajya Sthapanacharya'.",
+        "explanationHindi": "इस महत्त्वपूर्ण कार्य के बाद कृष्णदेव राय ने 'यवनराज्य स्थापनाचार्य' की उपाधि धारण की।"
+      },
+      {
+        "type": "normal",
+        "question": "Krishnadeva Raya wrote the famous Telugu work 'Amuktamalyada' on:",
+        "questionHindi": "कृष्णदेव राय ने प्रसिद्ध तेलुगु ग्रंथ 'आमुक्तमाल्यद' किस पर लिखा?",
+        "options": [
+          "Religious philosophy",
+          "Political ideas and administrative policies",
+          "Poetry",
+          "Music"
+        ],
+        "optionsHindi": [
+          "धार्मिक दर्शन",
+          "राजनीतिक विचार और प्रशासकीय नीतियाँ",
+          "कविता",
+          "संगीत"
+        ],
+        "answer": 1,
+        "explanation": "In his work 'Amuktamalyada', Krishnadeva Raya described his political ideas and administrative policies.",
+        "explanationHindi": "कृष्णदेव राय ने अपने प्रसिद्ध तेलुगु ग्रंथ 'आमुक्तमाल्यद' में अपने राजनीतिक विचारों और प्रशासकीय नीतियों का वर्णन किया है।"
+      },
+      {
+        "type": "normal",
+        "question": "The eight great scholars in Krishnadeva Raya's court were called:",
+        "questionHindi": "कृष्णदेव राय के दरबार में आठ महान विद्वान क्या कहलाते थे?",
+        "options": [
+          "Navaratnas",
+          "Ashtadiggajas",
+          "Ashtapradhan",
+          "Chalisa"
+        ],
+        "optionsHindi": [
+          "नवरत्न",
+          "अष्टदिग्गज",
+          "अष्टप्रधान",
+          "चालीसा"
+        ],
+        "answer": 1,
+        "explanation": "The eight great scholars in Krishnadeva Raya's court were called 'Ashtadiggajas'.",
+        "explanationHindi": "कृष्णदेव राय के दरबार में तेलुगु के आठ महान विद्वान थे, जिन्हें 'अष्टदिग्गज' कहा जाता था।"
+      },
+      {
+        "type": "normal",
+        "question": "Who was the real power behind the throne during Sadasiva Raya's reign?",
+        "questionHindi": "सदाशिव राय के शासनकाल में वास्तविक शक्ति किसके हाथों में थी?",
+        "options": [
+          "Krishnadeva Raya",
+          "Achyuta Deva Raya",
+          "Rama Raya",
+          "Tirumala"
+        ],
+        "optionsHindi": [
+          "कृष्णदेव राय",
+          "अच्युत देव राय",
+          "रामराय",
+          "तिरुमल"
+        ],
+        "answer": 2,
+        "explanation": "During Sadasiva Raya's reign, the real power was in the hands of Rama Raya.",
+        "explanationHindi": "सदाशिव राय के शासनकाल में वास्तविक शक्ति रामराय के हाथों में थी।"
+      },
+      {
+        "type": "normal",
+        "question": "The Battle of Talikota was fought on:",
+        "questionHindi": "तालीकोटा का युद्ध किस तारीख को लड़ा गया?",
+        "options": [
+          "23 January 1565",
+          "23 January 1529",
+          "23 January 1570",
+          "23 January 1509"
+        ],
+        "optionsHindi": [
+          "23 जनवरी, 1565",
+          "23 जनवरी, 1529",
+          "23 जनवरी, 1570",
+          "23 जनवरी, 1509"
+        ],
+        "answer": 0,
+        "explanation": "The Battle of Talikota (also known as Raksasa-Tangadi) was fought on 23 January 1565.",
+        "explanationHindi": "राक्षसी-तंगडी (तालीकोटा) का युद्ध 23 जनवरी, 1565 ई. को लड़ा गया।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Deccan Sultanates formed a confederacy against Vijayanagara?",
+        "questionHindi": "किन दक्कन सल्तनतों ने विजयनगर के विरुद्ध महासंघ बनाया?",
+        "options": [
+          "Ahmednagar, Bijapur, Golconda and Bidar",
+          "Ahmednagar, Bijapur, Golconda and Berar",
+          "Bijapur, Golconda, Bidar and Berar",
+          "Ahmednagar, Bijapur, Golconda and Burhanpur"
+        ],
+        "optionsHindi": [
+          "अहमदनगर, बीजापुर, गोलकुण्डा और बीदर",
+          "अहमदनगर, बीजापुर, गोलकुण्डा और बरार",
+          "बीजापुर, गोलकुण्डा, बीदर और बरार",
+          "अहमदनगर, बीजापुर, गोलकुण्डा और बुरहानपुर"
+        ],
+        "answer": 0,
+        "explanation": "Ahmednagar, Bijapur, Golconda, and Bidar formed the confederacy against Vijayanagara. Berar did not join due to rivalry with Golconda.",
+        "explanationHindi": "अहमदनगर, बीजापुर, गोलकुण्डा और बीदर ने महासंघ बनाया। गोलकुण्डा और बरार के बीच शत्रुता के कारण बरार इसमें शामिल नहीं हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "Who defeated Vijayanagara in the Battle of Talikota?",
+        "questionHindi": "तालीकोटा के युद्ध में विजयनगर को किसने पराजित किया?",
+        "options": [
+          "Ahmednagar Sultanate",
+          "Bijapur Sultanate",
+          "Combined forces of Deccan Sultanates",
+          "Golconda Sultanate"
+        ],
+        "optionsHindi": [
+          "अहमदनगर सल्तनत",
+          "बीजापुर सल्तनत",
+          "दक्कन सल्तनतों की संयुक्त सेना",
+          "गोलकुण्डा सल्तनत"
+        ],
+        "answer": 2,
+        "explanation": "The combined forces of the Deccan Sultanates defeated Vijayanagara in the Battle of Talikota.",
+        "explanationHindi": "दक्कन सल्तनतों की संयुक्त सेनाओं ने तालीकोटा के युद्ध में विजयनगर को पराजित किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The Aravidu dynasty was founded by:",
+        "questionHindi": "आरविडु वंश की स्थापना किसने की?",
+        "options": [
+          "Rama Raya",
+          "Tirumala",
+          "Sadasiva",
+          "Krishnadeva Raya"
+        ],
+        "optionsHindi": [
+          "रामराय",
+          "तिरुमल",
+          "सदाशिव",
+          "कृष्णदेव राय"
+        ],
+        "answer": 1,
+        "explanation": "Tirumala established the Aravidu dynasty in 1570 CE.",
+        "explanationHindi": "तिरुमल ने सन् 1570 ई. में आरविडु वंश की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "The chief advisor/head of the royal council in Vijayanagara was called:",
+        "questionHindi": "विजयनगर में राजपरिषद् का अध्यक्ष/मुख्य सलाहकार क्या कहलाता था?",
+        "options": [
+          "Mahapradhani",
+          "Nayak",
+          "Mahamandaleshwara",
+          "Uparika"
+        ],
+        "optionsHindi": [
+          "महाप्रधानी",
+          "नायक",
+          "महामंडलेश्वर",
+          "उपरिक"
+        ],
+        "answer": 0,
+        "explanation": "The president of the royal council (Rajaparishad) was called 'Mahapradhani'.",
+        "explanationHindi": "राजपरिषद् का अध्यक्ष 'महाप्रधानी' होता था।"
+      },
+      {
+        "type": "normal",
+        "question": "The administrative unit 'Nadu' in Vijayanagara corresponds to:",
+        "questionHindi": "विजयनगर में 'नाडु' प्रशासनिक इकाई किसके समतुल्य थी?",
+        "options": [
+          "Village",
+          "Pargana",
+          "District",
+          "Province"
+        ],
+        "optionsHindi": [
+          "ग्राम",
+          "परगना",
+          "जिला",
+          "प्रान्त"
+        ],
+        "answer": 1,
+        "explanation": "In Vijayanagara, 'Nadu' corresponded to a Pargana.",
+        "explanationHindi": "विजयनगर में 'नाडु' (परगना) के समतुल्य था।"
+      },
+      {
+        "type": "normal",
+        "question": "The land grants given to Nayaks in Vijayanagara were called:",
+        "questionHindi": "विजयनगर में नायकों को दी जाने वाली भूमि-अनुदान को क्या कहा जाता था?",
+        "options": [
+          "Inam",
+          "Amaram",
+          "Jagir",
+          "Mansab"
+        ],
+        "optionsHindi": [
+          "इनाम",
+          "अमरम्",
+          "जागीर",
+          "मनसब"
+        ],
+        "answer": 1,
+        "explanation": "The land grants given to Nayaks for military service were called 'Amaram'.",
+        "explanationHindi": "नायकों को दी जाने वाली विशेष भू-खण्डों को 'अमरम्' कहा जाता था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Portuguese traveler visited Vijayanagara during the reign of Krishnadeva Raya?",
+        "questionHindi": "कौन-सा पुर्तगाली यात्री कृष्णदेव राय के शासनकाल में विजयनगर आया था?",
+        "options": [
+          "Domingo Paes",
+          "Nuniz",
+          "Barbosa",
+          "Abdur Razzak"
+        ],
+        "optionsHindi": [
+          "डोमिंगो पायस",
+          "नुनिज",
+          "बारबोसा",
+          "अब्दुर रज्जाक"
+        ],
+        "answer": 0,
+        "explanation": "The Portuguese traveler Domingo Paes visited Vijayanagara during the reign of Krishnadeva Raya.",
+        "explanationHindi": "पुर्तगाली यात्री डोमिंगो पायस कृष्णदेव राय के शासनकाल में विजयनगर आया था।"
+      }
+    ]
+  }
+]
