@@ -1,0 +1,328 @@
+[
+  {
+    "id": "history10",
+    "title": "गांधी युग (Gandhian Era 1917-1947)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Who did Gandhiji consider his 'political guru'?",
+        "questionHindi": "गांधी जी ने किसे अपना 'राजनीतिक गुरु' माना?",
+        "options": [
+          "Bal Gangadhar Tilak",
+          "Gopal Krishna Gokhale",
+          "Dadabhai Naoroji",
+          "Pherozeshah Mehta"
+        ],
+        "optionsHindi": [
+          "बाल गंगाधर तिलक",
+          "गोपाल कृष्ण गोखले",
+          "दादाभाई नौरोजी",
+          "फिरोजशाह मेहता"
+        ],
+        "answer": 1,
+        "explanation": "Gandhiji considered Gopal Krishna Gokhale as his 'political guru'.",
+        "explanationHindi": "गांधी जी ने गोपाल कृष्ण गोखले को अपना 'राजनीतिक गुरु' माना।"
+      },
+      {
+        "type": "normal",
+        "question": "The Rowlatt Act is also known as:",
+        "questionHindi": "रौलेट एक्ट को किस नाम से भी जाना जाता है?",
+        "options": [
+          "Black Act",
+          "White Act",
+          "Press Act",
+          "Arms Act"
+        ],
+        "optionsHindi": [
+          "काला कानून",
+          "श्वेत कानून",
+          "प्रेस कानून",
+          "शस्त्र कानून"
+        ],
+        "answer": 0,
+        "explanation": "The Rowlatt Act is also known as the 'Black Act'.",
+        "explanationHindi": "रौलेट एक्ट को 'काला कानून' भी कहा जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Gandhiji's first experiment with Satyagraha in India was at:",
+        "questionHindi": "गांधी जी का भारत में सत्याग्रह का पहला प्रयोग कहाँ हुआ?",
+        "options": [
+          "Ahmedabad",
+          "Kheda",
+          "Champaran",
+          "Dandi"
+        ],
+        "optionsHindi": [
+          "अहमदाबाद",
+          "खेड़ा",
+          "चम्पारण",
+          "डांडी"
+        ],
+        "answer": 2,
+        "explanation": "Gandhiji's first experiment with Satyagraha in India was at Champaran in 1917.",
+        "explanationHindi": "गांधी जी का भारत में सत्याग्रह का पहला प्रयोग 1917 में चम्पारण में हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "The Jallianwala Bagh massacre occurred on:",
+        "questionHindi": "जलियाँवाला बाग हत्याकांड कब हुआ?",
+        "options": [
+          "10 April 1919",
+          "12 April 1919",
+          "13 April 1919",
+          "15 April 1919"
+        ],
+        "optionsHindi": [
+          "10 अप्रैल 1919",
+          "12 अप्रैल 1919",
+          "13 अप्रैल 1919",
+          "15 अप्रैल 1919"
+        ],
+        "answer": 2,
+        "explanation": "The Jallianwala Bagh massacre occurred on 13 April 1919.",
+        "explanationHindi": "जलियाँवाला बाग हत्याकांड 13 अप्रैल 1919 को हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "Who returned the title 'Knight and Sir' in protest against the Jallianwala Bagh massacre?",
+        "questionHindi": "जलियाँवाला बाग हत्याकांड के विरोध में किसने 'नाइट और सर' की उपाधि वापस की?",
+        "options": [
+          "Rabindranath Tagore",
+          "Shankar Tawar",
+          "Ambedkar",
+          "Motilal Nehru"
+        ],
+        "optionsHindi": [
+          "रवीन्द्रनाथ टैगोर",
+          "शंकर तावर",
+          "अम्बेडकर",
+          "मोतीलाल नेहरू"
+        ],
+        "answer": 0,
+        "explanation": "Rabindranath Tagore returned his 'Knighthood and Sir' title in protest against the Jallianwala Bagh massacre.",
+        "explanationHindi": "जलियाँवाला बाग हत्याकांड के विरोध में रवीन्द्रनाथ टैगोर ने 'नाइट और सर' की उपाधि वापस कर दी।"
+      },
+      {
+        "type": "normal",
+        "question": "Gandhiji's first hunger strike in India was during which movement?",
+        "questionHindi": "गांधी जी का भारत में पहला अनशन किस आंदोलन के दौरान था?",
+        "options": [
+          "Champaran",
+          "Ahmedabad Mill Strike",
+          "Kheda",
+          "Non-Cooperation"
+        ],
+        "optionsHindi": [
+          "चम्पारण",
+          "अहमदाबाद मिल हड़ताल",
+          "खेड़ा",
+          "असहयोग"
+        ],
+        "answer": 1,
+        "explanation": "Gandhiji's first hunger strike in India was during the Ahmedabad Mill Strike in March 1918.",
+        "explanationHindi": "गांधी जी का भारत में पहला अनशन मार्च 1918 में अहमदाबाद मिल हड़ताल के दौरान था।"
+      },
+      {
+        "type": "normal",
+        "question": "The Non-Cooperation Movement was started by Gandhiji on:",
+        "questionHindi": "असहयोग आंदोलन गांधी जी ने कब शुरू किया?",
+        "options": [
+          "1 August 1920",
+          "1 August 1921",
+          "1 August 1922",
+          "1 August 1919"
+        ],
+        "optionsHindi": [
+          "1 अगस्त 1920",
+          "1 अगस्त 1921",
+          "1 अगस्त 1922",
+          "1 अगस्त 1919"
+        ],
+        "answer": 0,
+        "explanation": "Gandhiji started the Non-Cooperation Movement on 1 August 1920.",
+        "explanationHindi": "गांधी जी ने असहयोग आंदोलन 1 अगस्त 1920 को शुरू किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The Chauri Chaura incident occurred on:",
+        "questionHindi": "चौरी-चौरा कांड कब हुआ?",
+        "options": [
+          "5 February 1921",
+          "5 February 1922",
+          "5 February 1923",
+          "5 February 1924"
+        ],
+        "optionsHindi": [
+          "5 फरवरी 1921",
+          "5 फरवरी 1922",
+          "5 फरवरी 1923",
+          "5 फरवरी 1924"
+        ],
+        "answer": 1,
+        "explanation": "The Chauri Chaura incident occurred on 5 February 1922.",
+        "explanationHindi": "चौरी-चौरा कांड 5 फरवरी 1922 को हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "The Swaraj Party was founded by:",
+        "questionHindi": "स्वराज पार्टी की स्थापना किसने की?",
+        "options": [
+          "Motilal Nehru and C.R. Das",
+          "Jawaharlal Nehru and Gandhi",
+          "Tilak and Gokhale",
+          "Ambedkar and Gandhi"
+        ],
+        "optionsHindi": [
+          "मोतीलाल नेहरू और सी.आर. दास",
+          "जवाहरलाल नेहरू और गांधी",
+          "तिलक और गोखले",
+          "अम्बेडकर और गांधी"
+        ],
+        "answer": 0,
+        "explanation": "The Swaraj Party was founded by Motilal Nehru and C.R. Das in 1923.",
+        "explanationHindi": "स्वराज पार्टी की स्थापना 1923 में मोतीलाल नेहरू और सी.आर. दास ने की।"
+      },
+      {
+        "type": "normal",
+        "question": "The famous slogans 'Inquilab Zindabad' was first raised by:",
+        "questionHindi": "प्रसिद्ध नारा 'इंकलाब जिंदाबाद' सबसे पहले किसने दिया?",
+        "options": [
+          "Bhagat Singh",
+          "Mohammad Iqbal",
+          "Subhash Chandra Bose",
+          "Chandrashekhar Azad"
+        ],
+        "optionsHindi": [
+          "भगत सिंह",
+          "मोहम्मद इकबाल",
+          "सुभाष चन्द्र बोस",
+          "चन्द्रशेखर आज़ाद"
+        ],
+        "answer": 1,
+        "explanation": "The famous slogan 'Inquilab Zindabad' was first raised by Mohammad Iqbal.",
+        "explanationHindi": "प्रसिद्ध नारा 'इंकलाब जिंदाबाद' पहली बार मोहम्मद इकबाल ने दिया था।"
+      },
+      {
+        "type": "normal",
+        "question": "The Dandi March was started from Sabarmati Ashram on:",
+        "questionHindi": "डांडी मार्च साबरमती आश्रम से कब शुरू किया गया?",
+        "options": [
+          "12 March 1930",
+          "12 March 1931",
+          "5 April 1930",
+          "5 April 1931"
+        ],
+        "optionsHindi": [
+          "12 मार्च 1930",
+          "12 मार्च 1931",
+          "5 अप्रैल 1930",
+          "5 अप्रैल 1931"
+        ],
+        "answer": 0,
+        "explanation": "Gandhiji started the Dandi March from Sabarmati Ashram on 12 March 1930.",
+        "explanationHindi": "गांधी जी ने डांडी मार्च 12 मार्च 1930 को साबरमती आश्रम से शुरू किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The Civil Disobedience Movement was launched after the Dandi March on:",
+        "questionHindi": "सविनय अवज्ञा आंदोलन डांडी मार्च के बाद कब शुरू हुआ?",
+        "options": [
+          "12 March 1930",
+          "6 April 1930",
+          "5 April 1930",
+          "8 April 1930"
+        ],
+        "optionsHindi": [
+          "12 मार्च 1930",
+          "6 अप्रैल 1930",
+          "5 अप्रैल 1930",
+          "8 अप्रैल 1930"
+        ],
+        "answer": 1,
+        "explanation": "The Civil Disobedience Movement was launched on 6 April 1930 after Gandhiji broke the salt law at Dandi on 5 April 1930.",
+        "explanationHindi": "सविनय अवज्ञा आंदोलन 6 अप्रैल 1930 को शुरू हुआ जब गांधी जी ने 5 अप्रैल 1930 को डांडी में नमक कानून तोड़ा।"
+      },
+      {
+        "type": "normal",
+        "question": "The Communal Award was announced by:",
+        "questionHindi": "साम्प्रदायिक पंचाट किसने घोषित किया?",
+        "options": [
+          "Lord Irwin",
+          "Ramsay MacDonald",
+          "Winston Churchill",
+          "Lord Linlithgow"
+        ],
+        "optionsHindi": [
+          "लॉर्ड इरविन",
+          "रैम्जे मैकडोनाल्ड",
+          "विंस्टन चर्चिल",
+          "लॉर्ड लिनलिथगो"
+        ],
+        "answer": 1,
+        "explanation": "The Communal Award was announced by British Prime Minister Ramsay MacDonald on 18 August 1932.",
+        "explanationHindi": "साम्प्रदायिक पंचाट ब्रिटिश प्रधानमंत्री रैम्जे मैकडोनाल्ड ने 18 अगस्त 1932 को घोषित किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The Poona Pact was signed between Gandhi and:",
+        "questionHindi": "पूना समझौते पर गांधी और किसके बीच हस्ताक्षर हुए?",
+        "options": [
+          "B.R. Ambedkar",
+          "M.A. Jinnah",
+          "Rajagopalachari",
+          "Madan Mohan Malaviya"
+        ],
+        "optionsHindi": [
+          "बी.आर. अम्बेडकर",
+          "एम.ए. जिन्ना",
+          "राजगोपालाचारी",
+          "मदनमोहन मालवीय"
+        ],
+        "answer": 0,
+        "explanation": "The Poona Pact was signed between Gandhi and B.R. Ambedkar in September 1932.",
+        "explanationHindi": "पूना समझौता सितम्बर 1932 में गांधी और बी.आर. अम्बेडकर के बीच हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "The famous slogan 'Quit India' was given by:",
+        "questionHindi": "प्रसिद्ध नारा 'भारत छोड़ो' किसने दिया?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Subhash Chandra Bose",
+          "Yusuf Meherally"
+        ],
+        "optionsHindi": [
+          "महात्मा गांधी",
+          "जवाहरलाल नेहरू",
+          "सुभाष चन्द्र बोस",
+          "यूसुफ मेहरअली"
+        ],
+        "answer": 3,
+        "explanation": "The famous slogan 'Quit India' was coined by Yusuf Meherally, a socialist leader.",
+        "explanationHindi": "प्रसिद्ध नारा 'भारत छोड़ो' समाजवादी नेता यूसुफ मेहरअली ने गढ़ा था।"
+      },
+      {
+        "type": "normal",
+        "question": "Netaji Subhash Chandra Bose first joined the Congress in which year?",
+        "questionHindi": "नेताजी सुभाष चन्द्र बोस कांग्रेस में किस वर्ष शामिल हुए?",
+        "options": [
+          "1919",
+          "1921",
+          "1923",
+          "1930"
+        ],
+        "optionsHindi": [
+          "1919",
+          "1921",
+          "1923",
+          "1930"
+        ],
+        "answer": 1,
+        "explanation": "Subhash Chandra Bose joined the Congress in 1921 under the inspiration of Gandhi and C.R. Das.",
+        "explanationHindi": "सुभाष चन्द्र बोस 1921 में गांधी और सी.आर. दास की प्रेरणा से कांग्रेस में शामिल हुए।"
+      }
+    ]
+  }
+]
