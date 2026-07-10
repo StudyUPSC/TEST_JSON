@@ -1,0 +1,328 @@
+[
+  {
+    "id": "history11",
+    "title": "ब्रिटिश प्रशासनिक अधिनियम (British Administrative Acts)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Who became the first Governor-General of India under the Regulating Act 1773?",
+        "questionHindi": "रेग्युलेटिंग एक्ट 1773 के तहत भारत का पहला गवर्नर जनरल कौन बना?",
+        "options": [
+          "Lord Wellesley",
+          "Lord Warren Hastings",
+          "Lord William Bentinck",
+          "Lord Cornwallis"
+        ],
+        "optionsHindi": [
+          "लॉर्ड वेलेस्ली",
+          "लॉर्ड वारेन हेस्टिंग्स",
+          "लॉर्ड विलियम बेंटिंक",
+          "लॉर्ड कार्नवालिस"
+        ],
+        "answer": 1,
+        "explanation": "Under the Regulating Act of 1773, Lord Warren Hastings became the first Governor-General of India.",
+        "explanationHindi": "रेग्युलेटिंग एक्ट 1773 के तहत लॉर्ड वारेन हेस्टिंग्स भारत के पहले गवर्नर जनरल बने।"
+      },
+      {
+        "type": "normal",
+        "question": "The Supreme Court was established in Calcutta through which Act?",
+        "questionHindi": "सुप्रीम कोर्ट की स्थापना कलकत्ता में किस अधिनियम के द्वारा हुई?",
+        "options": [
+          "Pitts India Act 1784",
+          "Regulating Act 1773",
+          "Charter Act 1813",
+          "Charter Act 1853"
+        ],
+        "optionsHindi": [
+          "पिट्स इंडिया एक्ट 1784",
+          "रेग्युलेटिंग एक्ट 1773",
+          "चार्टर एक्ट 1813",
+          "चार्टर एक्ट 1853"
+        ],
+        "answer": 1,
+        "explanation": "The Supreme Court was established in Calcutta through the Regulating Act of 1773.",
+        "explanationHindi": "सुप्रीम कोर्ट की स्थापना कलकत्ता में रेग्युलेटिंग एक्ट 1773 के द्वारा हुई।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Act ended the trade monopoly of the East India Company with India?",
+        "questionHindi": "किस अधिनियम ने भारत के साथ ईस्ट इंडिया कंपनी के व्यापारिक एकाधिकार को समाप्त किया?",
+        "options": [
+          "Charter Act 1813",
+          "Charter Act 1833",
+          "Charter Act 1853",
+          "Pitts India Act 1784"
+        ],
+        "optionsHindi": [
+          "चार्टर एक्ट 1813",
+          "चार्टर एक्ट 1833",
+          "चार्टर एक्ट 1853",
+          "पिट्स इंडिया एक्ट 1784"
+        ],
+        "answer": 0,
+        "explanation": "The Charter Act of 1813 ended the East India Company's trade monopoly with India.",
+        "explanationHindi": "चार्टर एक्ट 1813 ने भारत के साथ ईस्ट इंडिया कंपनी के व्यापारिक एकाधिकार को समाप्त कर दिया।"
+      },
+      {
+        "type": "normal",
+        "question": "The Charter Act of 1833 made the Governor General of Bengal the:",
+        "questionHindi": "चार्टर एक्ट 1833 ने बंगाल के गवर्नर जनरल को क्या बना दिया?",
+        "options": [
+          "Viceroy of India",
+          "Governor General of India",
+          "Commander-in-Chief",
+          "Secretary of State"
+        ],
+        "optionsHindi": [
+          "भारत का वायसराय",
+          "भारत का गवर्नर जनरल",
+          "सेना का सर्वोच्च सेनापति",
+          "भारत सचिव"
+        ],
+        "answer": 1,
+        "explanation": "The Charter Act of 1833 converted the Governor General of Bengal into the Governor General of India.",
+        "explanationHindi": "चार्टर एक्ट 1833 ने बंगाल के गवर्नर जनरल को भारत के गवर्नर जनरल में परिवर्तित कर दिया।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Act led to the establishment of the Board of Control?",
+        "questionHindi": "किस अधिनियम के माध्यम से बोर्ड ऑफ कंट्रोल की स्थापना हुई?",
+        "options": [
+          "Regulating Act 1773",
+          "Pitts India Act 1784",
+          "Charter Act 1833",
+          "Government of India Act 1858"
+        ],
+        "optionsHindi": [
+          "रेग्युलेटिंग एक्ट 1773",
+          "पिट्स इंडिया एक्ट 1784",
+          "चार्टर एक्ट 1833",
+          "भारत शासन अधिनियम 1858"
+        ],
+        "answer": 1,
+        "explanation": "The Pitts India Act of 1784 established the Board of Control to strengthen parliamentary control over the Company.",
+        "explanationHindi": "पिट्स इंडिया एक्ट 1784 ने कंपनी पर ब्रिटिश संसद के नियंत्रण को मजबूत करने के लिए बोर्ड ऑफ कंट्रोल की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "The Charter Act of 1853 introduced which system for civil service selection?",
+        "questionHindi": "चार्टर एक्ट 1853 ने सिविल सेवा चयन के लिए कौन-सी प्रणाली शुरू की?",
+        "options": [
+          "Nomination by Directors",
+          "Competitive examination",
+          "Appointment by Governor General",
+          "Selection by British Parliament"
+        ],
+        "optionsHindi": [
+          "निदेशकों द्वारा मनोनयन",
+          "प्रतियोगी परीक्षा",
+          "गवर्नर जनरल द्वारा नियुक्ति",
+          "ब्रिटिश संसद द्वारा चयन"
+        ],
+        "answer": 1,
+        "explanation": "The Charter Act of 1853 introduced competitive examination for civil service selection.",
+        "explanationHindi": "चार्टर एक्ट 1853 ने सिविल सेवा चयन के लिए प्रतियोगी परीक्षा की शुरुआत की।"
+      },
+      {
+        "type": "normal",
+        "question": "The first Viceroy of India was:",
+        "questionHindi": "भारत का पहला वायसराय कौन था?",
+        "options": [
+          "Lord Canning",
+          "Lord Dalhousie",
+          "Lord William Bentinck",
+          "Lord Wellesley"
+        ],
+        "optionsHindi": [
+          "लॉर्ड कैनिंग",
+          "लॉर्ड डलहौजी",
+          "लॉर्ड विलियम बेंटिंक",
+          "लॉर्ड वेलेस्ली"
+        ],
+        "answer": 0,
+        "explanation": "Lord Canning became the first Viceroy of India under the Government of India Act 1858.",
+        "explanationHindi": "लॉर्ड कैनिंग भारत शासन अधिनियम 1858 के तहत भारत के पहले वायसराय बने।"
+      },
+      {
+        "type": "normal",
+        "question": "The Government of India Act 1858 transferred the administration of India from:",
+        "questionHindi": "भारत शासन अधिनियम 1858 ने भारत का प्रशासन किससे किसके पास स्थानांतरित किया?",
+        "options": [
+          "Crown to Company",
+          "Company to Crown",
+          "Parliament to Crown",
+          "Governor General to Crown"
+        ],
+        "optionsHindi": [
+          "क्राउन से कंपनी के पास",
+          "कंपनी से क्राउन के पास",
+          "संसद से क्राउन के पास",
+          "गवर्नर जनरल से क्राउन के पास"
+        ],
+        "answer": 1,
+        "explanation": "The Government of India Act 1858 transferred the administration from the East India Company to the British Crown.",
+        "explanationHindi": "भारत शासन अधिनियम 1858 ने भारतीय प्रशासन का ईस्ट इंडिया कंपनी से ब्रिटिश क्राउन के पास हस्तांतरण किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The Morley-Minto Act of 1909 is also known as:",
+        "questionHindi": "मॉर्ले-मिंटो एक्ट 1909 को किस नाम से भी जाना जाता है?",
+        "options": [
+          "Government of India Act 1909",
+          "Council Act 1909",
+          "Indian Councils Act 1909",
+          "Both B and C"
+        ],
+        "optionsHindi": [
+          "भारत शासन अधिनियम 1909",
+          "कौंसिल एक्ट 1909",
+          "इंडियन कौंसिल एक्ट 1909",
+          "B और C दोनों"
+        ],
+        "answer": 3,
+        "explanation": "The Morley-Minto Act of 1909 is also known as the Council Act 1909 or Indian Councils Act 1909.",
+        "explanationHindi": "मॉर्ले-मिंटो एक्ट 1909 को कौंसिल एक्ट 1909 या इंडियन कौंसिल एक्ट 1909 के नाम से भी जाना जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Act introduced separate electorates for Muslims?",
+        "questionHindi": "किस अधिनियम ने मुसलमानों के लिए पृथक निर्वाचन की व्यवस्था की?",
+        "options": [
+          "Government of India Act 1919",
+          "Government of India Act 1935",
+          "Council Act 1909",
+          "Charter Act 1853"
+        ],
+        "optionsHindi": [
+          "भारत शासन अधिनियम 1919",
+          "भारत शासन अधिनियम 1935",
+          "कौंसिल एक्ट 1909",
+          "चार्टर एक्ट 1853"
+        ],
+        "answer": 2,
+        "explanation": "The Council Act of 1909 (Morley-Minto Act) introduced separate electorates for Muslims.",
+        "explanationHindi": "कौंसिल एक्ट 1909 (मॉर्ले-मिंटो एक्ट) ने मुसलमानों के लिए पृथक निर्वाचन की व्यवस्था की।"
+      },
+      {
+        "type": "normal",
+        "question": "The Government of India Act 1919 is also known as:",
+        "questionHindi": "भारत शासन अधिनियम 1919 को किस नाम से भी जाना जाता है?",
+        "options": [
+          "Morley-Minto Reforms",
+          "Montague-Chelmsford Reforms",
+          "Minto-Chelmsford Reforms",
+          "Rowlatt Reforms"
+        ],
+        "optionsHindi": [
+          "मॉर्ले-मिंटो सुधार",
+          "मोंटेग्यू-चेम्सफोर्ड सुधार",
+          "मिंटो-चेम्सफोर्ड सुधार",
+          "रौलेट सुधार"
+        ],
+        "answer": 1,
+        "explanation": "The Government of India Act 1919 is known as the Montague-Chelmsford Reforms.",
+        "explanationHindi": "भारत शासन अधिनियम 1919 को मोंटेग्यू-चेम्सफोर्ड सुधार के नाम से जाना जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Act introduced Diarchy in provinces?",
+        "questionHindi": "किस अधिनियम ने प्रांतों में द्वैध शासन (डायआर्की) की शुरुआत की?",
+        "options": [
+          "Government of India Act 1919",
+          "Government of India Act 1935",
+          "Council Act 1909",
+          "Charter Act 1853"
+        ],
+        "optionsHindi": [
+          "भारत शासन अधिनियम 1919",
+          "भारत शासन अधिनियम 1935",
+          "कौंसिल एक्ट 1909",
+          "चार्टर एक्ट 1853"
+        ],
+        "answer": 0,
+        "explanation": "The Government of India Act 1919 introduced Diarchy (dual government) in provinces.",
+        "explanationHindi": "भारत शासन अधिनियम 1919 ने प्रांतों में द्वैध शासन (डायआर्की) लागू किया।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Act separated Burma from India?",
+        "questionHindi": "किस अधिनियम ने बर्मा को भारत से अलग कर दिया?",
+        "options": [
+          "Government of India Act 1919",
+          "Government of India Act 1935",
+          "Charter Act 1853",
+          "Indian Independence Act 1947"
+        ],
+        "optionsHindi": [
+          "भारत शासन अधिनियम 1919",
+          "भारत शासन अधिनियम 1935",
+          "चार्टर एक्ट 1853",
+          "भारतीय स्वतंत्रता अधिनियम 1947"
+        ],
+        "answer": 1,
+        "explanation": "The Government of India Act 1935 separated Burma from India.",
+        "explanationHindi": "भारत शासन अधिनियम 1935 के द्वारा बर्मा को भारत से अलग कर दिया गया।"
+      },
+      {
+        "type": "normal",
+        "question": "Who compared the Government of India Act 1935 to a 'bullock cart with brakes'?",
+        "questionHindi": "किसने भारत शासन अधिनियम 1935 की तुलना 'ब्रेक वाली गाड़ी' से की?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Subhash Chandra Bose",
+          "BR Ambedkar"
+        ],
+        "optionsHindi": [
+          "महात्मा गांधी",
+          "जवाहरलाल नेहरू",
+          "सुभाष चन्द्र बोस",
+          "बी.आर. अम्बेडकर"
+        ],
+        "answer": 1,
+        "explanation": "Jawaharlal Nehru compared the Government of India Act 1935 to a car with brakes but no engine.",
+        "explanationHindi": "जवाहरलाल नेहरू ने 1935 के अधिनियम की तुलना एक ऐसी गाड़ी से की जिसमें ब्रेक तो कई हैं, परंतु इंजन एक भी नहीं।"
+      },
+      {
+        "type": "normal",
+        "question": "The Indian Independence Act 1947 was passed by the British Parliament on:",
+        "questionHindi": "भारतीय स्वतंत्रता अधिनियम 1947 ब्रिटिश संसद द्वारा कब पारित किया गया?",
+        "options": [
+          "15 August 1947",
+          "4 July 1947",
+          "20 July 1947",
+          "18 July 1947"
+        ],
+        "optionsHindi": [
+          "15 अगस्त 1947",
+          "4 जुलाई 1947",
+          "20 जुलाई 1947",
+          "18 जुलाई 1947"
+        ],
+        "answer": 1,
+        "explanation": "The Indian Independence Act 1947 was passed by the British Parliament on 4 July 1947.",
+        "explanationHindi": "भारतीय स्वतंत्रता अधिनियम 1947 ब्रिटिश संसद द्वारा 4 जुलाई 1947 को पारित किया गया।"
+      },
+      {
+        "type": "normal",
+        "question": "Under the Indian Independence Act 1947, princely states were given freedom to:",
+        "questionHindi": "भारतीय स्वतंत्रता अधिनियम 1947 के तहत, देशी रियासतों को क्या स्वतंत्रता दी गई?",
+        "options": [
+          "Become independent nations",
+          "Join either India or Pakistan",
+          "Remain under British protection",
+          "Form their own federation"
+        ],
+        "optionsHindi": [
+          "स्वतंत्र राष्ट्र बनने की",
+          "भारत या पाकिस्तान में शामिल होने की",
+          "ब्रिटिश संरक्षण में रहने की",
+          "अपना स्वयं का संघ बनाने की"
+        ],
+        "answer": 1,
+        "explanation": "Under the Indian Independence Act 1947, princely states were given freedom to join either India or Pakistan.",
+        "explanationHindi": "भारतीय स्वतंत्रता अधिनियम 1947 के तहत, देशी रियासतों को भारत या पाकिस्तान में शामिल होने की स्वतंत्रता दी गई।"
+      }
+    ]
+  }
+]
