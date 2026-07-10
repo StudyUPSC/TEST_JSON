@@ -1,0 +1,248 @@
+[
+  {
+    "id": "physics1",
+    "title": "Physics - Gravitation",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Newton's law of gravitation states that the force between two bodies is directly proportional to:",
+        "questionHindi": "न्यूटन के गुरुत्वाकर्षण नियम के अनुसार दो पिंडों के बीच बल किसके समानुपाती होता है?",
+        "options": [
+          "Product of their masses",
+          "Sum of their masses",
+          "Square of distance between them",
+          "Difference of their masses"
+        ],
+        "optionsHindi": [
+          "उनके द्रव्यमानों के गुणनफल के",
+          "उनके द्रव्यमानों के योग के",
+          "उनके बीच की दूरी के वर्ग के",
+          "उनके द्रव्यमानों के अंतर के"
+        ],
+        "answer": 0,
+        "explanation": "According to Newton's law, force is directly proportional to the product of the masses of the two bodies.",
+        "explanationHindi": "न्यूटन के नियम के अनुसार, बल दोनों पिंडों के द्रव्यमानों के गुणनफल के समानुपाती होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "What is the value of the universal gravitational constant (G)?",
+        "questionHindi": "सार्वत्रिक गुरुत्वाकर्षण नियतांक (G) का मान क्या है?",
+        "options": [
+          "6.67 × 10⁻¹¹ Nm²/kg²",
+          "9.8 m/s²",
+          "6.67 × 10⁻⁸ Nm²/kg²",
+          "9.8 Nm²/kg²"
+        ],
+        "optionsHindi": [
+          "6.67 × 10⁻¹¹ Nm²/kg²",
+          "9.8 m/s²",
+          "6.67 × 10⁻⁸ Nm²/kg²",
+          "9.8 Nm²/kg²"
+        ],
+        "answer": 0,
+        "explanation": "The value of universal gravitational constant G is 6.67 × 10⁻¹¹ Nm²/kg².",
+        "explanationHindi": "सार्वत्रिक गुरुत्वाकर्षण नियतांक G का मान 6.67 × 10⁻¹¹ Nm²/kg² होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Gravitational force is a:",
+        "questionHindi": "गुरुत्वाकर्षण बल एक ______ बल है।",
+        "options": [
+          "Strong force",
+          "Weak force",
+          "Electromagnetic force",
+          "Nuclear force"
+        ],
+        "optionsHindi": [
+          "प्रबल",
+          "दुर्बल",
+          "विद्युत-चुंबकीय",
+          "नाभिकीय"
+        ],
+        "answer": 1,
+        "explanation": "Gravitational force is the weakest among all fundamental forces, with a relative strength of 10⁻¹¹.",
+        "explanationHindi": "गुरुत्वाकर्षण बल सभी मूल बलों में सबसे दुर्बल है, जिसकी आपेक्षिक प्रबलता 10⁻¹¹ है।"
+      },
+      {
+        "type": "normal",
+        "question": "The acceleration due to gravity (g) is maximum at:",
+        "questionHindi": "गुरुत्व जनित त्वरण (g) का मान कहाँ अधिकतम होता है?",
+        "options": [
+          "Equator",
+          "Poles",
+          "Center of the Earth",
+          "Mount Everest"
+        ],
+        "optionsHindi": [
+          "विषुवत रेखा पर",
+          "ध्रुवों पर",
+          "पृथ्वी के केंद्र पर",
+          "माउंट एवरेस्ट पर"
+        ],
+        "answer": 1,
+        "explanation": "The value of 'g' is maximum at the poles of the Earth.",
+        "explanationHindi": "'g' का मान पृथ्वी के ध्रुवों (पोल्स) पर अधिकतम होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "If a lift is moving upward with uniform velocity, the weight of a body inside it appears:",
+        "questionHindi": "यदि लिफ्ट एक समान वेग से ऊपर जा रही है, तो उसमें स्थित पिंड का भार कैसा प्रतीत होता है?",
+        "options": [
+          "Increased",
+          "Decreased",
+          "Unchanged",
+          "Zero"
+        ],
+        "optionsHindi": [
+          "बढ़ा हुआ",
+          "घटा हुआ",
+          "अपरिवर्तित",
+          "शून्य"
+        ],
+        "answer": 2,
+        "explanation": "When the lift moves with uniform velocity (up or down), there is no change in the apparent weight of the body.",
+        "explanationHindi": "जब लिफ्ट एक समान वेग से गति करती है (ऊपर या नीचे), तो पिंड के भार में कोई परिवर्तन प्रतीत नहीं होता।"
+      },
+      {
+        "type": "normal",
+        "question": "If the string of a lift going down breaks, the weight of a body inside it becomes:",
+        "questionHindi": "यदि नीचे जा रही लिफ्ट की डोरी टूट जाए, तो उसमें स्थित पिंड का भार क्या हो जाता है?",
+        "options": [
+          "Double",
+          "Half",
+          "Zero",
+          "Infinite"
+        ],
+        "optionsHindi": [
+          "दोगुना",
+          "आधा",
+          "शून्य",
+          "अनंत"
+        ],
+        "answer": 2,
+        "explanation": "If the lift cord breaks while descending, it falls freely. The body inside experiences weightlessness (weight = 0).",
+        "explanationHindi": "यदि नीचे उतरते समय लिफ्ट की डोरी टूट जाए तो वह मुक्त पिंड की भाँति गिरती है। ऐसी स्थिति में पिंड का भार शून्य हो जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Kepler's second law states that the areal velocity of a planet is:",
+        "questionHindi": "केप्लर का दूसरा नियम कहता है कि ग्रह का क्षेत्रीय वेग ______ होता है।",
+        "options": [
+          "Constant",
+          "Increasing",
+          "Decreasing",
+          "Zero"
+        ],
+        "optionsHindi": [
+          "नियत",
+          "बढ़ता हुआ",
+          "घटता हुआ",
+          "शून्य"
+        ],
+        "answer": 0,
+        "explanation": "Kepler's second law states that the areal velocity (area swept per unit time) of a planet is constant.",
+        "explanationHindi": "केप्लर का दूसरा नियम कहता है कि ग्रह का क्षेत्रीय वेग नियत रहता है।"
+      },
+      {
+        "type": "normal",
+        "question": "According to Kepler's third law, the square of the orbital period (T) is proportional to:",
+        "questionHindi": "केप्लर के तीसरे नियम के अनुसार, परिक्रमण काल का वर्ग (T²) किसके अनुक्रमानुपाती होता है?",
+        "options": [
+          "Distance of planet (r)",
+          "Cube of distance (r³)",
+          "Square of distance (r²)",
+          "Fourth power of distance (r⁴)"
+        ],
+        "optionsHindi": [
+          "ग्रह की दूरी (r) के",
+          "दूरी के घन (r³) के",
+          "दूरी के वर्ग (r²) के",
+          "दूरी की चौथी घात (r⁴) के"
+        ],
+        "answer": 1,
+        "explanation": "Kepler's third law states that T² ∝ r³, where T is the orbital period and r is the average distance from the Sun.",
+        "explanationHindi": "केप्लर का तीसरा नियम कहता है कि T² ∝ r³, जहाँ T परिक्रमण काल है और r सूर्य से औसत दूरी है।"
+      },
+      {
+        "type": "normal",
+        "question": "The orbital speed of a satellite depends on:",
+        "questionHindi": "उपग्रह की कक्षीय चाल किस पर निर्भर करती है?",
+        "options": [
+          "Mass of the satellite",
+          "Height above the Earth's surface",
+          "Shape of the satellite",
+          "Volume of the satellite"
+        ],
+        "optionsHindi": [
+          "उपग्रह के द्रव्यमान पर",
+          "पृथ्वी तल से ऊँचाई पर",
+          "उपग्रह के आकार पर",
+          "उपग्रह के आयतन पर"
+        ],
+        "answer": 1,
+        "explanation": "Orbital speed of a satellite depends only on its height above the Earth's surface. It is independent of the satellite's mass.",
+        "explanationHindi": "उपग्रह की कक्षीय चाल केवल पृथ्वी तल से उसकी ऊँचाई पर निर्भर करती है। यह उपग्रह के द्रव्यमान पर निर्भर नहीं करती।"
+      },
+      {
+        "type": "normal",
+        "question": "The orbital period of a satellite is:",
+        "questionHindi": "उपग्रह का परिक्रमण काल ______ होता है।",
+        "options": [
+          "Independent of height",
+          "Directly proportional to height",
+          "Dependent only on height, independent of mass",
+          "Dependent on both mass and height"
+        ],
+        "optionsHindi": [
+          "ऊँचाई पर निर्भर नहीं",
+          "ऊँचाई के समानुपाती",
+          "केवल ऊँचाई पर निर्भर, द्रव्यमान पर नहीं",
+          "द्रव्यमान और ऊँचाई दोनों पर निर्भर"
+        ],
+        "answer": 2,
+        "explanation": "Orbital period of a satellite depends only on its height above the Earth, not on its mass.",
+        "explanationHindi": "उपग्रह का परिक्रमण काल केवल पृथ्वी तल से उसकी ऊँचाई पर निर्भर करता है, द्रव्यमान पर नहीं।"
+      },
+      {
+        "type": "normal",
+        "question": "A geostationary satellite is at what height from the Earth's surface?",
+        "questionHindi": "भू-स्थायी उपग्रह पृथ्वी तल से कितनी ऊँचाई पर स्थित होता है?",
+        "options": [
+          "1,000 km",
+          "10,000 km",
+          "36,000 km",
+          "50,000 km"
+        ],
+        "optionsHindi": [
+          "1,000 किमी",
+          "10,000 किमी",
+          "36,000 किमी",
+          "50,000 किमी"
+        ],
+        "answer": 2,
+        "explanation": "A geostationary satellite orbits at a height of approximately 36,000 km from the Earth's surface.",
+        "explanationHindi": "भू-स्थायी उपग्रह पृथ्वी तल से लगभग 36,000 किमी की ऊँचाई पर परिक्रमा करता है।"
+      },
+      {
+        "type": "normal",
+        "question": "What is the escape velocity from the Earth's surface?",
+        "questionHindi": "पृथ्वी तल से पलायन वेग का मान क्या है?",
+        "options": [
+          "8 km/s",
+          "11.2 km/s",
+          "9.8 m/s²",
+          "6.67 km/s"
+        ],
+        "optionsHindi": [
+          "8 km/s",
+          "11.2 km/s",
+          "9.8 m/s²",
+          "6.67 km/s"
+        ],
+        "answer": 1,
+        "explanation": "The escape velocity from the Earth's surface is 11.2 km/s.",
+        "explanationHindi": "पृथ्वी तल से पलायन वेग 11.2 km/s होता है।"
+      }
+    ]
+  }
+]
