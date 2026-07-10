@@ -1,0 +1,248 @@
+[
+  {
+    "id": "history3",
+    "title": "Ancient Indian History - Post-Mauryan Dynasties",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Who founded the Shunga dynasty in 185 BCE?",
+        "questionHindi": "185 ई. पू. में शूंग वंश की स्थापना किसने की?",
+        "options": [
+          "Vasudeva",
+          "Pushyamitra Shunga",
+          "Simuka",
+          "Gautamiputra Satakarni"
+        ],
+        "optionsHindi": [
+          "वसुदेव",
+          "पुष्प्यमित्र शूंग",
+          "सिमुक",
+          "गौतमीपूत्र शातकर्णी"
+        ],
+        "answer": 1,
+        "explanation": "Pushyamitra Shunga founded the Shunga dynasty in 185 BCE by killing the last Mauryan ruler Brihadratha.",
+        "explanationHindi": "पुष्प्यमित्र शूंग ने 185 ई. पू. में मौर्य शासक वृहद्रथ की हत्या कर शूंग वंश की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "Who was the priest who performed the Ashwamedha Yajna for Pushyamitra Shunga?",
+        "questionHindi": "पुष्प्यमित्र शूंग द्वारा कराए गए अश्वमेध यज्ञ के पुरोहित कौन थे?",
+        "options": [
+          "Kalidasa",
+          "Patanjali",
+          "Chanakya",
+          "Vasumitra"
+        ],
+        "optionsHindi": [
+          "कालिदास",
+          "पतंजलि",
+          "चाणक्य",
+          "वसुमित्र"
+        ],
+        "answer": 1,
+        "explanation": "Patanjali was the priest who performed the Ashwamedha Yajna for Pushyamitra Shunga.",
+        "explanationHindi": "पुष्प्यमित्र द्वारा कराए गए अश्वमेध यज्ञ के पुरोहित पतंजलि थे।"
+      },
+      {
+        "type": "normal",
+        "question": "The Kanva dynasty was established by:",
+        "questionHindi": "कण्व वंश की स्थापना किसने की?",
+        "options": [
+          "Vasudeva",
+          "Devabhuti",
+          "Simuka",
+          "Gautamiputra Satakarni"
+        ],
+        "optionsHindi": [
+          "वसुदेव",
+          "देवभूति",
+          "सिमुक",
+          "गौतमीपूत्र शातकर्णी"
+        ],
+        "answer": 0,
+        "explanation": "Vasudeva, an officer of the Shunga ruler Devabhuti, established the Kanva dynasty after getting Devabhuti killed.",
+        "explanationHindi": "शूंग शासक देवभूति के अधिकारी वसुदेव ने कण्व वंश की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "Who was the founder of the Satavahana dynasty?",
+        "questionHindi": "सातवाहन वंश का संस्थापक कौन था?",
+        "options": [
+          "Gautamiputra Satakarni",
+          "Vashishthiputra Pulumavi",
+          "Simuka",
+          "Yajna Sri Satakarni"
+        ],
+        "optionsHindi": [
+          "गौतमीपूत्र शातकर्णी",
+          "वशिष्ठीपूत्र पुलुमावी",
+          "सिमुक",
+          "यज्ञश्री शातकर्णी"
+        ],
+        "answer": 2,
+        "explanation": "Simuka was the founder of the Satavahana dynasty. His capital was at Pratishthana.",
+        "explanationHindi": "सातवाहन वंश का संस्थापक सिमुक था। इसकी राजधानी प्रतिष्ठान थी।"
+      },
+      {
+        "type": "normal",
+        "question": "The Satavahanas are referred to as ______ in the Puranas.",
+        "questionHindi": "पुराणों में सातवाहनों को ______ कहा गया है।",
+        "options": [
+          "Andhrabhrityas",
+          "Shakas",
+          "Yavanas",
+          "Kushanas"
+        ],
+        "optionsHindi": [
+          "आंध्रभृत्य",
+          "शक",
+          "यवन",
+          "कुषाण"
+        ],
+        "answer": 0,
+        "explanation": "In the Puranas, the Satavahanas are referred to as Andhrabhrityas.",
+        "explanationHindi": "पुराणों में सातवाहनों को आंध्रभृत्य कहा गया है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Kushana ruler is considered the most capable and started the Shaka Samvat in 78 CE?",
+        "questionHindi": "किस कुषाण शासक को सबसे योग्य माना जाता है और जिसने 78 ई. में शक संवत् की शुरुआत की?",
+        "options": [
+          "Kujula Kadphises",
+          "Vima Kadphises",
+          "Kanishka",
+          "Hermaios"
+        ],
+        "optionsHindi": [
+          "कुजुल कडफिसस",
+          "विम कडफिसस",
+          "कनिष्क",
+          "हर्मियस"
+        ],
+        "answer": 2,
+        "explanation": "Kanishka was the most capable Kushana ruler. He started the Shaka Samvat in 78 CE.",
+        "explanationHindi": "कनिष्क कुषाण शासकों में सबसे योग्य था। इसने 78 ई. में शक संवत् की शुरुआत की।"
+      },
+      {
+        "type": "normal",
+        "question": "During whose reign was the fourth Buddhist council held?",
+        "questionHindi": "किसके शासनकाल में चौथी बौद्ध संगीति का आयोजन हुआ?",
+        "options": [
+          "Ashoka",
+          "Kanishka",
+          "Harsha",
+          "Gautamiputra Satakarni"
+        ],
+        "optionsHindi": [
+          "अशोक",
+          "कनिष्क",
+          "हर्ष",
+          "गौतमीपूत्र शातकर्णी"
+        ],
+        "answer": 1,
+        "explanation": "The fourth Buddhist council was held during the reign of Kanishka.",
+        "explanationHindi": "कनिष्क के काल में चौथी बौद्ध संगीति का आयोजन हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "The Gandhara and Mathura art styles developed during the reign of:",
+        "questionHindi": "गांधार एवं मथुरा कला शैली का जन्म किसके शासनकाल में हुआ?",
+        "options": [
+          "Ashoka",
+          "Kanishka",
+          "Harsha",
+          "Samudragupta"
+        ],
+        "optionsHindi": [
+          "अशोक",
+          "कनिष्क",
+          "हर्ष",
+          "समुद्रगुप्त"
+        ],
+        "answer": 1,
+        "explanation": "The Gandhara and Mathura art styles developed during the reign of Kanishka.",
+        "explanationHindi": "कनिष्क के समय में गांधार एवं मथुरा कला शैली का जन्म हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "Gautamiputra Satakarni defeated which Shaka ruler?",
+        "questionHindi": "गौतमीपूत्र शातकर्णी ने किस शक शासक को पराजित किया?",
+        "options": [
+          "Rudradaman",
+          "Nahapana",
+          "Kanishka",
+          "Kujula Kadphises"
+        ],
+        "optionsHindi": [
+          "रुद्रदामन",
+          "नहपान",
+          "कनिष्क",
+          "कुजुल कडफिसस"
+        ],
+        "answer": 1,
+        "explanation": "Gautamiputra Satakarni defeated the Shaka ruler Nahapana.",
+        "explanationHindi": "गौतमीपूत्र शातकर्णी ने शक शासक नहपान को पराजित किया।"
+      },
+      {
+        "type": "normal",
+        "question": "Who was the founder of the Vakataka dynasty?",
+        "questionHindi": "वाकाटक वंश का संस्थापक कौन था?",
+        "options": [
+          "Vindhyashakti",
+          "Pravarsena I",
+          "Simuka",
+          "Vasudeva"
+        ],
+        "optionsHindi": [
+          "विंध्यशक्ति",
+          "प्रवरसेन I",
+          "सिमुक",
+          "वसुदेव"
+        ],
+        "answer": 0,
+        "explanation": "Vindhyashakti was the founder of the Vakataka dynasty. His original place was Berar (Vidarbha).",
+        "explanationHindi": "वाकाटक वंश का संस्थापक विंध्यशक्ति था, जिसका मूल स्थान बरार (विदर्भ) था।"
+      },
+      {
+        "type": "normal",
+        "question": "The inscription mentioning Vashishthiputra Pulumavi was found at:",
+        "questionHindi": "वशिष्ठीपूत्र पुलुमावी का उल्लेख किस अभिलेख में मिलता है?",
+        "options": [
+          "Nanaghat",
+          "Amaravati",
+          "Nasik",
+          "Junagarh"
+        ],
+        "optionsHindi": [
+          "नानाघाट",
+          "अमरावती",
+          "नासिक",
+          "जूनागढ़"
+        ],
+        "answer": 1,
+        "explanation": "Vashishthiputra Pulumavi is the only ruler mentioned in an inscription found at Amaravati.",
+        "explanationHindi": "वशिष्ठीपूत्र पुलुमावी एकमात्र शासक है, जिसका उल्लेख अमरावती से प्राप्त अभिलेख में हुआ है।"
+      },
+      {
+        "type": "normal",
+        "question": "The coins of Yajna Sri Satakarni depict:",
+        "questionHindi": "यज्ञश्री शातकर्णी के सिक्कों पर क्या अंकित है?",
+        "options": [
+          "Elephant",
+          "Ship",
+          "Horse",
+          "Lion"
+        ],
+        "optionsHindi": [
+          "हाथी",
+          "नाव",
+          "घोड़ा",
+          "शेर"
+        ],
+        "answer": 1,
+        "explanation": "The coins of Yajna Sri Satakarni depict a ship.",
+        "explanationHindi": "यज्ञश्री शातकर्णी के सिक्कों पर नाव का चित्र अंकित है।"
+      }
+    ]
+  }
+]
