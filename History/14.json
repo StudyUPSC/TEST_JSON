@@ -1,0 +1,328 @@
+[
+  {
+    "id": "art2",
+    "title": "भारतीय नृत्य एवं संगीत (Indian Dance & Music)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Which text is considered the foundational text of Indian classical dance?",
+        "questionHindi": "भारतीय शास्त्रीय नृत्य का आधार ग्रंथ किसे माना जाता है?",
+        "options": [
+          "Abhinaya Darpana",
+          "Brihaddeshi",
+          "Natyashastra",
+          "Sangeet Makarand"
+        ],
+        "optionsHindi": [
+          "अभिनय दर्पण",
+          "बृहद्देशी",
+          "नाट्यशास्त्र",
+          "संगीत मकरंद"
+        ],
+        "answer": 2,
+        "explanation": "Bharat Muni's 'Natyashastra' is considered the foundational text of Indian classical dance.",
+        "explanationHindi": "भरतमुनि का 'नाट्यशास्त्र' भारतीय शास्त्रीय नृत्य का आधार ग्रंथ माना जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "How many classical dance forms are officially recognized in India today?",
+        "questionHindi": "वर्तमान में भारत में कितने शास्त्रीय नृत्य आधिकारिक रूप से मान्यता प्राप्त हैं?",
+        "options": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "optionsHindi": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "answer": 2,
+        "explanation": "Currently, India has 8 officially recognized classical dance forms.",
+        "explanationHindi": "वर्तमान में भारत में कुल 8 शास्त्रीय नृत्य आधिकारिक रूप से मान्यता प्राप्त हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Bharatanatyam originated in which state?",
+        "questionHindi": "भरतनाट्यम की उत्पत्ति किस राज्य में हुई?",
+        "options": [
+          "Kerala",
+          "Tamil Nadu",
+          "Andhra Pradesh",
+          "Odisha"
+        ],
+        "optionsHindi": [
+          "केरल",
+          "तमिलनाडु",
+          "आंध्र प्रदेश",
+          "ओडिशा"
+        ],
+        "answer": 1,
+        "explanation": "Bharatanatyam originated in Tamil Nadu.",
+        "explanationHindi": "भरतनाट्यम की उत्पत्ति तमिलनाडु में हुई।"
+      },
+      {
+        "type": "normal",
+        "question": "Kathakali is a classical dance form from which state?",
+        "questionHindi": "कथकली किस राज्य का शास्त्रीय नृत्य है?",
+        "options": [
+          "Tamil Nadu",
+          "Kerala",
+          "Karnataka",
+          "Andhra Pradesh"
+        ],
+        "optionsHindi": [
+          "तमिलनाडु",
+          "केरल",
+          "कर्नाटक",
+          "आंध्र प्रदेश"
+        ],
+        "answer": 1,
+        "explanation": "Kathakali is a classical dance form from Kerala.",
+        "explanationHindi": "कथकली केरल का शास्त्रीय नृत्य है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which classical dance form is associated with Uttar Pradesh?",
+        "questionHindi": "कौन-सा शास्त्रीय नृत्य उत्तर प्रदेश से संबंधित है?",
+        "options": [
+          "Bharatanatyam",
+          "Kathak",
+          "Manipuri",
+          "Odissi"
+        ],
+        "optionsHindi": [
+          "भरतनाट्यम",
+          "कथक",
+          "मणिपुरी",
+          "ओडिसी"
+        ],
+        "answer": 1,
+        "explanation": "Kathak is the classical dance form associated with Uttar Pradesh.",
+        "explanationHindi": "कथक उत्तर प्रदेश से संबंधित शास्त्रीय नृत्य है।"
+      },
+      {
+        "type": "normal",
+        "question": "Manipuri dance originated in which state?",
+        "questionHindi": "मणिपुरी नृत्य की उत्पत्ति किस राज्य में हुई?",
+        "options": [
+          "Assam",
+          "Tripura",
+          "Manipur",
+          "Nagaland"
+        ],
+        "optionsHindi": [
+          "असम",
+          "त्रिपुरा",
+          "मणिपुर",
+          "नागालैंड"
+        ],
+        "answer": 2,
+        "explanation": "Manipuri dance originated in Manipur.",
+        "explanationHindi": "मणिपुरी नृत्य की उत्पत्ति मणिपुर में हुई।"
+      },
+      {
+        "type": "normal",
+        "question": "Kuchipudi is a classical dance form from which state?",
+        "questionHindi": "कुचिपुड़ी किस राज्य का शास्त्रीय नृत्य है?",
+        "options": [
+          "Tamil Nadu",
+          "Kerala",
+          "Andhra Pradesh",
+          "Odisha"
+        ],
+        "optionsHindi": [
+          "तमिलनाडु",
+          "केरल",
+          "आंध्र प्रदेश",
+          "ओडिशा"
+        ],
+        "answer": 2,
+        "explanation": "Kuchipudi is a classical dance form from Andhra Pradesh.",
+        "explanationHindi": "कुचिपुड़ी आंध्र प्रदेश का शास्त्रीय नृत्य है।"
+      },
+      {
+        "type": "normal",
+        "question": "Odissi is associated with which state?",
+        "questionHindi": "ओडिसी किस राज्य से संबंधित है?",
+        "options": [
+          "Odisha",
+          "Assam",
+          "West Bengal",
+          "Andhra Pradesh"
+        ],
+        "optionsHindi": [
+          "ओडिशा",
+          "असम",
+          "पश्चिम बंगाल",
+          "आंध्र प्रदेश"
+        ],
+        "answer": 0,
+        "explanation": "Odissi is associated with Odisha.",
+        "explanationHindi": "ओडिसी ओडिशा से संबंधित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Mohiniyattam originated in which state?",
+        "questionHindi": "मोहिनीअट्टम की उत्पत्ति किस राज्य में हुई?",
+        "options": [
+          "Tamil Nadu",
+          "Kerala",
+          "Karnataka",
+          "Andhra Pradesh"
+        ],
+        "optionsHindi": [
+          "तमिलनाडु",
+          "केरल",
+          "कर्नाटक",
+          "आंध्र प्रदेश"
+        ],
+        "answer": 1,
+        "explanation": "Mohiniyattam originated in Kerala.",
+        "explanationHindi": "मोहिनीअट्टम की उत्पत्ति केरल में हुई।"
+      },
+      {
+        "type": "normal",
+        "question": "Sattriya was added to the list of classical dance forms in which year?",
+        "questionHindi": "सत्रिया को शास्त्रीय नृत्यों की सूची में किस वर्ष शामिल किया गया?",
+        "options": [
+          "1990",
+          "1995",
+          "2000",
+          "2005"
+        ],
+        "optionsHindi": [
+          "1990",
+          "1995",
+          "2000",
+          "2005"
+        ],
+        "answer": 2,
+        "explanation": "Sattriya was added to the list of classical dance forms in the year 2000.",
+        "explanationHindi": "सत्रिया को शास्त्रीय नृत्यों की सूची में सन् 2000 में शामिल किया गया।"
+      },
+      {
+        "type": "normal",
+        "question": "Sattriya is associated with which state?",
+        "questionHindi": "सत्रिया किस राज्य से संबंधित है?",
+        "options": [
+          "Assam",
+          "Manipur",
+          "Odisha",
+          "West Bengal"
+        ],
+        "optionsHindi": [
+          "असम",
+          "मणिपुर",
+          "ओडिशा",
+          "पश्चिम बंगाल"
+        ],
+        "answer": 0,
+        "explanation": "Sattriya is associated with Assam.",
+        "explanationHindi": "सत्रिया असम से संबंधित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Who is credited with starting the Dhrupad style of singing?",
+        "questionHindi": "ध्रुपद गायन शैली शुरू करने का श्रेय किसे दिया जाता है?",
+        "options": [
+          "Tansen",
+          "Swami Haridas",
+          "Baiju Bawra",
+          "Amir Khusrau"
+        ],
+        "optionsHindi": [
+          "तानसेन",
+          "स्वामी हरिदास",
+          "बैजू बावरा",
+          "अमीर खुसरो"
+        ],
+        "answer": 1,
+        "explanation": "Swami Haridas is credited with starting the Dhrupad style of singing.",
+        "explanationHindi": "ध्रुपद शैली प्रारंभ करने का श्रेय स्वामी हरिदास को है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which singing style is performed on the occasion of Holi?",
+        "questionHindi": "होली के अवसर पर किस गायन शैली का प्रदर्शन किया जाता है?",
+        "options": [
+          "Dhrupad",
+          "Dhamar",
+          "Khayal",
+          "Tarana"
+        ],
+        "optionsHindi": [
+          "ध्रुपद",
+          "धमार",
+          "ख्याल",
+          "तराना"
+        ],
+        "answer": 1,
+        "explanation": "Dhamar style is performed on the occasion of Holi, accompanied by pakhawaj.",
+        "explanationHindi": "धमार शैली का गायन होली के अवसर पर किया जाता है, जिसे पखावज के साथ गाने की परंपरा है।"
+      },
+      {
+        "type": "normal",
+        "question": "According to Indian classical music, how many Ragas and Raginis are there?",
+        "questionHindi": "भारतीय शास्त्रीय संगीत में कितने राग और रागिनियाँ हैं?",
+        "options": [
+          "6 Ragas and 30 Raginis",
+          "6 Ragas and 36 Raginis",
+          "7 Ragas and 35 Raginis",
+          "5 Ragas and 25 Raginis"
+        ],
+        "optionsHindi": [
+          "6 राग और 30 रागिनियाँ",
+          "6 राग और 36 रागिनियाँ",
+          "7 राग और 35 रागिनियाँ",
+          "5 राग और 25 रागिनियाँ"
+        ],
+        "answer": 0,
+        "explanation": "Indian classical music has 6 Ragas and 30 Raginis.",
+        "explanationHindi": "भारतीय शास्त्रीय संगीत में 6 राग तथा 30 रागिनियाँ हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following is NOT one of the 6 main Ragas of Indian classical music?",
+        "questionHindi": "निम्नलिखित में से कौन भारतीय शास्त्रीय संगीत के 6 मुख्य रागों में से नहीं है?",
+        "options": [
+          "Bhairav",
+          "Hindol",
+          "Megh",
+          "Bageshri"
+        ],
+        "optionsHindi": [
+          "भैरव",
+          "हिन्दोल",
+          "मेघ",
+          "बागेश्री"
+        ],
+        "answer": 3,
+        "explanation": "Bageshri is NOT one of the 6 main Ragas. The 6 main Ragas are: Bhairav, Hindol, Megh, Shrirag, Deepak, and Malkauns.",
+        "explanationHindi": "बागेश्री 6 मुख्य रागों में से नहीं है। 6 मुख्य राग हैं: भैरव, हिन्दोल, मेघ, श्रीराग, दीपक और मालकौंस।"
+      },
+      {
+        "type": "normal",
+        "question": "Which instrument is traditionally used to accompany Dhamar singing?",
+        "questionHindi": "धमार गायन के साथ पारंपरिक रूप से कौन-सा वाद्य यंत्र बजाया जाता है?",
+        "options": [
+          "Tabla",
+          "Pakhawaj",
+          "Sitar",
+          "Sarangi"
+        ],
+        "optionsHindi": [
+          "तबला",
+          "पखावज",
+          "सितार",
+          "सारंगी"
+        ],
+        "answer": 1,
+        "explanation": "Pakhawaj is traditionally used to accompany Dhamar singing.",
+        "explanationHindi": "धमार शैली को पखावज बजाकर गाने की परंपरा है।"
+      }
+    ]
+  }
+]
