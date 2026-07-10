@@ -1,0 +1,368 @@
+[
+  {
+    "id": "history7",
+    "title": "भक्ति आंदोलन (Bhakti Movement)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "The Bhakti movement originated in South India between which centuries?",
+        "questionHindi": "भक्ति आंदोलन का प्रादुर्भाव दक्षिण भारत में किस शताब्दी के मध्य हुआ?",
+        "options": [
+          "5th and 10th century",
+          "6th and 12th century",
+          "8th and 14th century",
+          "10th and 16th century"
+        ],
+        "optionsHindi": [
+          "5वीं और 10वीं शताब्दी",
+          "6वीं और 12वीं शताब्दी",
+          "8वीं और 14वीं शताब्दी",
+          "10वीं और 16वीं शताब्दी"
+        ],
+        "answer": 1,
+        "explanation": "The Bhakti movement originated in South India between the 6th and 12th centuries.",
+        "explanationHindi": "भक्ति आंदोलन का प्रादुर्भाव दक्षिण भारत में 6वीं और 12वीं शताब्दी के मध्य हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "Who is considered the earliest proponent of the Bhakti movement?",
+        "questionHindi": "भक्ति आंदोलन के प्रारम्भिक प्रणोता किसे माना जाता है?",
+        "options": [
+          "Ramananda",
+          "Ramanuja",
+          "Kabir",
+          "Nanak"
+        ],
+        "optionsHindi": [
+          "रामानन्द",
+          "रामानुज",
+          "कबीर",
+          "नानक"
+        ],
+        "answer": 1,
+        "explanation": "Ramanuja is considered the earliest proponent of the Bhakti movement.",
+        "explanationHindi": "रामानुज को भक्ति आंदोलन का प्रारम्भिक प्रणोता माना जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Who brought the Bhakti movement from South India to North India?",
+        "questionHindi": "भक्ति आंदोलन को दक्षिण भारत से उत्तर भारत में किसने लाया?",
+        "options": [
+          "Ramanuja",
+          "Ramananda",
+          "Kabir",
+          "Nanak"
+        ],
+        "optionsHindi": [
+          "रामानुज",
+          "रामानन्द",
+          "कबीर",
+          "नानक"
+        ],
+        "answer": 1,
+        "explanation": "Ramananda is credited with bringing the Bhakti movement from South India to North India.",
+        "explanationHindi": "रामानन्द को भक्ति आंदोलन को दक्षिण भारत से उत्तर भारत में लाने का श्रेय दिया जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "The Nayanars were devotees of which god?",
+        "questionHindi": "नयनार किस देवता के भक्त थे?",
+        "options": [
+          "Vishnu",
+          "Shiva",
+          "Brahma",
+          "Krishna"
+        ],
+        "optionsHindi": [
+          "विष्णु",
+          "शिव",
+          "ब्रह्मा",
+          "कृष्ण"
+        ],
+        "answer": 1,
+        "explanation": "The Nayanars were devotees of Shiva.",
+        "explanationHindi": "नयनार शिव के भक्त थे।"
+      },
+      {
+        "type": "normal",
+        "question": "The Alvars were devotees of which god?",
+        "questionHindi": "अलवार किस देवता के भक्त थे?",
+        "options": [
+          "Shiva",
+          "Vishnu",
+          "Brahma",
+          "Ganesha"
+        ],
+        "optionsHindi": [
+          "शिव",
+          "विष्णु",
+          "ब्रह्मा",
+          "गणेश"
+        ],
+        "answer": 1,
+        "explanation": "The Alvars were devotees of Vishnu.",
+        "explanationHindi": "अलवार विष्णु के भक्त थे।"
+      },
+      {
+        "type": "normal",
+        "question": "Ramanuja was born at which place?",
+        "questionHindi": "रामानुज का जन्म कहाँ हुआ था?",
+        "options": [
+          "Prayag",
+          "Varanasi",
+          "Perumbur near Madras",
+          "Nadia"
+        ],
+        "optionsHindi": [
+          "प्रयाग",
+          "वाराणसी",
+          "मद्रास के निकट पेरुम्बुर",
+          "नदिया"
+        ],
+        "answer": 2,
+        "explanation": "Ramanuja was born at Perumbur near Madras.",
+        "explanationHindi": "रामानुज का जन्म मद्रास के निकट पेरुम्बुर नामक स्थान पर हुआ था।"
+      },
+      {
+        "type": "normal",
+        "question": "According to Agastya Samhita, Ramananda was born at:",
+        "questionHindi": "अगस्त्य संहिता के अनुसार रामानन्द का जन्म कहाँ हुआ था?",
+        "options": [
+          "Varanasi",
+          "Prayag",
+          "Ayodhya",
+          "Mathura"
+        ],
+        "optionsHindi": [
+          "वाराणसी",
+          "प्रयाग",
+          "अयोध्या",
+          "मथुरा"
+        ],
+        "answer": 1,
+        "explanation": "According to Agastya Samhita, Ramananda was born at Prayag.",
+        "explanationHindi": "अगस्त्य संहिता के अनुसार रामानन्द का जन्म प्रयाग में हुआ था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following was NOT a disciple of Ramananda?",
+        "questionHindi": "निम्नलिखित में से कौन रामानन्द का शिष्य नहीं था?",
+        "options": [
+          "Kabir",
+          "Raidas",
+          "Tulsidas",
+          "Sena"
+        ],
+        "optionsHindi": [
+          "कबीर",
+          "रैदास",
+          "तुलसीदास",
+          "सेना"
+        ],
+        "answer": 2,
+        "explanation": "Tulsidas was NOT a disciple of Ramananda. His disciples included Kabir, Raidas, Dhanna, Sena, and Pipa.",
+        "explanationHindi": "तुलसीदास रामानन्द के शिष्य नहीं थे। इनके शिष्यों में कबीर, रैदास, धन्ना, सेना और पीपा प्रमुख थे।"
+      },
+      {
+        "type": "normal",
+        "question": "Kabir was a disciple of:",
+        "questionHindi": "कबीर किसके शिष्य थे?",
+        "options": [
+          "Ramanuja",
+          "Ramananda",
+          "Nanak",
+          "Chaitanya"
+        ],
+        "optionsHindi": [
+          "रामानुज",
+          "रामानन्द",
+          "नानक",
+          "चैतन्य"
+        ],
+        "answer": 1,
+        "explanation": "Kabir was a disciple of Ramananda.",
+        "explanationHindi": "कबीर रामानन्द के शिष्य थे।"
+      },
+      {
+        "type": "normal",
+        "question": "Kabir's teachings were based on:",
+        "questionHindi": "कबीर की शिक्षाएँ किस पर आधारित थीं?",
+        "options": [
+          "Worship of idols",
+          "Caste system and ritualism",
+          "Devotion to one God without form",
+          "Pilgrimage to holy places"
+        ],
+        "optionsHindi": [
+          "मूर्ति पूजा",
+          "जाति-प्रथा और कर्मकांड",
+          "निराकार एक ईश्वर में भक्ति",
+          "पवित्र स्थानों की तीर्थयात्रा"
+        ],
+        "answer": 2,
+        "explanation": "Kabir opposed idol worship, caste system, and ritualism. He believed in one formless God.",
+        "explanationHindi": "कबीर ने मूर्ति पूजा, जाति-प्रथा और कर्मकांड का विरोध किया। वे निराकार एक ईश्वर में विश्वास करते थे।"
+      },
+      {
+        "type": "normal",
+        "question": "Guru Nanak was born at:",
+        "questionHindi": "गुरु नानक का जन्म कहाँ हुआ था?",
+        "options": [
+          "Amritsar",
+          "Talwandi (Nankana)",
+          "Lahore",
+          "Multan"
+        ],
+        "optionsHindi": [
+          "अमृतसर",
+          "तलवंडी (ननकाना)",
+          "लाहौर",
+          "मुल्तान"
+        ],
+        "answer": 1,
+        "explanation": "Guru Nanak was born at Talwandi (Nankana) in Punjab.",
+        "explanationHindi": "गुरु नानक का जन्म तलवंडी (ननकाना) पंजाब में हुआ था।"
+      },
+      {
+        "type": "normal",
+        "question": "The real name of Chaitanya Mahaprabhu was:",
+        "questionHindi": "चैतन्य महाप्रभु का वास्तविक नाम क्या था?",
+        "options": [
+          "Nimai",
+          "Vishvambhar",
+          "Gauranga",
+          "Krishna"
+        ],
+        "optionsHindi": [
+          "निमाई",
+          "विश्वम्भर",
+          "गौरांग",
+          "कृष्ण"
+        ],
+        "answer": 1,
+        "explanation": "The real name of Chaitanya Mahaprabhu was Vishvambhar.",
+        "explanationHindi": "चैतन्य महाप्रभु का वास्तविक नाम विश्वम्भर था।"
+      },
+      {
+        "type": "normal",
+        "question": "Mirabai was married to which prince?",
+        "questionHindi": "मीराबाई का विवाह किस राजकुमार से हुआ था?",
+        "options": [
+          "Rana Sanga",
+          "Bhojraj",
+          "Ratan Singh",
+          "Pratap Singh"
+        ],
+        "optionsHindi": [
+          "राणा सांगा",
+          "भोजराज",
+          "रत्न सिंह",
+          "प्रताप सिंह"
+        ],
+        "answer": 1,
+        "explanation": "Mirabai was married to Bhojraj, the eldest son of Rana Sanga, in 1516 CE.",
+        "explanationHindi": "मीराबाई का विवाह सन् 1516 ई. में राणा सांगा के बड़े पुत्र और युवराज भोजराज से हुआ था।"
+      },
+      {
+        "type": "normal",
+        "question": "Tulsidas wrote Ramcharitmanas in which year?",
+        "questionHindi": "तुलसीदास ने रामचरित मानस की रचना किस वर्ष की?",
+        "options": [
+          "1574-75 CE",
+          "1474-75 CE",
+          "1674-75 CE",
+          "1374-75 CE"
+        ],
+        "optionsHindi": [
+          "1574-75 ई.",
+          "1474-75 ई.",
+          "1674-75 ई.",
+          "1374-75 ई."
+        ],
+        "answer": 0,
+        "explanation": "Tulsidas composed Ramcharitmanas in 1574-75 CE.",
+        "explanationHindi": "तुलसीदास ने सन् 1574-75 ई. में रामचरित मानस की रचना की।"
+      },
+      {
+        "type": "normal",
+        "question": "The four maths established by Shankaracharya are located at:",
+        "questionHindi": "शंकराचार्य द्वारा स्थापित चार मठ कहाँ स्थित हैं?",
+        "options": [
+          "Badrinath, Puri, Dwarka, Mysore",
+          "Badrinath, Puri, Dwarka, Sringeri",
+          "Badrinath, Puri, Dwarka, Kanchi",
+          "Badrinath, Puri, Dwarka, Mathura"
+        ],
+        "optionsHindi": [
+          "बद्रीनाथ, पुरी, द्वारिका, मैसूर",
+          "बद्रीनाथ, पुरी, द्वारिका, शृंगेरी",
+          "बद्रीनाथ, पुरी, द्वारिका, कांची",
+          "बद्रीनाथ, पुरी, द्वारिका, मथुरा"
+        ],
+        "answer": 1,
+        "explanation": "The four maths established by Shankaracharya are at Badrinath, Puri, Dwarka, and Sringeri.",
+        "explanationHindi": "शंकराचार्य द्वारा स्थापित चार मठ बद्रीनाथ, पुरी, द्वारिका और शृंगेरी में स्थित हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "The founder of the Chishti Sufi order in India was:",
+        "questionHindi": "भारत में चिश्ती सूफी सिलसिले के संस्थापक कौन थे?",
+        "options": [
+          "Khwaja Moinuddin Chishti",
+          "Nizamuddin Auliya",
+          "Baba Farid",
+          "Khwaja Qutbuddin Bakhtiyar Kaki"
+        ],
+        "optionsHindi": [
+          "ख्वाजा मोइनुद्दीन चिश्ती",
+          "निजामुद्दीन औलिया",
+          "बाबा फरीद",
+          "ख्वाजा कुतुबुद्दीन बख्तियार काकी"
+        ],
+        "answer": 0,
+        "explanation": "Khwaja Moinuddin Chishti is considered the founder of the Chishti order in India.",
+        "explanationHindi": "ख्वाजा मोइनुद्दीन चिश्ती को भारत में चिश्ती सिलसिले का संस्थापक माना जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "The Suhrawardi Sufi order was founded by:",
+        "questionHindi": "सुहरावर्दी सूफी सिलसिले के संस्थापक कौन थे?",
+        "options": [
+          "Shihabuddin Suhrawardi",
+          "Bahauddin Zakariya",
+          "Jalaluddin Tabrizi",
+          "Nizamuddin Auliya"
+        ],
+        "optionsHindi": [
+          "शिहाबुद्दीन सुहरावर्दी",
+          "बहाउद्दीन जकरिया",
+          "जलालुद्दीन तबरीजी",
+          "निजामुद्दीन औलिया"
+        ],
+        "answer": 0,
+        "explanation": "The Suhrawardi order was founded by Shihabuddin Suhrawardi.",
+        "explanationHindi": "सुहरावर्दी सिलसिले के संस्थापक शिहाबुद्दीन सुहरावर्दी थे।"
+      },
+      {
+        "type": "normal",
+        "question": "The Naqshbandi Sufi order was established by:",
+        "questionHindi": "नक्शबंदी सूफी सिलसिले की स्थापना किसने की?",
+        "options": [
+          "Sheikh Abdul Qadir Jilani",
+          "Shah Abdullah",
+          "Khwaja Baqi Billah",
+          "Dara Shikoh"
+        ],
+        "optionsHindi": [
+          "शेख अब्दुल कादिर जिलानी",
+          "शाह अब्दुल्ला",
+          "ख्वाजा बकी बिल्लाह",
+          "दारा शिकोह"
+        ],
+        "answer": 2,
+        "explanation": "The Naqshbandi order was established by Khwaja Baqi Billah.",
+        "explanationHindi": "नक्शबंदी सिलसिले की स्थापना ख्वाजा बकी बिल्लाह ने की।"
+      }
+    ]
+  }
+]
