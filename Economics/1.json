@@ -1,0 +1,248 @@
+[
+  {
+    "id": "geography1",
+    "title": "Indian Agriculture - Characteristics and Crops",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Which of the following is a major characteristic of Indian agriculture?",
+        "questionHindi": "निम्नलिखित में से कौन भारतीय कृषि की प्रमुख विशेषता है?",
+        "options": [
+          "Large farm holdings",
+          "Rainfall is the main source of irrigation",
+          "Low population pressure on land",
+          "High capital investment in farming"
+        ],
+        "optionsHindi": [
+          "बड़ी जोत इकाइयाँ",
+          "वर्षा ही सिंचाई का मुख्य स्रोत है",
+          "भूमि पर जनसंख्या का कम दबाव",
+          "खेती में उच्च पूँजी निवेश"
+        ],
+        "answer": 1,
+        "explanation": "Indian agriculture largely depends on monsoon rains. About 60% of the cropped area is rain-fed.",
+        "explanationHindi": "भारतीय कृषि का अधिकांश भाग मानसूनी वर्षा पर निर्भर करता है। लगभग 60% कृषि क्षेत्र वर्षा पर आधारित है।"
+      },
+      {
+        "type": "normal",
+        "question": "How many cropping seasons are there in India?",
+        "questionHindi": "भारत में कितनी शस्य ऋतुएँ हैं?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "One"
+        ],
+        "optionsHindi": [
+          "दो",
+          "तीन",
+          "चार",
+          "एक"
+        ],
+        "answer": 1,
+        "explanation": "India has three cropping seasons: Rabi, Kharif, and Zaid.",
+        "explanationHindi": "भारत में तीन शस्य ऋतुएँ हैं: रबी, खरीफ और जायद।"
+      },
+      {
+        "type": "normal",
+        "question": "Rabi crops are sown in which season and harvested in which season?",
+        "questionHindi": "रबी फसलें किस ऋतु में बोई जाती हैं और किस ऋतु में काटी जाती हैं?",
+        "options": [
+          "Sown in summer, harvested in winter",
+          "Sown in winter, harvested in summer",
+          "Sown in monsoon, harvested in winter",
+          "Sown in winter, harvested in monsoon"
+        ],
+        "optionsHindi": [
+          "ग्रीष्म में बोई, शीत में काटी",
+          "शीत में बोई, ग्रीष्म में काटी",
+          "मानसून में बोई, शीत में काटी",
+          "शीत में बोई, मानसून में काटी"
+        ],
+        "answer": 1,
+        "explanation": "Rabi crops are sown in winter (October-December) and harvested in summer (April-June).",
+        "explanationHindi": "रबी फसलें शीत ऋतु (अक्टूबर-दिसंबर) में बोई जाती हैं और ग्रीष्म ऋतु (अप्रैल-जून) में काटी जाती हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following is a Kharif crop?",
+        "questionHindi": "निम्नलिखित में से कौन-सी खरीफ फसल है?",
+        "options": [
+          "Wheat",
+          "Gram",
+          "Rice",
+          "Mustard"
+        ],
+        "optionsHindi": [
+          "गेहूँ",
+          "चना",
+          "चावल",
+          "सरसों"
+        ],
+        "answer": 2,
+        "explanation": "Rice is a Kharif crop sown with the onset of monsoon and harvested in September-October.",
+        "explanationHindi": "चावल एक खरीफ फसल है जो मानसून के आगमन के साथ बोई जाती है और सितंबर-अक्टूबर में काटी जाती है।"
+      },
+      {
+        "type": "normal",
+        "question": "Watermelon, muskmelon and vegetables are grown in which season?",
+        "questionHindi": "तरबूज, खरबूज और सब्जियाँ किस ऋतु में उगाई जाती हैं?",
+        "options": [
+          "Rabi",
+          "Kharif",
+          "Zaid",
+          "Monsoon"
+        ],
+        "optionsHindi": [
+          "रबी",
+          "खरीफ",
+          "जायद",
+          "मानसून"
+        ],
+        "answer": 2,
+        "explanation": "Zaid is the summer season between Rabi and Kharif, in which watermelon, muskmelon, and vegetables are grown.",
+        "explanationHindi": "जायद रबी और खरीफ के बीच ग्रीष्म ऋतु है, जिसमें तरबूज, खरबूज और सब्जियाँ उगाई जाती हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "India is the second largest producer of which food grain after China?",
+        "questionHindi": "भारत किस खाद्यान्न का चीन के बाद दूसरा सबसे बड़ा उत्पादक है?",
+        "options": [
+          "Wheat",
+          "Rice",
+          "Maize",
+          "Millets"
+        ],
+        "optionsHindi": [
+          "गेहूँ",
+          "चावल",
+          "मक्का",
+          "मोटे अनाज"
+        ],
+        "answer": 1,
+        "explanation": "India is the second largest producer of rice in the world after China.",
+        "explanationHindi": "भारत चीन के बाद विश्व का दूसरा सबसे बड़ा चावल उत्पादक देश है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which state is NOT a major producer of wheat in India?",
+        "questionHindi": "भारत में कौन-सा राज्य गेहूँ का प्रमुख उत्पादक नहीं है?",
+        "options": [
+          "Punjab",
+          "Haryana",
+          "Uttar Pradesh",
+          "Kerala"
+        ],
+        "optionsHindi": [
+          "पंजाब",
+          "हरियाणा",
+          "उत्तर प्रदेश",
+          "केरल"
+        ],
+        "answer": 3,
+        "explanation": "Kerala is not a major wheat producer. Wheat is mainly grown in North and North-Western states like Punjab, Haryana, UP, etc.",
+        "explanationHindi": "केरल गेहूँ का प्रमुख उत्पादक राज्य नहीं है। गेहूँ मुख्यतः उत्तर और उत्तर-पश्चिमी राज्यों (पंजाब, हरियाणा, UP आदि) में उगाया जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which millet is rich in iron, calcium, and micro-nutrients?",
+        "questionHindi": "किस मोटे अनाज में प्रचुर मात्रा में लोहा, कैल्शियम और सूक्ष्म पोषक तत्व पाए जाते हैं?",
+        "options": [
+          "Jowar",
+          "Bajra",
+          "Ragi",
+          "Maize"
+        ],
+        "optionsHindi": [
+          "ज्वार",
+          "बाजरा",
+          "रागी",
+          "मक्का"
+        ],
+        "answer": 2,
+        "explanation": "Ragi is rich in iron, calcium, micro-nutrients and roughage.",
+        "explanationHindi": "रागी में प्रचुर मात्रा में लोहा, कैल्शियम, सूक्ष्म पोषक और भूसी पाई जाती है।"
+      },
+      {
+        "type": "normal",
+        "question": "Sugarcane cultivation takes about how much time to mature?",
+        "questionHindi": "गन्ने की फसल को तैयार होने में लगभग कितना समय लगता है?",
+        "options": [
+          "6 months",
+          "1 year",
+          "2 years",
+          "3 months"
+        ],
+        "optionsHindi": [
+          "6 महीने",
+          "1 वर्ष",
+          "2 वर्ष",
+          "3 महीने"
+        ],
+        "answer": 1,
+        "explanation": "Sugarcane takes about one year to mature.",
+        "explanationHindi": "गन्ने की फसल तैयार होने में लगभग एक वर्ष का समय लगता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Indian state is the largest producer of sugarcane?",
+        "questionHindi": "गन्ना उत्पादन में कौन-सा भारतीय राज्य अग्रणी है?",
+        "options": [
+          "Maharashtra",
+          "Tamil Nadu",
+          "Uttar Pradesh",
+          "Karnataka"
+        ],
+        "optionsHindi": [
+          "महाराष्ट्र",
+          "तमिलनाडु",
+          "उत्तर प्रदेश",
+          "कर्नाटक"
+        ],
+        "answer": 2,
+        "explanation": "Uttar Pradesh is the largest producer of sugarcane in India.",
+        "explanationHindi": "उत्तर प्रदेश भारत में गन्ने का सबसे बड़ा उत्पादक राज्य है।"
+      },
+      {
+        "type": "normal",
+        "question": "Green Revolution is associated with the production of which of the following?",
+        "questionHindi": "हरित क्रांति किसके उत्पादन से संबंधित है?",
+        "options": [
+          "Milk",
+          "Food grains",
+          "Eggs",
+          "Fish"
+        ],
+        "optionsHindi": [
+          "दूध",
+          "खाद्यान्न",
+          "अंडे",
+          "मछली"
+        ],
+        "answer": 1,
+        "explanation": "Green Revolution is associated with the production of food grains, especially wheat and rice.",
+        "explanationHindi": "हरित क्रांति खाद्यान्न उत्पादन से संबंधित है, विशेष रूप से गेहूं और चावल।"
+      },
+      {
+        "type": "normal",
+        "question": "Who is known as the father of the White Revolution in India?",
+        "questionHindi": "भारत में श्वेत क्रांति के जनक किसे कहा जाता है?",
+        "options": [
+          "M.S. Swaminathan",
+          "Norman Borlaug",
+          "Verghese Kurien",
+          "Arun Krishnan"
+        ],
+        "optionsHindi": [
+          "एम.एस. स्वामीनाथन",
+          "नॉर्मन बोरलोग",
+          "वर्गीज कुरियन",
+          "अरुण कृष्णन"
+        ],
+        "answer": 2,
+        "explanation": "Dr. Verghese Kurien is known as the father of the White Revolution in India.",
+        "explanationHindi": "डॉ. वर्गीज कुरियन को भारत में श्वेत क्रांति का जनक कहा जाता है।"
+      }
+    ]
+  }
+]
