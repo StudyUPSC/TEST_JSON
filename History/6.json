@@ -1,0 +1,308 @@
+[
+  {
+    "id": "history6",
+    "title": "दिल्ली सल्तनत (Delhi Sultanate)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "The Delhi Sultanate is called the 'Slave dynasty' because:",
+        "questionHindi": "दिल्ली सल्तनत को 'गुलाम वंश' क्यों कहा जाता है?",
+        "options": [
+          "All rulers were slaves",
+          "The first three important rulers started their lives as slaves",
+          "The dynasty was founded by a slave",
+          "Only Turks were allowed to rule"
+        ],
+        "optionsHindi": [
+          "सभी शासक गुलाम थे",
+          "पहले तीन महत्वपूर्ण शासकों का राजनीतिक जीवन गुलाम के रूप में शुरू हुआ",
+          "वंश की स्थापना एक गुलाम ने की",
+          "केवल तुर्कों को शासन करने की अनुमति थी"
+        ],
+        "answer": 1,
+        "explanation": "The dynasty is called the 'Slave dynasty' because its three most important rulers - Qutbuddin Aibak, Iltutmish, and Balban - started their political life as slaves.",
+        "explanationHindi": "इस वंश को 'गुलाम वंश' इसलिए कहा जाता है क्योंकि इसके तीन सबसे महत्वपूर्ण शासकों - कुतुबुद्दीन ऐबक, इल्तुतमिश और बलबन - का राजनीतिक जीवन गुलाम के रूप में शुरू हुआ था।"
+      },
+      {
+        "type": "normal",
+        "question": "Who started the construction of the Qutub Minar?",
+        "questionHindi": "कुतुब मीनार के निर्माण की शुरुआत किसने की?",
+        "options": [
+          "Iltutmish",
+          "Balban",
+          "Qutbuddin Aibak",
+          "Alauddin Khilji"
+        ],
+        "optionsHindi": [
+          "इल्तुतमिश",
+          "बलबन",
+          "कुतुबुद्दीन ऐबक",
+          "अलाउद्दीन खिलजी"
+        ],
+        "answer": 2,
+        "explanation": "Qutbuddin Aibak started the construction of the Qutub Minar in memory of Qutbuddin Bakhtiyar Kaki.",
+        "explanationHindi": "कुतुबुद्दीन ऐबक ने कुतुबुद्दीन बख्तियार काकी की स्मृति में कुतुब मीनार के निर्माण की शुरुआत की।"
+      },
+      {
+        "type": "normal",
+        "question": "Which ruler introduced the silver coin 'Tanka' and copper coin 'Jital'?",
+        "questionHindi": "किस शासक ने चांदी का 'टंका' और तांबे का 'जीतल' सिक्का चलाया?",
+        "options": [
+          "Qutbuddin Aibak",
+          "Iltutmish",
+          "Balban",
+          "Alauddin Khilji"
+        ],
+        "optionsHindi": [
+          "कुतुबुद्दीन ऐबक",
+          "इल्तुतमिश",
+          "बलबन",
+          "अलाउद्दीन खिलजी"
+        ],
+        "answer": 1,
+        "explanation": "Iltutmish introduced the silver 'Tanka' and copper 'Jital' coins.",
+        "explanationHindi": "इल्तुतमिश ने चांदी का 'टंका' और तांबे का 'जीतल' सिक्का चलाया।"
+      },
+      {
+        "type": "normal",
+        "question": "The group of forty Turkic nobles formed by Iltutmish was called:",
+        "questionHindi": "इल्तुतमिश द्वारा गठित चालीस तुर्क सरदारों के समूह को क्या कहा जाता था?",
+        "options": [
+          "Majlis-e-Khalwat",
+          "Turkan-e-Chahalgani",
+          "Diwan-e-Arz",
+          "Amir-e-Hajib"
+        ],
+        "optionsHindi": [
+          "मजलिस-ए-खलवत",
+          "तुर्कान-ए-चहलगानी",
+          "दीवान-ए-अर्ज",
+          "अमीर-ए-हाजिब"
+        ],
+        "answer": 1,
+        "explanation": "Iltutmish formed a group of forty Turkic nobles called 'Turkan-e-Chahalgani' or 'Chalisa'.",
+        "explanationHindi": "इल्तुतमिश ने चालीस तुर्क सरदारों के एक गुट 'तुर्कान-ए-चहलगानी' या 'चालीसा' का गठन किया।"
+      },
+      {
+        "type": "normal",
+        "question": "Razia Sultan was the first and only woman ruler of the Delhi Sultanate. She appointed Jamaluddin Yakut as:",
+        "questionHindi": "रजिया सुल्तान ने जमालुद्दीन याकूत को किस पद पर नियुक्त किया?",
+        "options": [
+          "Amir-e-Hajib",
+          "Amir-e-Akhur",
+          "Chief Commander",
+          "Wazir"
+        ],
+        "optionsHindi": [
+          "अमीर-ए-हाजिब",
+          "अमीर-ए-आखूर",
+          "प्रधान सेनापति",
+          "वज़ीर"
+        ],
+        "answer": 1,
+        "explanation": "Razia appointed Jamaluddin Yakut, an Abyssinian, as 'Amir-e-Akhur' (head of the royal stable).",
+        "explanationHindi": "रजिया ने जमालुद्दीन याकूत (अबीसीनियाई) को 'अमीर-ए-आखूर' (शाही अस्तबल का प्रमुख) नियुक्त किया।"
+      },
+      {
+        "type": "normal",
+        "question": "Balban introduced the practice of 'Sijda' and 'Paibos' to:",
+        "questionHindi": "बलबन ने 'सिजदा' और 'पायबोस' की प्रथा क्यों शुरू की?",
+        "options": [
+          "Reduce Turkic influence",
+          "Increase revenue",
+          "Pacify the Mongols",
+          "Establish a new religion"
+        ],
+        "optionsHindi": [
+          "तुर्की प्रभाव को कम करने के लिए",
+          "राजस्व बढ़ाने के लिए",
+          "मंगोलों को शांत करने के लिए",
+          "नया धर्म स्थापित करने के लिए"
+        ],
+        "answer": 0,
+        "explanation": "Balban introduced Sijda (prostration) and Paibos (kissing the feet) to reduce Turkic influence and increase the power of the Sultan.",
+        "explanationHindi": "बलबन ने तुर्की प्रभाव को कम करने और सुल्तान की शक्ति बढ़ाने के लिए सिजदा (साष्टांग प्रणाम) और पायबोस (पैर चूमना) की प्रथा शुरू की।"
+      },
+      {
+        "type": "normal",
+        "question": "The Khilji dynasty was founded by:",
+        "questionHindi": "खिलजी वंश की स्थापना किसने की?",
+        "options": [
+          "Alauddin Khilji",
+          "Jalaluddin Khilji",
+          "Qutbuddin Aibak",
+          "Balban"
+        ],
+        "optionsHindi": [
+          "अलाउद्दीन खिलजी",
+          "जलालुद्दीन खिलजी",
+          "कुतुबुद्दीन ऐबक",
+          "बलबन"
+        ],
+        "answer": 1,
+        "explanation": "Jalaluddin Khilji founded the Khilji dynasty in 1290 CE.",
+        "explanationHindi": "जलालुद्दीन खिलजी ने 1290 ई. में खिलजी वंश की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "Who was the most famous ruler of the Khilji dynasty?",
+        "questionHindi": "खिलजी वंश का सबसे प्रसिद्ध शासक कौन था?",
+        "options": [
+          "Jalaluddin Khilji",
+          "Alauddin Khilji",
+          "Mubarak Shah Khilji",
+          "Khusrau Khan"
+        ],
+        "optionsHindi": [
+          "जलालुद्दीन खिलजी",
+          "अलाउद्दीन खिलजी",
+          "मुबारक शाह खिलजी",
+          "खुसरो खान"
+        ],
+        "answer": 1,
+        "explanation": "Alauddin Khilji was the most famous ruler of the Khilji dynasty.",
+        "explanationHindi": "अलाउद्दीन खिलजी खिलजी वंश का सबसे प्रसिद्ध शासक था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which department was established by Ghiyasuddin Tughlaq for military administration?",
+        "questionHindi": "गयासुद्दीन तुगलक ने सैन्य प्रशासन के लिए कौन-सा विभाग स्थापित किया?",
+        "options": [
+          "Diwan-e-Arz",
+          "Diwan-e-Wizarat",
+          "Diwan-e-Rasalat",
+          "Diwan-e-Insha"
+        ],
+        "optionsHindi": [
+          "दीवान-ए-अर्ज",
+          "दीवान-ए-विजारत",
+          "दीवान-ए-रसालत",
+          "दीवान-ए-इंशा"
+        ],
+        "answer": 0,
+        "explanation": "Ghiyasuddin Tughlaq established the Diwan-e-Arz (military department) to deal with the Mongols.",
+        "explanationHindi": "गयासुद्दीन तुगलक ने मंगोलों से निपटने के लिए दीवान-ए-अर्ज (सैन्य विभाग) का गठन किया।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Tughlaq ruler introduced token currency?",
+        "questionHindi": "किस तुगलक शासक ने सांकेतिक मुद्रा का प्रचलन किया?",
+        "options": [
+          "Ghiyasuddin Tughlaq",
+          "Muhammad-bin-Tughlaq",
+          "Firoz Tughlaq",
+          "Mahmud Tughlaq"
+        ],
+        "optionsHindi": [
+          "गयासुद्दीन तुगलक",
+          "मुहम्मद-बिन-तुगलक",
+          "फिरोज तुगलक",
+          "महमूद तुगलक"
+        ],
+        "answer": 1,
+        "explanation": "Muhammad-bin-Tughlaq introduced token currency (brass and copper coins) in 1329-30 CE.",
+        "explanationHindi": "मुहम्मद-बिन-तुगलक ने 1329-30 ई. में सांकेतिक मुद्रा (पीतल और तांबे के सिक्के) का प्रचलन किया।"
+      },
+      {
+        "type": "normal",
+        "question": "Firoz Tughlaq is known for constructing how many canals for irrigation?",
+        "questionHindi": "फिरोज तुगलक सिंचाई के लिए कितनी नहरों के निर्माण के लिए जाना जाता है?",
+        "options": [
+          "Three",
+          "Four",
+          "Five",
+          "Six"
+        ],
+        "optionsHindi": [
+          "तीन",
+          "चार",
+          "पाँच",
+          "छह"
+        ],
+        "answer": 2,
+        "explanation": "Firoz Tughlaq constructed five canals for irrigation.",
+        "explanationHindi": "फिरोज तुगलक ने सिंचाई के लिए पाँच नहरों का निर्माण करवाया।"
+      },
+      {
+        "type": "normal",
+        "question": "Who founded the Lodi dynasty?",
+        "questionHindi": "लोदी वंश की स्थापना किसने की?",
+        "options": [
+          "Bahlol Lodi",
+          "Sikandar Lodi",
+          "Ibrahim Lodi",
+          "Daulat Khan Lodi"
+        ],
+        "optionsHindi": [
+          "बहलोल लोदी",
+          "सिकन्दर लोदी",
+          "इब्राहिम लोदी",
+          "दौलत खान लोदी"
+        ],
+        "answer": 0,
+        "explanation": "Bahlol Lodi founded the Lodi dynasty in 1451 CE.",
+        "explanationHindi": "बहलोल लोदी ने 1451 ई. में लोदी वंश की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "The city of Agra was founded by which Lodi ruler?",
+        "questionHindi": "आगरा शहर की स्थापना किस लोदी शासक ने की?",
+        "options": [
+          "Bahlol Lodi",
+          "Sikandar Lodi",
+          "Ibrahim Lodi",
+          "Daulat Khan Lodi"
+        ],
+        "optionsHindi": [
+          "बहलोल लोदी",
+          "सिकन्दर लोदी",
+          "इब्राहिम लोदी",
+          "दौलत खान लोदी"
+        ],
+        "answer": 1,
+        "explanation": "Sikandar Lodi founded the city of Agra in 1504 CE.",
+        "explanationHindi": "सिकन्दर लोदी ने 1504 ई. में आगरा नगर बसाया।"
+      },
+      {
+        "type": "normal",
+        "question": "In which battle was Ibrahim Lodi defeated by Babur?",
+        "questionHindi": "इब्राहिम लोदी को बाबर ने किस युद्ध में पराजित किया?",
+        "options": [
+          "Second Battle of Tarain",
+          "First Battle of Panipat",
+          "Battle of Khanwa",
+          "Battle of Ghagra"
+        ],
+        "optionsHindi": [
+          "तराईन का द्वितीय युद्ध",
+          "पानीपत का प्रथम युद्ध",
+          "खानवा का युद्ध",
+          "घाघरा का युद्ध"
+        ],
+        "answer": 1,
+        "explanation": "Babur defeated Ibrahim Lodi in the First Battle of Panipat in 1526 CE.",
+        "explanationHindi": "बाबर ने 1526 ई. में पानीपत के प्रथम युद्ध में इब्राहिम लोदी को पराजित किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The head of the military department (Diwan-e-Arz) was called:",
+        "questionHindi": "सैन्य विभाग (दीवान-ए-अर्ज) का प्रमुख क्या कहलाता था?",
+        "options": [
+          "Wazir",
+          "Ariz-e-Mamalik",
+          "Sadr-us-Sudur",
+          "Kazi-ul-Kuzat"
+        ],
+        "optionsHindi": [
+          "वज़ीर",
+          "आरिज़-ए-मुमालिक",
+          "सद्र-उस-सुदूर",
+          "काज़ी-उल-कुज़ात"
+        ],
+        "answer": 1,
+        "explanation": "The head of the military department (Diwan-e-Arz) was called 'Ariz-e-Mamalik'.",
+        "explanationHindi": "सैन्य विभाग (दीवान-ए-अर्ज) का प्रमुख 'आरिज़-ए-मुमालिक' कहलाता था।"
+      }
+    ]
+  }
+]
