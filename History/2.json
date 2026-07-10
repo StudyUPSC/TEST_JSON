@@ -1,0 +1,208 @@
+[
+  {
+    "id": "history2",
+    "title": "Ancient Indian History - Vedic Period",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "How many Vedas are there in Vedic literature?",
+        "questionHindi": "वैदिक साहित्य में कितने वेद हैं?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "optionsHindi": [
+          "दो",
+          "तीन",
+          "चार",
+          "पांच"
+        ],
+        "answer": 2,
+        "explanation": "There are four Vedas: Rigveda, Yajurveda, Samaveda, and Atharvaveda.",
+        "explanationHindi": "चार वेद हैं: ऋग्वेद, यजुर्वेद, सामवेद, और अथर्ववेद।"
+      },
+      {
+        "type": "normal",
+        "question": "The region of Punjab is referred to in the Rigveda as:",
+        "questionHindi": "ऋग्वेद में पंजाब क्षेत्र को किस नाम से जाना गया है?",
+        "options": [
+          "Bharatvarsha",
+          "Saptasindhu",
+          "Aryavarta",
+          "Madhyadesha"
+        ],
+        "optionsHindi": [
+          "भारतवर्ष",
+          "सप्तसिन्धु",
+          "आर्यावर्त",
+          "मध्यदेश"
+        ],
+        "answer": 1,
+        "explanation": "The Rigveda refers to the region of Punjab as Saptasindhu, the land of seven rivers.",
+        "explanationHindi": "ऋग्वेद में पंजाब क्षेत्र को सप्तसिन्धु (सात नदियों की भूमि) कहा गया है।"
+      },
+      {
+        "type": "normal",
+        "question": "How many rivers of North India are mentioned in the Rigveda?",
+        "questionHindi": "ऋग्वेद में उत्तर भारत की कितनी नदियों का उल्लेख है?",
+        "options": [
+          "42",
+          "40",
+          "50",
+          "30"
+        ],
+        "optionsHindi": [
+          "42",
+          "40",
+          "50",
+          "30"
+        ],
+        "answer": 0,
+        "explanation": "The Rigveda mentions 42 rivers of North India, from Afghanistan to the Yamuna river in the east.",
+        "explanationHindi": "ऋग्वेद में उत्तर भारत की 42 नदियों का उल्लेख है, जो अफगानिस्तान से लेकर पूर्व में यमुना नदी तक फैली हुई थीं।"
+      },
+      {
+        "type": "normal",
+        "question": "The political system of the Rigvedic period was based on:",
+        "questionHindi": "ऋग्वैदिक काल की राजनीतिक व्यवस्था किस पर आधारित थी?",
+        "options": [
+          "A hereditary monarchy",
+          "A tribal structure",
+          "A democratic system",
+          "A feudal system"
+        ],
+        "optionsHindi": [
+          "वंशानुगत राजतंत्र",
+          "कबीलाई संरचना",
+          "लोकतांत्रिक व्यवस्था",
+          "सामंतवादी व्यवस्था"
+        ],
+        "answer": 1,
+        "explanation": "The Rigvedic political system was based on a tribal structure and was a tribal military system.",
+        "explanationHindi": "ऋग्वैदिक राजनीतिक व्यवस्था एक कबीलाई संरचना पर आधारित थी, जो एक जनजातीय सैन्य तंत्र था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which word was the basis of social organization in the Rigvedic period?",
+        "questionHindi": "ऋग्वैदिक काल में सामाजिक संगठन का आधार क्या था?",
+        "options": [
+          "Varna",
+          "Gotra",
+          "Jati",
+          "Kula"
+        ],
+        "optionsHindi": [
+          "वर्ण",
+          "गोत्र",
+          "जाति",
+          "कुल"
+        ],
+        "answer": 1,
+        "explanation": "In the Rigvedic period, 'Gotra' was the basis of social organization.",
+        "explanationHindi": "ऋग्वैदिक काल में 'गोत्र' सामाजिक संगठन का आधार था।"
+      },
+      {
+        "type": "normal",
+        "question": "Unmarried girls in the Rigvedic period were called:",
+        "questionHindi": "ऋग्वैदिक काल में जीवनभर अविवाहित रहने वाली लड़कियों को क्या कहा जाता था?",
+        "options": [
+          "Brahmavadini",
+          "Amaju",
+          "Sadhvi",
+          "Rishika"
+        ],
+        "optionsHindi": [
+          "ब्रह्मवादिनी",
+          "अमाजू",
+          "साध्वी",
+          "ऋषिका"
+        ],
+        "answer": 1,
+        "explanation": "Unmarried girls who remained celibate throughout life were called 'Amaju'.",
+        "explanationHindi": "जीवनभर अविवाहित रहने वाली लड़कियों को 'अमाजू' कहा जाता था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following practices was NOT prevalent in the Rigvedic period?",
+        "questionHindi": "ऋग्वैदिक काल में निम्नलिखित में से कौन-सी प्रथा प्रचलित नहीं थी?",
+        "options": [
+          "Sati system",
+          "Niyoga system",
+          "Widow marriage",
+          "Both A and C"
+        ],
+        "optionsHindi": [
+          "सती प्रथा",
+          "नियोग प्रथा",
+          "विधवा विवाह",
+          "A और C दोनों"
+        ],
+        "answer": 3,
+        "explanation": "Sati system and child marriage were not prevalent in the Rigvedic period. Niyoga and widow marriage were practiced.",
+        "explanationHindi": "ऋग्वैदिक काल में सती प्रथा और बाल विवाह प्रचलित नहीं थे। नियोग प्रथा और विधवा विवाह प्रचलित थे।"
+      },
+      {
+        "type": "normal",
+        "question": "The word 'Gavishti' in the Rigveda is a synonym for:",
+        "questionHindi": "ऋग्वेद में 'गविष्ठि' शब्द किसका पर्याय है?",
+        "options": [
+          "Agriculture",
+          "War",
+          "Trade",
+          "Festival"
+        ],
+        "optionsHindi": [
+          "कृषि",
+          "युद्ध",
+          "व्यापार",
+          "उत्सव"
+        ],
+        "answer": 1,
+        "explanation": "In the Rigveda, 'Gavishti' (search for cows) is a synonym for war.",
+        "explanationHindi": "ऋग्वेद में 'गविष्ठि' (गाय का अन्वेषण) युद्ध का पर्याय है।"
+      },
+      {
+        "type": "normal",
+        "question": "How many times is the word 'Go' (cow) mentioned in the Rigveda?",
+        "questionHindi": "ऋग्वेद में 'गो' (गाय) शब्द का कितनी बार प्रयोग हुआ है?",
+        "options": [
+          "100 times",
+          "150 times",
+          "176 times",
+          "200 times"
+        ],
+        "optionsHindi": [
+          "100 बार",
+          "150 बार",
+          "176 बार",
+          "200 बार"
+        ],
+        "answer": 2,
+        "explanation": "The word 'Go' (cow) is mentioned 176 times in the Rigveda.",
+        "explanationHindi": "ऋग्वेद में 'गो' (गाय) शब्द का 176 बार प्रयोग हुआ है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which god is mentioned the maximum number of times in the Rigveda?",
+        "questionHindi": "ऋग्वेद में किस देवता का सबसे अधिक उल्लेख हुआ है?",
+        "options": [
+          "Agni",
+          "Varuna",
+          "Indra",
+          "Surya"
+        ],
+        "optionsHindi": [
+          "अग्नि",
+          "वरुण",
+          "इन्द्र",
+          "सूर्य"
+        ],
+        "answer": 2,
+        "explanation": "Indra is mentioned 250 times in the Rigveda, the highest among all gods.",
+        "explanationHindi": "ऋग्वेद में इन्द्र का 250 बार उल्लेख हुआ है, जो सभी देवताओं में सबसे अधिक है।"
+      }
+    ]
+  }
+]
