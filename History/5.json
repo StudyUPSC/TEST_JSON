@@ -1,0 +1,488 @@
+[
+  {
+    "id": "history5",
+    "title": "हर्षकालीन एवं उत्तर-गुप्त राजवंश (Harsha and Post-Gupta Dynasties)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Who founded the Maitrak dynasty of Vallabhi?",
+        "questionHindi": "वल्लभी के मैत्रक वंश की स्थापना किसने की?",
+        "options": [
+          "Shashanka",
+          "Bhattaraka",
+          "Pushyabhuti",
+          "Yashovarman"
+        ],
+        "optionsHindi": [
+          "शशांक",
+          "भट्टारक",
+          "पुष्यभूति",
+          "यशोवर्मन"
+        ],
+        "answer": 1,
+        "explanation": "Bhattaraka established the Maitrak dynasty of Vallabhi during the time of Gupta ruler Buddhagupta.",
+        "explanationHindi": "भट्टारक ने गुप्त शासक बुद्धगुप्त के काल में वल्लभी के मैत्रक वंश की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "The Maukharis were originally feudatories of which dynasty?",
+        "questionHindi": "मौखरी मूल रूप से किस वंश के सामंत थे?",
+        "options": [
+          "Maurya",
+          "Gupta",
+          "Kushana",
+          "Satavahana"
+        ],
+        "optionsHindi": [
+          "मौर्य",
+          "गुप्त",
+          "कुषाण",
+          "सातवाहन"
+        ],
+        "answer": 1,
+        "explanation": "The Maukharis were feudatories of the Gupta dynasty.",
+        "explanationHindi": "मौखरी गुप्तों के सामंत थे।"
+      },
+      {
+        "type": "normal",
+        "question": "Shashanka, the ruler of the Gauda dynasty, had his capital at:",
+        "questionHindi": "गौड वंश के शासक शशांक की राजधानी कहाँ थी?",
+        "options": [
+          "Pataliputra",
+          "Kannauj",
+          "Karna Suvarna",
+          "Gwalior"
+        ],
+        "optionsHindi": [
+          "पाटलिपुत्र",
+          "कन्नौज",
+          "कर्ण सुवर्ण",
+          "ग्वालियर"
+        ],
+        "answer": 2,
+        "explanation": "Shashanka established his capital at Karna Suvarna.",
+        "explanationHindi": "शशांक ने अपनी राजधानी 'कर्ण सुवर्ण' में स्थापित की।"
+      },
+      {
+        "type": "normal",
+        "question": "Who founded the Pushyabhuti dynasty?",
+        "questionHindi": "पुष्यभूति वंश की स्थापना किसने की?",
+        "options": [
+          "Harsha",
+          "Prabhakarvardhana",
+          "Pushyabhuti",
+          "Rajyavardhana"
+        ],
+        "optionsHindi": [
+          "हर्ष",
+          "प्रभाकरवर्धन",
+          "पुष्यभूति",
+          "राज्यवर्धन"
+        ],
+        "answer": 2,
+        "explanation": "According to Banabhatta, the founder of the Pushyabhuti dynasty was Pushyabhuti.",
+        "explanationHindi": "बाणभट्ट के अनुसार पुष्यभूति वंश का संस्थापक पुष्यभूति था।"
+      },
+      {
+        "type": "normal",
+        "question": "At what age did Harsha become the ruler of Thaneshwar?",
+        "questionHindi": "हर्ष किस आयु में थानेश्वर का शासक बना?",
+        "options": [
+          "14 years",
+          "16 years",
+          "18 years",
+          "20 years"
+        ],
+        "optionsHindi": [
+          "14 वर्ष",
+          "16 वर्ष",
+          "18 वर्ष",
+          "20 वर्ष"
+        ],
+        "answer": 1,
+        "explanation": "Harsha became the ruler of Thaneshwar in 606 CE at the age of 16 years.",
+        "explanationHindi": "हर्ष 606 ई. में 16 वर्ष की आयु में थानेश्वर का शासक बना।"
+      },
+      {
+        "type": "normal",
+        "question": "Harsha transferred his capital from Thaneshwar to:",
+        "questionHindi": "हर्ष ने अपनी राजधानी थानेश्वर से कहाँ स्थानांतरित की?",
+        "options": [
+          "Pataliputra",
+          "Kannauj",
+          "Ujjain",
+          "Vallabhi"
+        ],
+        "optionsHindi": [
+          "पाटलिपुत्र",
+          "कन्नौज",
+          "उज्जैन",
+          "वल्लभी"
+        ],
+        "answer": 1,
+        "explanation": "Harsha transferred his capital from Thaneshwar to Kannauj.",
+        "explanationHindi": "हर्ष ने राजधानी को थानेश्वर से कन्नौज स्थानांतरित कर दिया।"
+      },
+      {
+        "type": "normal",
+        "question": "Which kingdom did Harsha defeat Shashanka of Gauda?",
+        "questionHindi": "हर्ष ने गौड के शासक शशांक को किस युद्ध में पराजित किया?",
+        "options": [
+          "Tarain",
+          "Kalinga",
+          "Not specified in text",
+          "Magadha"
+        ],
+        "optionsHindi": [
+          "तराईन",
+          "कलिंग",
+          "पाठ में निर्दिष्ट नहीं",
+          "मगध"
+        ],
+        "answer": 2,
+        "explanation": "The text mentions Harsha defeated Shashanka but does not specify the battle.",
+        "explanationHindi": "पाठ में हर्ष द्वारा शशांक को पराजित करने का उल्लेख है, किंतु युद्ध का नाम निर्दिष्ट नहीं है।"
+      },
+      {
+        "type": "normal",
+        "question": "The minister of Harsha who was his secretary was:",
+        "questionHindi": "हर्ष का सचिव कौन था?",
+        "options": [
+          "Banabhatta",
+          "Harisena",
+          "Avanti",
+          "Bhindi"
+        ],
+        "optionsHindi": [
+          "बाणभट्ट",
+          "हरिषेण",
+          "अवन्ति",
+          "भिण्डि"
+        ],
+        "answer": 3,
+        "explanation": "Bhindi was the secretary (Sachiva) of Harsha.",
+        "explanationHindi": "भिण्डि हर्ष का सचिव था।"
+      },
+      {
+        "type": "normal",
+        "question": "The administrative unit 'Vishaya' during Harsha's time was headed by:",
+        "questionHindi": "हर्ष के समय में 'विषय' प्रशासनिक इकाई का प्रमुख कौन होता था?",
+        "options": [
+          "Uparika",
+          "Vishayapati",
+          "Bhukti",
+          "Gopta"
+        ],
+        "optionsHindi": [
+          "उपरिक",
+          "विषयपति",
+          "भुक्ति",
+          "गोप्ता"
+        ],
+        "answer": 1,
+        "explanation": "The Vishaya was headed by the 'Vishayapati'.",
+        "explanationHindi": "विषय का प्रमुख 'विषयपति' कहलाता था।"
+      },
+      {
+        "type": "normal",
+        "question": "Who was the founder of the Pala dynasty?",
+        "questionHindi": "पाल वंश का संस्थापक कौन था?",
+        "options": [
+          "Dharmapala",
+          "Devapala",
+          "Gopala",
+          "Mahipala"
+        ],
+        "optionsHindi": [
+          "धर्मपाल",
+          "देवपाल",
+          "गोपाल",
+          "महीपाल"
+        ],
+        "answer": 2,
+        "explanation": "Gopala was the founder of the Pala dynasty in Bengal.",
+        "explanationHindi": "गोपाल पाल वंश का संस्थापक था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Pala ruler built the Somapuri and Vikramashila Viharas?",
+        "questionHindi": "किस पाल शासक ने सोमपुरी और विक्रमशिला विहार की स्थापना की?",
+        "options": [
+          "Gopala",
+          "Dharmapala",
+          "Devapala",
+          "Mahipala"
+        ],
+        "optionsHindi": [
+          "गोपाल",
+          "धर्मपाल",
+          "देवपाल",
+          "महीपाल"
+        ],
+        "answer": 1,
+        "explanation": "Dharmapala established the Somapuri Vihara and Vikramashila Vihara.",
+        "explanationHindi": "धर्मपाल ने सोमपुरी विहार और विक्रमशिला विहार की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "The Sena dynasty was established in Bengal by:",
+        "questionHindi": "बंगाल में सेन वंश की स्थापना किसने की?",
+        "options": [
+          "Vijayasena",
+          "Samantasena",
+          "Lakshmanasena",
+          "Hemantasena"
+        ],
+        "optionsHindi": [
+          "विजयसेन",
+          "सामंतसेन",
+          "लक्ष्मणसेन",
+          "हेमंतसेन"
+        ],
+        "answer": 1,
+        "explanation": "Samantasena established the Sena dynasty in Bengal.",
+        "explanationHindi": "सामंतसेन ने बंगाल में सेन वंश की स्थापना की।"
+      },
+      {
+        "type": "normal",
+        "question": "Who was the founder of the Eastern Ganga dynasty?",
+        "questionHindi": "पूर्वी गंग वंश का संस्थापक कौन था?",
+        "options": [
+          "Anantavarman Vajrahasta",
+          "Anantavarman Chodaganga",
+          "Rajaraja I",
+          "Kulottunga I"
+        ],
+        "optionsHindi": [
+          "अनन्तवर्मा वज्रहस्त",
+          "अनन्तवर्मा चोडगंग",
+          "राजराजा प्रथम",
+          "कुलोत्तुंग प्रथम"
+        ],
+        "answer": 1,
+        "explanation": "Anantavarman Chodaganga was the founder of the Eastern Ganga dynasty.",
+        "explanationHindi": "अनन्तवर्मा चोडगंग पूर्वी गंग वंश का संस्थापक था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which temple was built by Anantavarman Chodaganga at Puri?",
+        "questionHindi": "अनन्तवर्मा चोडगंग ने पुरी में कौन-सा मंदिर बनवाया?",
+        "options": [
+          "Sun Temple",
+          "Lingaraja Temple",
+          "Jagannath Temple",
+          "Konark Temple"
+        ],
+        "optionsHindi": [
+          "सूर्य मंदिर",
+          "लिंगराज मंदिर",
+          "जगन्नाथ मंदिर",
+          "कोणार्क मंदिर"
+        ],
+        "answer": 2,
+        "explanation": "Anantavarman Chodaganga built the famous Jagannath Temple at Puri.",
+        "explanationHindi": "अनन्तवर्मा चोडगंग ने पुरी में प्रसिद्ध जगन्नाथ मंदिर का निर्माण करवाया।"
+      },
+      {
+        "type": "normal",
+        "question": "Who was the most famous ruler of the Paramara dynasty?",
+        "questionHindi": "परमार वंश का सर्वप्रसिद्ध शासक कौन था?",
+        "options": [
+          "Vakpati",
+          "Bhoja",
+          "Munja",
+          "Udayaditya"
+        ],
+        "optionsHindi": [
+          "वाक्पति",
+          "भोज",
+          "मुंज",
+          "उदयादित्य"
+        ],
+        "answer": 1,
+        "explanation": "Bhoja (1000-1060 CE) was the most famous ruler of the Paramara dynasty.",
+        "explanationHindi": "भोज (1000-1060 ई.) परमार वंश का सर्वप्रसिद्ध शासक था।"
+      },
+      {
+        "type": "normal",
+        "question": "Who defeated the Paramara ruler Bhoja?",
+        "questionHindi": "परमार शासक भोज को किसने पराजित किया?",
+        "options": [
+          "Chandela Vidyapati",
+          "Chalukya Vikramaditya IV",
+          "Kalachuri Gangeyadeva",
+          "Prithviraj Chauhan"
+        ],
+        "optionsHindi": [
+          "चंदेल विद्यापति",
+          "चालुक्य विक्रमादित्य IV",
+          "कलचूरी गांगेयदेव",
+          "पृथ्वीराज चौहान"
+        ],
+        "answer": 0,
+        "explanation": "Chandela Vidyapati defeated the Paramara ruler Bhoja.",
+        "explanationHindi": "चंदेल विद्यापति ने भोज को पराजित किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The Gurjara-Pratihara dynasty was founded by:",
+        "questionHindi": "गुर्जर-प्रतिहार वंश की स्थापना किसने की?",
+        "options": [
+          "Harishchandra",
+          "Nagabhata I",
+          "Mihira Bhoja",
+          "Vatsaraja"
+        ],
+        "optionsHindi": [
+          "हरिश्चंद्र",
+          "नागभट्ट प्रथम",
+          "मिहिरभोज",
+          "वत्सराज"
+        ],
+        "answer": 1,
+        "explanation": "The real founder of the Gurjara-Pratihara dynasty was Nagabhata I.",
+        "explanationHindi": "गुर्जर-प्रतिहार वंश का वास्तविक संस्थापक नागभट्ट प्रथम था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which dynasty is also known as the 'Kashi Naresh'?",
+        "questionHindi": "किस वंश को 'काशी नरेश' भी कहा जाता है?",
+        "options": [
+          "Gahadavala",
+          "Chandela",
+          "Paramara",
+          "Kalachuri"
+        ],
+        "optionsHindi": [
+          "गहडवाल",
+          "चंदेल",
+          "परमार",
+          "कलचूरी"
+        ],
+        "answer": 0,
+        "explanation": "The Gahadavala dynasty is also known as 'Kashi Naresh'.",
+        "explanationHindi": "गहडवाल वंश को 'काशी नरेश' भी कहा जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "The Chandela dynasty had its capital at:",
+        "questionHindi": "चंदेल वंश की राजधानी कहाँ थी?",
+        "options": [
+          "Mahoba",
+          "Khajuraho",
+          "Kalinjar",
+          "Ajmer"
+        ],
+        "optionsHindi": [
+          "महोबा",
+          "खजुराहो",
+          "कालिंजर",
+          "अजमेर"
+        ],
+        "answer": 1,
+        "explanation": "The Chandela dynasty had its capital at Khajuraho.",
+        "explanationHindi": "चंदेलों ने खजुराहो को अपनी राजधानी बनाया।"
+      },
+      {
+        "type": "normal",
+        "question": "The Kalachuri dynasty of Tripuri was founded in 845 CE by:",
+        "questionHindi": "845 ई. में त्रिपुरी के कलचूरी वंश की स्थापना किसने की?",
+        "options": [
+          "Yuvraja",
+          "Kokalla",
+          "Gangeyadeva",
+          "Lakshmikarna"
+        ],
+        "optionsHindi": [
+          "युवराज",
+          "कोकल्ल",
+          "गांगेयदेव",
+          "लक्ष्मीकर्ण"
+        ],
+        "answer": 1,
+        "explanation": "The Kalachuri dynasty of Tripuri was founded by Kokalla in 845 CE.",
+        "explanationHindi": "845 ई. में त्रिपुरी के कलचूरी वंश की स्थापना कोकल्ल ने की थी।"
+      },
+      {
+        "type": "normal",
+        "question": "The most famous ruler of the Solanki (Chalukya) dynasty of Gujarat was:",
+        "questionHindi": "गुजरात के सोलंकी (चालुक्य) वंश का सबसे प्रसिद्ध शासक कौन था?",
+        "options": [
+          "Mularaja",
+          "Bhima II",
+          "Jayasimha Siddharaja",
+          "Kumarapala"
+        ],
+        "optionsHindi": [
+          "मूलराज",
+          "भीम द्वितीय",
+          "जयसिंह सिद्धराज",
+          "कुमारपाल"
+        ],
+        "answer": 2,
+        "explanation": "Jayasimha (1094-1143 CE) was the most famous ruler of the Solanki dynasty.",
+        "explanationHindi": "जयसिंह (1094-1143 ई.) सोलंकी वंश का सबसे प्रसिद्ध शासक था।"
+      },
+      {
+        "type": "normal",
+        "question": "Which ruler of the Chauhan dynasty defeated Muhammad Ghori in the First Battle of Tarain?",
+        "questionHindi": "चौहान वंश के किस शासक ने तराईन के प्रथम युद्ध में मुहम्मद गोरी को पराजित किया?",
+        "options": [
+          "Vigraharaja IV",
+          "Prithviraj III",
+          "Someshvara",
+          "Arnoraja"
+        ],
+        "optionsHindi": [
+          "विग्रहराज IV",
+          "पृथ्वीराज III",
+          "सोमेश्वर",
+          "अर्णोराज"
+        ],
+        "answer": 1,
+        "explanation": "Prithviraj III (Prithviraj Chauhan) defeated Muhammad Ghori in the First Battle of Tarain in 1191 CE.",
+        "explanationHindi": "पृथ्वीराज III (पृथ्वीराज चौहान) ने 1191 ई. में तराईन के प्रथम युद्ध में मुहम्मद गोरी को पराजित किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The rock-cut 'Pancha Pandava Rathas' are located at:",
+        "questionHindi": "रॉक-कट 'पंच पांडव रथ' कहाँ स्थित हैं?",
+        "options": [
+          "Kanchi",
+          "Mahabalipuram",
+          "Hampi",
+          "Badami"
+        ],
+        "optionsHindi": [
+          "कांची",
+          "मामलापुरम (महाबलिपुरम)",
+          "हम्पी",
+          "बादामी"
+        ],
+        "answer": 1,
+        "explanation": "The 'Pancha Pandava Rathas' are located at Mamallapuram (Mahabalipuram).",
+        "explanationHindi": "'पंच पांडव रथ' मामलापुरम (महाबलिपुरम) में स्थित हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which Pallava temple is considered the largest architectural masterpiece of Pallava art?",
+        "questionHindi": "पल्लव कला की सबसे बड़ी वास्तुशिल्प कृति कौन-सा मंदिर है?",
+        "options": [
+          "Shore Temple",
+          "Kailasanatha Temple",
+          "Vaikuntha Perumal Temple",
+          "Muktesvara Temple"
+        ],
+        "optionsHindi": [
+          "शोर मंदिर",
+          "कैलासनाथ मंदिर",
+          "वैकुंठ पेरुमल मंदिर",
+          "मुक्तेश्वर मंदिर"
+        ],
+        "answer": 1,
+        "explanation": "The Kailasanatha Temple at Kanchi is considered the largest architectural masterpiece of Pallava art.",
+        "explanationHindi": "कांची स्थित कैलासनाथ मंदिर पल्लव कला की सबसे बड़ी वास्तुशिल्प कृति है।"
+      }
+    ]
+  }
+]
