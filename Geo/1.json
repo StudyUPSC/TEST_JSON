@@ -1,107 +1,107 @@
 [
   {
-    "id": "his2",
-    "title": "6th History - Chapter 2",
+    "id": "geo1",
+    "title": "6th Geography - Chapter 1",
     "questions": [
       {
         "type": "normal",
-        "question": "What is a manuscript?",
-        "questionHindi": "पांडुलिपि (Manuscript) क्या होती है?",
+        "question": "Which planet is known as the Blue Planet?",
+        "questionHindi": "किस ग्रह को नीला ग्रह (Blue Planet) कहा जाता है?",
         "options": [
-          "A handwritten document",
-          "A printed newspaper",
-          "A stone sculpture",
-          "A metal tool"
+          "Earth",
+          "Mars",
+          "Venus",
+          "Jupiter"
         ],
         "optionsHindi": [
-          "हाथ से लिखा गया दस्तावेज़",
-          "छपा हुआ समाचार पत्र",
-          "पत्थर की मूर्ति",
-          "धातु का औजार"
+          "पृथ्वी",
+          "मंगल",
+          "शुक्र",
+          "बृहस्पति"
         ],
         "answer": 0,
-        "explanation": "A manuscript is a document written by hand before the invention of printing.",
-        "explanationHindi": "मुद्रण कला के विकास से पहले हाथ से लिखे गए दस्तावेज़ को पांडुलिपि कहते हैं।"
+        "explanation": "Earth is called the Blue Planet because about 71% of its surface is covered with water.",
+        "explanationHindi": "पृथ्वी की लगभग 71% सतह जल से ढकी होने के कारण इसे नीला ग्रह कहा जाता है।"
       },
       {
         "type": "normal",
-        "question": "Which material was commonly used for writing ancient manuscripts in India?",
-        "questionHindi": "भारत में प्राचीन पांडुलिपियाँ सामान्यतः किस पर लिखी जाती थीं?",
+        "question": "What is the shape of the Earth?",
+        "questionHindi": "पृथ्वी का आकार कैसा है?",
         "options": [
-          "Palm leaves",
-          "Plastic sheets",
-          "Glass plates",
-          "Steel sheets"
+          "Geoid",
+          "Perfect Sphere",
+          "Cube",
+          "Cone"
         ],
         "optionsHindi": [
-          "ताड़ के पत्ते",
-          "प्लास्टिक की शीट",
-          "काँच की प्लेट",
-          "स्टील की चादर"
+          "जियोइड",
+          "पूर्ण गोलाकार",
+          "घनाकार",
+          "शंकु"
         ],
         "answer": 0,
-        "explanation": "Palm leaves and birch bark were widely used for writing manuscripts.",
-        "explanationHindi": "प्राचीन भारत में पांडुलिपियाँ मुख्यतः ताड़ के पत्तों तथा भोजपत्र पर लिखी जाती थीं।"
+        "explanation": "The Earth is slightly flattened at the poles and bulged at the equator, so it is called a geoid.",
+        "explanationHindi": "पृथ्वी ध्रुवों पर थोड़ी चपटी तथा भूमध्य रेखा पर उभरी हुई है, इसलिए इसका आकार जियोइड कहलाता है।"
       },
       {
         "type": "normal",
-        "question": "Which source helps historians know about ancient trade?",
-        "questionHindi": "प्राचीन व्यापार की जानकारी इतिहासकारों को किस स्रोत से मिलती है?",
+        "question": "Which instrument is used to represent the Earth on a small scale?",
+        "questionHindi": "पृथ्वी को छोटे रूप में दर्शाने के लिए किसका उपयोग किया जाता है?",
         "options": [
-          "Coins",
-          "Television",
-          "Radio",
-          "Mobile phones"
+          "Globe",
+          "Thermometer",
+          "Compass",
+          "Barometer"
         ],
         "optionsHindi": [
-          "सिक्कों से",
-          "टेलीविजन से",
-          "रेडियो से",
-          "मोबाइल फोन से"
+          "ग्लोब",
+          "थर्मामीटर",
+          "कम्पास",
+          "बैरोमीटर"
         ],
         "answer": 0,
-        "explanation": "Coins provide valuable evidence about trade, rulers and economy.",
-        "explanationHindi": "सिक्के व्यापार, शासकों और अर्थव्यवस्था के बारे में महत्वपूर्ण जानकारी देते हैं।"
+        "explanation": "A globe is a small spherical model of the Earth.",
+        "explanationHindi": "ग्लोब पृथ्वी का छोटा गोलाकार मॉडल होता है।"
       },
       {
         "type": "normal",
-        "question": "What do inscriptions mainly provide information about?",
-        "questionHindi": "अभिलेख मुख्यतः किसकी जानकारी प्रदान करते हैं?",
+        "question": "Which imaginary line divides the Earth into Northern and Southern Hemispheres?",
+        "questionHindi": "कौन-सी काल्पनिक रेखा पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में बाँटती है?",
         "options": [
-          "Kings and important events",
-          "Weather forecast",
-          "Modern technology",
-          "Sports competitions"
+          "Equator",
+          "Prime Meridian",
+          "Tropic of Cancer",
+          "Arctic Circle"
         ],
         "optionsHindi": [
-          "राजाओं और महत्वपूर्ण घटनाओं की",
-          "मौसम पूर्वानुमान की",
-          "आधुनिक तकनीक की",
-          "खेल प्रतियोगिताओं की"
+          "भूमध्य रेखा",
+          "प्रधान मध्याह्न रेखा",
+          "कर्क रेखा",
+          "आर्कटिक वृत्त"
         ],
         "answer": 0,
-        "explanation": "Inscriptions record royal orders, achievements and historical events.",
-        "explanationHindi": "अभिलेखों में राजाज्ञाएँ, उपलब्धियाँ तथा ऐतिहासिक घटनाएँ अंकित होती हैं।"
+        "explanation": "The Equator is located at 0° latitude and divides Earth into two hemispheres.",
+        "explanationHindi": "भूमध्य रेखा 0° अक्षांश पर स्थित है और पृथ्वी को दो गोलार्धों में विभाजित करती है।"
       },
       {
         "type": "normal",
-        "question": "Why do historians compare different historical sources?",
-        "questionHindi": "इतिहासकार विभिन्न ऐतिहासिक स्रोतों की तुलना क्यों करते हैं?",
+        "question": "How many continents are there on Earth?",
+        "questionHindi": "पृथ्वी पर कुल कितने महाद्वीप हैं?",
         "options": [
-          "To verify the accuracy of information",
-          "To increase the number of books",
-          "To decorate museums",
-          "To make maps colourful"
+          "7",
+          "5",
+          "6",
+          "8"
         ],
         "optionsHindi": [
-          "जानकारी की सत्यता की पुष्टि करने के लिए",
-          "पुस्तकों की संख्या बढ़ाने के लिए",
-          "संग्रहालय सजाने के लिए",
-          "मानचित्र रंगीन बनाने के लिए"
+          "7",
+          "5",
+          "6",
+          "8"
         ],
         "answer": 0,
-        "explanation": "Comparing multiple sources helps historians reach more reliable conclusions.",
-        "explanationHindi": "विभिन्न स्रोतों की तुलना करने से इतिहासकार अधिक विश्वसनीय निष्कर्ष तक पहुँचते हैं।"
+        "explanation": "Earth has seven continents: Asia, Africa, North America, South America, Antarctica, Europe and Australia.",
+        "explanationHindi": "पृथ्वी पर सात महाद्वीप हैं—एशिया, अफ्रीका, उत्तरी अमेरिका, दक्षिणी अमेरिका, अंटार्कटिका, यूरोप और ऑस्ट्रेलिया।"
       }
     ]
   }
