@@ -1,0 +1,208 @@
+[
+  {
+    "id": "history1",
+    "title": "Ancient Indian History - Early Period",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Into how many parts is the Prehistoric period divided?",
+        "questionHindi": "प्रागैतिहासिक काल को कितने भागों में विभक्त किया गया है?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "optionsHindi": [
+          "दो",
+          "तीन",
+          "चार",
+          "पांच"
+        ],
+        "answer": 1,
+        "explanation": "The Prehistoric period is divided into three parts: Paleolithic, Mesolithic, and Neolithic.",
+        "explanationHindi": "प्रागैतिहासिक काल को तीन भागों में विभक्त किया गया है: पुरापाषाण, मध्य पाषाण, और नव पाषाण।"
+      },
+      {
+        "type": "normal",
+        "question": "What is the time period of the Paleolithic Age?",
+        "questionHindi": "पुरापाषाण काल की समयावधि क्या है?",
+        "options": [
+          "10,000 BCE to 6,000 BCE",
+          "6,000 BCE to 1,000 BCE",
+          "2.5 million BCE to 10,000 BCE",
+          "3,500 BCE to 1,200 BCE"
+        ],
+        "optionsHindi": [
+          "10,000 ई. पू. से 6,000 ई. पू.",
+          "6,000 ई. पू. से 1,000 ई. पू.",
+          "25 लाख ई. पू. से 10,000 ई. पू.",
+          "3,500 ई. पू. से 1,200 ई. पू."
+        ],
+        "answer": 2,
+        "explanation": "The Paleolithic Age lasted from approximately 2.5 million BCE to 10,000 BCE.",
+        "explanationHindi": "पुरापाषाण काल लगभग 25 लाख ई. पू. से 10,000 ई. पू. तक रहा।"
+      },
+      {
+        "type": "normal",
+        "question": "The age in which man used both stone and copper tools is called:",
+        "questionHindi": "जिस काल में मनुष्य ने पत्थर एवं ताँबे के औजारों का साथ-साथ प्रयोग किया, उसे क्या कहते हैं?",
+        "options": [
+          "Paleolithic Age",
+          "Mesolithic Age",
+          "Chalcolithic Age",
+          "Neolithic Age"
+        ],
+        "optionsHindi": [
+          "पुरापाषाण काल",
+          "मध्य पाषाण काल",
+          "ताम्र पाषाण काल",
+          "नव पाषाण काल"
+        ],
+        "answer": 2,
+        "explanation": "The Chalcolithic Age is the period when both stone and copper tools were used together.",
+        "explanationHindi": "ताम्र पाषाण काल वह काल है जब पत्थर एवं ताँबे के औजारों का साथ-साथ प्रयोग होता था।"
+      },
+      {
+        "type": "normal",
+        "question": "Where were the first Neolithic stone tools found in India?",
+        "questionHindi": "भारत में सर्वप्रथम नव पाषाण काल के पत्थर उपकरण कहाँ से प्राप्त हुए?",
+        "options": [
+          "Sindh Valley",
+          "Tees River Valley, Uttar Pradesh",
+          "Bolan River",
+          "Kashmir"
+        ],
+        "optionsHindi": [
+          "सिंध घाटी",
+          "टीस नदी घाटी, उत्तर प्रदेश",
+          "बोलन नदी",
+          "कश्मीर"
+        ],
+        "answer": 1,
+        "explanation": "In 1860, Le Mesurier first found Neolithic stone tools from the Tees River Valley in Uttar Pradesh.",
+        "explanationHindi": "1860 ई. में ‘ली मेसुरियर’ ने सर्वप्रथम नव पाषाण काल के पत्थर उपकरण उत्तर प्रदेश की टीस नदी घाटी से प्राप्त किए।"
+      },
+      {
+        "type": "normal",
+        "question": "The oldest script sample of the Indus Valley civilization was found in which year?",
+        "questionHindi": "सिंधु घाटी सभ्यता की लिपि का सबसे पुराना नमूना किस वर्ष मिला था?",
+        "options": [
+          "1853 CE",
+          "1921 CE",
+          "1923 CE",
+          "1860 CE"
+        ],
+        "optionsHindi": [
+          "1853 ई.",
+          "1921 ई.",
+          "1923 ई.",
+          "1860 ई."
+        ],
+        "answer": 0,
+        "explanation": "The oldest example of Indus script was found in 1853 CE, and by 1923 the entire script was discovered.",
+        "explanationHindi": "सिंधु सभ्यता की लिपि का सबसे पुराना नमूना 1853 ई. में मिला था तथा 1923 तक पूरी लिपि प्रकाश में आ चुकी थी।"
+      },
+      {
+        "type": "normal",
+        "question": "How many basic signs are there in the Indus script?",
+        "questionHindi": "सिंधु लिपि में कितने मूल अक्षर (चिह्न) हैं?",
+        "options": [
+          "About 200",
+          "About 64",
+          "About 400",
+          "About 100"
+        ],
+        "optionsHindi": [
+          "लगभग 200",
+          "लगभग 64",
+          "लगभग 400",
+          "लगभग 100"
+        ],
+        "answer": 1,
+        "explanation": "The Indus script has 64 basic signs and about 250 to 400 pictographs.",
+        "explanationHindi": "इस लिपि में 64 मूल अक्षर (चिह्न) तथा 250 से 400 तक चित्राक्षर (पिकटोग्राफ) हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Most seals of the Indus civilization were made of:",
+        "questionHindi": "सिंधु सभ्यता की अधिकांश मुहरें किससे बनायी जाती थीं?",
+        "options": [
+          "Copper",
+          "Clay",
+          "Steatite",
+          "Gold"
+        ],
+        "optionsHindi": [
+          "ताँबा",
+          "मिट्टी",
+          "सेलखड़ी (स्टीटाइट)",
+          "सोना"
+        ],
+        "answer": 2,
+        "explanation": "Most seals of the Indus civilization were made of steatite and were generally square or rectangular.",
+        "explanationHindi": "सिंधु सभ्यता की अधिकांश मुहरें सेलखड़ी (स्टीटाइट) से बनायी जाती थीं जो प्रायः वर्गाकार और आयताकार होती थीं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which city is known as the 'Mound of the Dead'?",
+        "questionHindi": "किस नगर को 'मृतकों का टीला' कहा जाता है?",
+        "options": [
+          "Harappa",
+          "Mohenjo-daro",
+          "Lothal",
+          "Dholavira"
+        ],
+        "optionsHindi": [
+          "हड़प्पा",
+          "मोहनजोदड़ो",
+          "लोथल",
+          "धौलावीरा"
+        ],
+        "answer": 1,
+        "explanation": "Mohenjo-daro means 'Mound of the Dead'. It was excavated by Rakhal Das Banerji in 1922-23.",
+        "explanationHindi": "मोहनजोदड़ो का अर्थ 'मृतकों का टीला' है। इसकी खुदाई 1922-23 में राखालदास बनजी के नेतृत्व में हुई।"
+      },
+      {
+        "type": "normal",
+        "question": "The Great Bath was found at which Indus site?",
+        "questionHindi": "विशाल स्नानागार (ग्रेट बाथ) किस सिंधु स्थल से प्राप्त हुआ है?",
+        "options": [
+          "Lothal",
+          "Kalibangan",
+          "Mohenjo-daro",
+          "Harappa"
+        ],
+        "optionsHindi": [
+          "लोथल",
+          "कालीबंगा",
+          "मोहनजोदड़ो",
+          "हड़प्पा"
+        ],
+        "answer": 2,
+        "explanation": "The Great Bath is a major structure found at Mohenjo-daro.",
+        "explanationHindi": "विशाल स्नानागार (ग्रेट बाथ) मोहनजोदड़ो से प्राप्त एक प्रमुख संरचना है।"
+      },
+      {
+        "type": "normal",
+        "question": "Evidence of a dockyard (port) has been found at which site?",
+        "questionHindi": "गोदीवाड़ा (बंदरगाह) के साक्ष्य किस स्थल से प्राप्त हुए हैं?",
+        "options": [
+          "Dholavira",
+          "Lothal",
+          "Kalibangan",
+          "Banawali"
+        ],
+        "optionsHindi": [
+          "धौलावीरा",
+          "लोथल",
+          "कालीबंगा",
+          "बनावली"
+        ],
+        "answer": 1,
+        "explanation": "A dockyard (port) has been found at Lothal in Gujarat.",
+        "explanationHindi": "लोथल (गुजरात) में गोदीवाड़ा (बंदरगाह) के साक्ष्य मिले हैं।"
+      }
+    ]
+  }
+]
