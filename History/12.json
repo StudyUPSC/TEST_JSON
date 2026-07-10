@@ -1,0 +1,328 @@
+[
+  {
+    "id": "history12",
+    "title": "विश्व इतिहास (World History)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "The Renaissance is considered to have begun in which city?",
+        "questionHindi": "पुनर्जागरण की शुरुआत किस शहर से मानी जाती है?",
+        "options": [
+          "Rome",
+          "Florence",
+          "Venice",
+          "Milan"
+        ],
+        "optionsHindi": [
+          "रोम",
+          "फ्लोरेंस",
+          "वेनिस",
+          "मिलान"
+        ],
+        "answer": 1,
+        "explanation": "The Renaissance began in the city of Florence, Italy.",
+        "explanationHindi": "पुनर्जागरण की शुरुआत इटली के फ्लोरेंस शहर से मानी जाती है।"
+      },
+      {
+        "type": "normal",
+        "question": "Who is regarded as the forerunner of the Renaissance?",
+        "questionHindi": "पुनर्जागरण का अग्रदूत किसे माना जाता है?",
+        "options": [
+          "Petrarch",
+          "Dante",
+          "Machiavelli",
+          "Boccaccio"
+        ],
+        "optionsHindi": [
+          "पेट्रार्क",
+          "दांते",
+          "मैकियावेली",
+          "बोकाशियो"
+        ],
+        "answer": 1,
+        "explanation": "Dante (1260-1321 CE) is regarded as the forerunner of the Renaissance.",
+        "explanationHindi": "दांते (1260-1321 ई.) को पुनर्जागरण का अग्रदूत माना जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Who is considered the father of humanism?",
+        "questionHindi": "मानववाद का संस्थापक किसे माना जाता है?",
+        "options": [
+          "Dante",
+          "Petrarch",
+          "Boccaccio",
+          "Machiavelli"
+        ],
+        "optionsHindi": [
+          "दांते",
+          "पेट्रार्क",
+          "बोकाशियो",
+          "मैकियावेली"
+        ],
+        "answer": 1,
+        "explanation": "Petrarch is considered the father of humanism.",
+        "explanationHindi": "पेट्रार्क को मानववाद का संस्थापक माना जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "The famous book 'The Prince' was written by:",
+        "questionHindi": "प्रसिद्ध पुस्तक 'द प्रिन्स' किसने लिखी?",
+        "options": [
+          "Dante",
+          "Petrarch",
+          "Machiavelli",
+          "Boccaccio"
+        ],
+        "optionsHindi": [
+          "दांते",
+          "पेट्रार्क",
+          "मैकियावेली",
+          "बोकाशियो"
+        ],
+        "answer": 2,
+        "explanation": "'The Prince' was written by Machiavelli.",
+        "explanationHindi": "'द प्रिन्स' मैकियावेली की प्रसिद्ध पुस्तक है।"
+      },
+      {
+        "type": "normal",
+        "question": "Who painted the 'Mona Lisa' and 'The Last Supper'?",
+        "questionHindi": "'मोनालिसा' और 'द लास्ट सपर' किसने बनाए?",
+        "options": [
+          "Michelangelo",
+          "Raphael",
+          "Leonardo da Vinci",
+          "Giotto"
+        ],
+        "optionsHindi": [
+          "माइकल एंजेलो",
+          "राफेल",
+          "लियोनार्डो दा विंची",
+          "जियोटो"
+        ],
+        "answer": 2,
+        "explanation": "Leonardo da Vinci painted 'Mona Lisa' and 'The Last Supper'.",
+        "explanationHindi": "लियोनार्डो दा विंची ने 'मोनालिसा' और 'द लास्ट सपर' बनाया।"
+      },
+      {
+        "type": "normal",
+        "question": "Who is considered the father of painting during the Renaissance?",
+        "questionHindi": "पुनर्जागरण काल में चित्रकला का जनक किसे माना जाता है?",
+        "options": [
+          "Leonardo da Vinci",
+          "Michelangelo",
+          "Giotto",
+          "Raphael"
+        ],
+        "optionsHindi": [
+          "लियोनार्डो दा विंची",
+          "माइकल एंजेलो",
+          "जियोटो",
+          "राफेल"
+        ],
+        "answer": 2,
+        "explanation": "Giotto is considered the father of painting during the Renaissance period.",
+        "explanationHindi": "पुनर्जागरण काल में चित्रकला का जनक जियोटो को माना जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "America got its complete independence on:",
+        "questionHindi": "अमेरिका को पूर्ण स्वतंत्रता कब मिली?",
+        "options": [
+          "4 July 1775",
+          "4 July 1776",
+          "4 July 1777",
+          "4 July 1789"
+        ],
+        "optionsHindi": [
+          "4 जुलाई 1775",
+          "4 जुलाई 1776",
+          "4 जुलाई 1777",
+          "4 जुलाई 1789"
+        ],
+        "answer": 1,
+        "explanation": "America got its complete independence on 4 July 1776.",
+        "explanationHindi": "अमेरिका को पूर्ण स्वतंत्रता 4 जुलाई 1776 को मिली।"
+      },
+      {
+        "type": "normal",
+        "question": "Who was the leader of the American War of Independence?",
+        "questionHindi": "अमेरिकी स्वतंत्रता-संग्राम का नायक कौन था?",
+        "options": [
+          "Samuel Adams",
+          "George Washington",
+          "Thomas Jefferson",
+          "Abraham Lincoln"
+        ],
+        "optionsHindi": [
+          "सैम्यूल एडम्स",
+          "जॉर्ज वाशिंगटन",
+          "थॉमस जेफरसन",
+          "अब्राहम लिंकन"
+        ],
+        "answer": 1,
+        "explanation": "George Washington was the leader of the American War of Independence.",
+        "explanationHindi": "जॉर्ज वाशिंगटन अमेरिकी स्वतंत्रता-संग्राम के नायक थे।"
+      },
+      {
+        "type": "normal",
+        "question": "The Boston Tea Party incident occurred on:",
+        "questionHindi": "बोस्टन की चाय पार्टी की घटना कब हुई?",
+        "options": [
+          "16 December 1773",
+          "16 December 1774",
+          "16 December 1775",
+          "16 December 1776"
+        ],
+        "optionsHindi": [
+          "16 दिसम्बर 1773",
+          "16 दिसम्बर 1774",
+          "16 दिसम्बर 1775",
+          "16 दिसम्बर 1776"
+        ],
+        "answer": 0,
+        "explanation": "The Boston Tea Party incident occurred on 16 December 1773.",
+        "explanationHindi": "बोस्टन की चाय पार्टी की घटना 16 दिसम्बर 1773 को हुई थी।"
+      },
+      {
+        "type": "normal",
+        "question": "In which year was slavery abolished in the United States?",
+        "questionHindi": "संयुक्त राज्य अमेरिका में दास-प्रथा कब समाप्त हुई?",
+        "options": [
+          "1861",
+          "1863",
+          "1865",
+          "1868"
+        ],
+        "optionsHindi": [
+          "1861",
+          "1863",
+          "1865",
+          "1868"
+        ],
+        "answer": 1,
+        "explanation": "President Abraham Lincoln abolished slavery on 1 January 1863.",
+        "explanationHindi": "राष्ट्रपति अब्राहम लिंकन ने 1 जनवरी 1863 को दास-प्रथा का उन्मूलन किया।"
+      },
+      {
+        "type": "normal",
+        "question": "The French Revolution began in the year:",
+        "questionHindi": "फ्रांस की राज्य क्रांति किस वर्ष शुरू हुई?",
+        "options": [
+          "1789",
+          "1799",
+          "1804",
+          "1776"
+        ],
+        "optionsHindi": [
+          "1789",
+          "1799",
+          "1804",
+          "1776"
+        ],
+        "answer": 0,
+        "explanation": "The French Revolution began in the year 1789.",
+        "explanationHindi": "फ्रांस की राज्य क्रांति 1789 में शुरू हुई।"
+      },
+      {
+        "type": "normal",
+        "question": "The famous slogan 'Liberty, Equality, Fraternity' was associated with:",
+        "questionHindi": "प्रसिद्ध नारा 'स्वतंत्रता, समानता, बंधुत्व' किससे संबंधित है?",
+        "options": [
+          "American Revolution",
+          "French Revolution",
+          "Italian Unification",
+          "German Unification"
+        ],
+        "optionsHindi": [
+          "अमेरिकी क्रांति",
+          "फ्रांस की राज्य क्रांति",
+          "इटली का एकीकरण",
+          "जर्मनी का एकीकरण"
+        ],
+        "answer": 1,
+        "explanation": "The slogan 'Liberty, Equality, Fraternity' belongs to the French Revolution.",
+        "explanationHindi": "'स्वतंत्रता, समानता, बंधुत्व' का नारा फ्रांस की राज्य क्रांति को देन है।"
+      },
+      {
+        "type": "normal",
+        "question": "Who said 'Better a lion's rule than a hundred rats' rule'?",
+        "questionHindi": "'सौ चूहों की अपेक्षा एक शेर का शासन अच्छा है' यह उक्ति किसकी है?",
+        "options": [
+          "Rousseau",
+          "Voltaire",
+          "Montesquieu",
+          "Napoleon"
+        ],
+        "optionsHindi": [
+          "रूसो",
+          "वाल्टेयर",
+          "मॉन्टेस्क्यू",
+          "नेपोलियन"
+        ],
+        "answer": 1,
+        "explanation": "This famous quote is attributed to Voltaire.",
+        "explanationHindi": "यह प्रसिद्ध उक्ति वाल्टेयर की है।"
+      },
+      {
+        "type": "normal",
+        "question": "Napoleon Bonaparte was born on:",
+        "questionHindi": "नेपोलियन बोनापार्ट का जन्म कब हुआ?",
+        "options": [
+          "15 August 1769",
+          "15 August 1768",
+          "15 August 1770",
+          "15 August 1771"
+        ],
+        "optionsHindi": [
+          "15 अगस्त 1769",
+          "15 अगस्त 1768",
+          "15 अगस्त 1770",
+          "15 अगस्त 1771"
+        ],
+        "answer": 0,
+        "explanation": "Napoleon was born on 15 August 1769 in Ajaccio, Corsica.",
+        "explanationHindi": "नेपोलियन का जन्म 15 अगस्त 1769 को कोर्सिका द्वीप की राजधानी अजासियो में हुआ था।"
+      },
+      {
+        "type": "normal",
+        "question": "Napoleon became the Emperor of France in:",
+        "questionHindi": "नेपोलियन फ्रांस का सम्राट कब बना?",
+        "options": [
+          "1799",
+          "1802",
+          "1804",
+          "1805"
+        ],
+        "optionsHindi": [
+          "1799",
+          "1802",
+          "1804",
+          "1805"
+        ],
+        "answer": 2,
+        "explanation": "Napoleon became the Emperor of France in 1804.",
+        "explanationHindi": "नेपोलियन 1804 में फ्रांस का सम्राट बना।"
+      },
+      {
+        "type": "normal",
+        "question": "Who is called the father of Italian unification?",
+        "questionHindi": "इटली के एकीकरण का जनक किसे माना जाता है?",
+        "options": [
+          "Cavour",
+          "Mazzini",
+          "Garibaldi",
+          "Victor Emmanuel II"
+        ],
+        "optionsHindi": [
+          "कैवूर",
+          "मैजिनी",
+          "गैरीबाल्डी",
+          "विक्टर इमैनुएल II"
+        ],
+        "answer": 1,
+        "explanation": "Joseph Mazzini is considered the father of Italian unification.",
+        "explanationHindi": "जोसेफ मैजिनी को इटली के एकीकरण का जनक माना जाता है।"
+      }
+    ]
+  }
+]
