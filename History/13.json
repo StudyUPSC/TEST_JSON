@@ -1,0 +1,328 @@
+[
+  {
+    "id": "art1",
+    "title": "भारतीय चित्रकला (Indian Painting)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "The earliest evidence of painting in India is found at:",
+        "questionHindi": "भारत में चित्रकला का सबसे पुराना प्रमाण कहाँ से प्राप्त हुआ है?",
+        "options": [
+          "Ajanta Caves",
+          "Bhimbetka Caves",
+          "Ellora Caves",
+          "Bagh Caves"
+        ],
+        "optionsHindi": [
+          "अजंता गुफाएँ",
+          "भीमबेटका गुफाएँ",
+          "एलोरा गुफाएँ",
+          "बाग गुफाएँ"
+        ],
+        "answer": 1,
+        "explanation": "The earliest evidence of painting in India is found at Bhimbetka caves in Raisen, Madhya Pradesh.",
+        "explanationHindi": "भारत में चित्रकला का सबसे पुराना प्रमाण भीमबेटका की गुफाओं (रायसेन, म.प्र.) से प्राप्त होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Mughal painting began during the reign of:",
+        "questionHindi": "मुगल चित्रकला की शुरुआत किसके शासनकाल में हुई?",
+        "options": [
+          "Akbar",
+          "Jahangir",
+          "Humayun",
+          "Shah Jahan"
+        ],
+        "optionsHindi": [
+          "अकबर",
+          "जहाँगीर",
+          "हुमायूँ",
+          "शाहजहाँ"
+        ],
+        "answer": 2,
+        "explanation": "Mughal painting began during the reign of Humayun, who patronized artists like Abdus Samad and Mir Sayyid Ali.",
+        "explanationHindi": "मुगल चित्रकला का श्रीगणेश हुमायूँ के शासनकाल में हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "The famous 'Hamzanama' paintings were created during the reign of:",
+        "questionHindi": "प्रसिद्ध 'हम्ज़नामा' के चित्र किसके शासनकाल में बनाए गए?",
+        "options": [
+          "Humayun",
+          "Akbar",
+          "Jahangir",
+          "Shah Jahan"
+        ],
+        "optionsHindi": [
+          "हुमायूँ",
+          "अकबर",
+          "जहाँगीर",
+          "शाहजहाँ"
+        ],
+        "answer": 1,
+        "explanation": "The Hamzanama paintings were created during the reign of Akbar.",
+        "explanationHindi": "अकबर के काल में हम्ज़नामा की चित्रकारी की गई।"
+      },
+      {
+        "type": "normal",
+        "question": "The Ajanta Caves paintings belong to which period?",
+        "questionHindi": "अजंता गुफा चित्रकारी किस काल से संबंधित है?",
+        "options": [
+          "Maurya period",
+          "Gupta and Vakataka period",
+          "Mughal period",
+          "Chola period"
+        ],
+        "optionsHindi": [
+          "मौर्य काल",
+          "गुप्त एवं वाकाटक काल",
+          "मुगल काल",
+          "चोल काल"
+        ],
+        "answer": 1,
+        "explanation": "Ajanta cave paintings were created during the Satavahana, Shunga, Vakataka and Gupta periods.",
+        "explanationHindi": "अजंता गुफाओं का निर्माण सातवाहन, शुंग, वाकाटक एवं गुप्त शासकों के काल में हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "Cave number 17 at Ajanta is known as:",
+        "questionHindi": "अजंता की 17वीं गुफा को क्या कहा जाता है?",
+        "options": [
+          "Rangmahal",
+          "Chitrashala",
+          "Vaishnava Cave",
+          "Kailashnath"
+        ],
+        "optionsHindi": [
+          "रंगमहल",
+          "चित्रशाला",
+          "वैष्णव गुफा",
+          "कैलाशनाथ"
+        ],
+        "answer": 1,
+        "explanation": "Ajanta's 17th cave is called 'Chitrashala' because it contains various types of paintings.",
+        "explanationHindi": "अजंता की 17वीं गुफा को 'चित्रशाला' कहा जाता है क्योंकि इसमें विविध प्रकार के चित्र हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Bagh Caves are located in which state?",
+        "questionHindi": "बाग गुफाएँ किस राज्य में स्थित हैं?",
+        "options": [
+          "Maharashtra",
+          "Madhya Pradesh",
+          "Rajasthan",
+          "Gujarat"
+        ],
+        "optionsHindi": [
+          "महाराष्ट्र",
+          "मध्य प्रदेश",
+          "राजस्थान",
+          "गुजरात"
+        ],
+        "answer": 1,
+        "explanation": "Bagh Caves are located in the Vindhya mountain range in Madhya Pradesh.",
+        "explanationHindi": "बाग गुफाएँ मध्यप्रदेश के विंध्य पर्वत श्रेणी में स्थित हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Cave number 4 at Bagh is known as:",
+        "questionHindi": "बाग की गुफा संख्या 4 को क्या कहा जाता है?",
+        "options": [
+          "Chitrashala",
+          "Rangmahal",
+          "Vaishnava Cave",
+          "Kailashnath"
+        ],
+        "optionsHindi": [
+          "चित्रशाला",
+          "रंगमहल",
+          "वैष्णव गुफा",
+          "कैलाशनाथ"
+        ],
+        "answer": 1,
+        "explanation": "Bagh Cave number 4 is called 'Rangmahal' as it contains dancing girls and procession scenes.",
+        "explanationHindi": "बाग की गुफा 4 को 'रंगमहल' कहा गया है, जिसमें नृत्य करती नर्तकियों का चित्र तथा जुलूस के दृश्य शामिल हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Ellora Caves are located in which district of Maharashtra?",
+        "questionHindi": "एलोरा गुफाएँ महाराष्ट्र के किस जिले में स्थित हैं?",
+        "options": [
+          "Mumbai",
+          "Aurangabad",
+          "Pune",
+          "Nagpur"
+        ],
+        "optionsHindi": [
+          "मुंबई",
+          "औरंगाबाद",
+          "पुणे",
+          "नागपुर"
+        ],
+        "answer": 1,
+        "explanation": "Ellora Caves are located in Aurangabad district, Maharashtra.",
+        "explanationHindi": "एलोरा गुफाएँ महाराष्ट्र के औरंगाबाद जिले में स्थित हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Badami Cave number 4 is known as:",
+        "questionHindi": "बादामी की गुफा संख्या 4 को क्या कहते हैं?",
+        "options": [
+          "Chitrashala",
+          "Rangmahal",
+          "Vaishnava Cave",
+          "Jain Cave"
+        ],
+        "optionsHindi": [
+          "चित्रशाला",
+          "रंगमहल",
+          "वैष्णव गुफा",
+          "जैन गुफा"
+        ],
+        "answer": 2,
+        "explanation": "Badami Cave number 4 is called 'Vaishnava Cave' as it contains depictions of Vishnu's various forms like Narasimha and Varaha.",
+        "explanationHindi": "बादामी की गुफा संख्या 4 को 'वैष्णव गुफा' कहते हैं, जिसमें भगवान विष्णु के विभिन्न रूपों जैसे नरसिंह, वाराह आदि का चित्रांकन है।"
+      },
+      {
+        "type": "normal",
+        "question": "The Mewar style of painting flourished during the reign of:",
+        "questionHindi": "मेवाड़ शैली की चित्रकला किसके शासनकाल में फली-फूली?",
+        "options": [
+          "Akbar",
+          "Jahangir",
+          "Jagat Singh (1628-1652 CE)",
+          "Shah Jahan"
+        ],
+        "optionsHindi": [
+          "अकबर",
+          "जहाँगीर",
+          "जगत सिंह (1628-1652 ई.)",
+          "शाहजहाँ"
+        ],
+        "answer": 2,
+        "explanation": "Mewar style painting flourished during the reign of Jagat Singh (1628-1652 CE).",
+        "explanationHindi": "मेवाड़ शैली की चित्रकला का उत्कृष्ट विकास जगत सिंह (1628-1652 ई.) के काल में हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "Kangra style of painting developed during the reign of:",
+        "questionHindi": "कांगड़ा शैली की चित्रकला किसके शासनकाल में विकसित हुई?",
+        "options": [
+          "Maharaja Sansar Chand",
+          "Raja Balwant Singh",
+          "Jagat Singh",
+          "Rajput kings"
+        ],
+        "optionsHindi": [
+          "महाराजा संसार चंद",
+          "राजा बलवंत सिंह",
+          "जगत सिंह",
+          "राजपूत राजा"
+        ],
+        "answer": 0,
+        "explanation": "Kangra style of painting developed during the reign of Raja Sansar Chand of the Katoch dynasty.",
+        "explanationHindi": "कांगड़ा शैली का विकास कटोच राजवंश के राजा संसार चंद के शासनकाल में हुआ।"
+      },
+      {
+        "type": "normal",
+        "question": "Madhubani painting is associated with which region?",
+        "questionHindi": "मधुबनी चित्रकला किस क्षेत्र से संबंधित है?",
+        "options": [
+          "Rajasthan",
+          "Bihar (Mithila region)",
+          "Madhya Pradesh",
+          "Gujarat"
+        ],
+        "optionsHindi": [
+          "राजस्थान",
+          "बिहार (मिथिलांचल)",
+          "मध्य प्रदेश",
+          "गुजरात"
+        ],
+        "answer": 1,
+        "explanation": "Madhubani painting is associated with the Mithila region of Bihar.",
+        "explanationHindi": "मधुबनी चित्रकला बिहार के मिथिलांचल क्षेत्र से संबंधित है।"
+      },
+      {
+        "type": "normal",
+        "question": "The credit for bringing Madhubani painting to light goes to:",
+        "questionHindi": "मधुबनी चित्रकला को प्रकाश में लाने का श्रेय किसे दिया जाता है?",
+        "options": [
+          "W.G. Archer",
+          "William Jones",
+          "James Prinsep",
+          "Alexander Cunningham"
+        ],
+        "optionsHindi": [
+          "डब्ल्यू.जी. आर्चर",
+          "विलियम जोन्स",
+          "जेम्स प्रिंसेप",
+          "अलेक्जेंडर कनिंघम"
+        ],
+        "answer": 0,
+        "explanation": "The credit for bringing Madhubani painting to light goes to W.G. Archer.",
+        "explanationHindi": "मधुबनी चित्रकला को प्रकाश में लाने का श्रेय डब्ल्यू.जी. आर्चर को दिया जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "About what percentage of Madhubani artists are women?",
+        "questionHindi": "मधुबनी चित्रकारों में लगभग कितने प्रतिशत महिलाएँ हैं?",
+        "options": [
+          "50 percent",
+          "75 percent",
+          "90 percent",
+          "60 percent"
+        ],
+        "optionsHindi": [
+          "50 प्रतिशत",
+          "75 प्रतिशत",
+          "90 प्रतिशत",
+          "60 प्रतिशत"
+        ],
+        "answer": 2,
+        "explanation": "About 90 percent of Madhubani artists are women, which is why it is also called 'women's style'.",
+        "explanationHindi": "इस शैली के चित्रकारों में 90 प्रतिशत महिलाएँ हैं, इसी कारण इसे 'महिलाओं की शैली' भी कहा जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Guler style of painting developed in which region?",
+        "questionHindi": "गुलैर शैली की चित्रकला किस क्षेत्र में विकसित हुई?",
+        "options": [
+          "Rajasthan",
+          "Bihar",
+          "Himachal Pradesh",
+          "Kashmir"
+        ],
+        "optionsHindi": [
+          "राजस्थान",
+          "बिहार",
+          "हिमाचल प्रदेश",
+          "कश्मीर"
+        ],
+        "answer": 2,
+        "explanation": "Guler style of painting developed in Himachal Pradesh.",
+        "explanationHindi": "गुलैर शैली की चित्रकला हिमाचल प्रदेश में विकसित हुई।"
+      },
+      {
+        "type": "normal",
+        "question": "The most famous painter of Guler style is:",
+        "questionHindi": "गुलैर शैली का सर्वाधिक प्रसिद्ध चित्रकार कौन है?",
+        "options": [
+          "Nainsukh",
+          "Mansukh",
+          "Kishan Singh",
+          "Rama Singh"
+        ],
+        "optionsHindi": [
+          "नैनसुख",
+          "मानसुख",
+          "किशन सिंह",
+          "रामा सिंह"
+        ],
+        "answer": 0,
+        "explanation": "Nainsukh is considered the most famous painter of the Guler style.",
+        "explanationHindi": "नैनसुख को गुलैर शैली का सर्वाधिक प्रसिद्ध चित्रकार माना गया है।"
+      }
+    ]
+  }
+]
