@@ -1,0 +1,328 @@
+[
+  {
+    "id": "science2",
+    "title": "मानव शरीर तंत्र (Human Body Systems)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Which of the following is NOT a life process?",
+        "questionHindi": "निम्नलिखित में से कौन जीवन प्रक्रिया नहीं है?",
+        "options": [
+          "Nutrition",
+          "Respiration",
+          "Reproduction",
+          "Evaporation"
+        ],
+        "optionsHindi": [
+          "पोषण",
+          "श्वसन",
+          "प्रजनन",
+          "वाष्पीकरण"
+        ],
+        "answer": 3,
+        "explanation": "Life processes include nutrition, respiration, transportation, metabolism, reproduction, and excretion. Evaporation is a physical process, not a life process.",
+        "explanationHindi": "जीवन प्रक्रियाओं में पोषण, श्वसन, वहन, उपापचय, प्रजनन और मलत्याग शामिल हैं। वाष्पीकरण एक भौतिक प्रक्रिया है, जीवन प्रक्रिया नहीं।"
+      },
+      {
+        "type": "normal",
+        "question": "How many chambers does the human heart have?",
+        "questionHindi": "मानव हृदय में कितने कक्ष (chambers) होते हैं?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "optionsHindi": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "answer": 2,
+        "explanation": "The human heart has four chambers: two upper atria and two lower ventricles.",
+        "explanationHindi": "मानव हृदय में चार कक्ष होते हैं: दो ऊपरी अलिंद (Atria) और दो निचले निलय (Ventricles)।"
+      },
+      {
+        "type": "normal",
+        "question": "The upper chambers of the heart are called:",
+        "questionHindi": "हृदय के ऊपरी कक्षों को क्या कहा जाता है?",
+        "options": [
+          "Ventricles",
+          "Atria",
+          "Septum",
+          "Pericardium"
+        ],
+        "optionsHindi": [
+          "निलय",
+          "अलिंद",
+          "सेप्टम",
+          "पेरिकार्डियम"
+        ],
+        "answer": 1,
+        "explanation": "The upper chambers of the heart are called atria (singular: atrium).",
+        "explanationHindi": "हृदय के ऊपरी कक्षों को अलिंद (Atria) कहते हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which layer protects the heart?",
+        "questionHindi": "हृदय की रक्षा कौन-सी परत करती है?",
+        "options": [
+          "Pericardium",
+          "Myocardium",
+          "Endocardium",
+          "Epicardium"
+        ],
+        "optionsHindi": [
+          "पेरिकार्डियम",
+          "मायोकार्डियम",
+          "एंडोकार्डियम",
+          "एपिकार्डियम"
+        ],
+        "answer": 0,
+        "explanation": "The pericardium is the protective covering of the heart.",
+        "explanationHindi": "पेरिकार्डियम हृदय की रक्षात्मक आवरण है।"
+      },
+      {
+        "type": "normal",
+        "question": "The wall of which chamber of the heart is the thickest?",
+        "questionHindi": "हृदय के किस कक्ष की दीवार सबसे मोटी होती है?",
+        "options": [
+          "Left atrium",
+          "Right atrium",
+          "Left ventricle",
+          "Right ventricle"
+        ],
+        "optionsHindi": [
+          "बायाँ अलिंद",
+          "दायाँ अलिंद",
+          "बायाँ निलय",
+          "दायाँ निलय"
+        ],
+        "answer": 2,
+        "explanation": "The left ventricle has the thickest wall because it needs to pump blood to the entire body with high pressure.",
+        "explanationHindi": "बायाँ निलय सबसे मोटी दीवार वाला होता है क्योंकि इसे पूरे शरीर में उच्च दबाव के साथ रक्त पंप करना होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which part of the respiratory system is also known as the voice box?",
+        "questionHindi": "श्वसन तंत्र के किस भाग को वॉयस बॉक्स (voice box) भी कहा जाता है?",
+        "options": [
+          "Pharynx",
+          "Larynx",
+          "Trachea",
+          "Epiglottis"
+        ],
+        "optionsHindi": [
+          "ग्रसनी",
+          "कंठ (स्वरयंत्र)",
+          "श्वासनली",
+          "कंठपिडिका"
+        ],
+        "answer": 1,
+        "explanation": "The larynx is also known as the voice box.",
+        "explanationHindi": "कंठ (Larynx) को वॉयस बॉक्स (voice box) भी कहा जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "The functional unit of the kidney is called:",
+        "questionHindi": "गुर्दे की क्रियात्मक इकाई को क्या कहा जाता है?",
+        "options": [
+          "Neuron",
+          "Nephron",
+          "Glomerulus",
+          "Bowman's capsule"
+        ],
+        "optionsHindi": [
+          "न्यूरॉन",
+          "नेफ्रॉन (वृक्काणु)",
+          "ग्लोमेरुलस",
+          "बोमन कैप्सूल"
+        ],
+        "answer": 1,
+        "explanation": "The functional unit of the kidney is the nephron.",
+        "explanationHindi": "गुर्दे की क्रियात्मक इकाई नेफ्रॉन (वृक्काणु) है।"
+      },
+      {
+        "type": "normal",
+        "question": "Glomerulus is a network of:",
+        "questionHindi": "ग्लोमेरुलस किसका एक जाल है?",
+        "options": [
+          "Nerves",
+          "Capillaries",
+          "Lymph vessels",
+          "Tubules"
+        ],
+        "optionsHindi": [
+          "तंत्रिकाओं",
+          "केशिकाओं (Capillaries)",
+          "लसीका वाहिकाओं",
+          "नलिकाओं"
+        ],
+        "answer": 1,
+        "explanation": "Glomerulus is a network of capillaries.",
+        "explanationHindi": "ग्लोमेरुलस केशिकाओं (capillaries) का एक गुच्छा है।"
+      },
+      {
+        "type": "normal",
+        "question": "The Bowman's capsule is located in which part of the kidney?",
+        "questionHindi": "बोमन कैप्सूल गुर्दे के किस भाग में स्थित होता है?",
+        "options": [
+          "Medulla",
+          "Cortex",
+          "Pelvis",
+          "Ureter"
+        ],
+        "optionsHindi": [
+          "मज्जा",
+          "प्रांतस्था (Cortex)",
+          "श्रोणि",
+          "मूत्रवाहिनी"
+        ],
+        "answer": 1,
+        "explanation": "Bowman's capsule is located in the cortex (outer part) of the kidney.",
+        "explanationHindi": "बोमन कैप्सूल गुर्दे के प्रांतस्था (Cortex) में स्थित होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following is NOT a function of the kidney?",
+        "questionHindi": "निम्नलिखित में से कौन गुर्दे का कार्य नहीं है?",
+        "options": [
+          "Regulation of water balance",
+          "Production of urine",
+          "Production of insulin",
+          "Maintenance of pH level"
+        ],
+        "optionsHindi": [
+          "जल संतुलन का नियमन",
+          "मूत्र उत्पादन",
+          "इंसुलिन का उत्पादन",
+          "पीएच स्तर को बनाए रखना"
+        ],
+        "answer": 2,
+        "explanation": "Insulin is produced by the pancreas, not the kidney.",
+        "explanationHindi": "इंसुलिन अग्नाशय द्वारा उत्पन्न होता है, गुर्दे द्वारा नहीं।"
+      },
+      {
+        "type": "normal",
+        "question": "The central nervous system consists of:",
+        "questionHindi": "केन्द्रीय तंत्रिका तंत्र में क्या शामिल है?",
+        "options": [
+          "Brain and spinal cord",
+          "Nerves and ganglia",
+          "Brain and nerves",
+          "Spinal cord and nerves"
+        ],
+        "optionsHindi": [
+          "मस्तिष्क और मेरुरज्जु",
+          "तंत्रिकाएँ और गैन्ग्लिया",
+          "मस्तिष्क और तंत्रिकाएँ",
+          "मेरुरज्जु और तंत्रिकाएँ"
+        ],
+        "answer": 0,
+        "explanation": "The central nervous system consists of the brain and spinal cord.",
+        "explanationHindi": "केन्द्रीय तंत्रिका तंत्र में मस्तिष्क और मेरुरज्जु शामिल हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Exocrine glands secrete their products:",
+        "questionHindi": "बहिःस्रावी ग्रंथियाँ अपने स्रावों को किस प्रकार स्रावित करती हैं?",
+        "options": [
+          "Directly into the blood",
+          "Through ducts",
+          "Through lymph vessels",
+          "Through nerves"
+        ],
+        "optionsHindi": [
+          "सीधे रक्त में",
+          "नलिकाओं (ducts) के माध्यम से",
+          "लसीका वाहिकाओं के माध्यम से",
+          "तंत्रिकाओं के माध्यम से"
+        ],
+        "answer": 1,
+        "explanation": "Exocrine glands secrete their products through ducts.",
+        "explanationHindi": "बहिःस्रावी ग्रंथियाँ अपने स्रावों को नलिकाओं (ducts) के माध्यम से स्रावित करती हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Endocrine glands secrete their products:",
+        "questionHindi": "अंतःस्रावी ग्रंथियाँ अपने स्रावों को किस प्रकार स्रावित करती हैं?",
+        "options": [
+          "Through ducts",
+          "Directly into the blood",
+          "Through skin",
+          "Through lymph vessels"
+        ],
+        "optionsHindi": [
+          "नलिकाओं के माध्यम से",
+          "सीधे रक्त में",
+          "त्वचा के माध्यम से",
+          "लसीका वाहिकाओं के माध्यम से"
+        ],
+        "answer": 1,
+        "explanation": "Endocrine glands are ductless glands that secrete hormones directly into the blood.",
+        "explanationHindi": "अंतःस्रावी ग्रंथियाँ बिना नलिका वाली ग्रंथियाँ होती हैं, जो हार्मोन सीधे रक्त में स्रावित करती हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following is an example of an exocrine gland?",
+        "questionHindi": "निम्नलिखित में से कौन बहिःस्रावी ग्रंथि का उदाहरण है?",
+        "options": [
+          "Pituitary gland",
+          "Sweat gland",
+          "Thyroid gland",
+          "Adrenal gland"
+        ],
+        "optionsHindi": [
+          "पीयूष ग्रंथि",
+          "स्वेद ग्रंथि (पसीने की ग्रंथि)",
+          "थायरॉयड ग्रंथि",
+          "अधिवृक्क ग्रंथि"
+        ],
+        "answer": 1,
+        "explanation": "Sweat glands are exocrine glands as they secrete their product through ducts.",
+        "explanationHindi": "स्वेद ग्रंथियाँ बहिःस्रावी ग्रंथियाँ हैं क्योंकि ये अपने स्राव को नलिकाओं के माध्यम से स्रावित करती हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which part of the kidney contains the Loop of Henle?",
+        "questionHindi": "गुर्दे के किस भाग में हेनले पाश (Loop of Henle) स्थित होता है?",
+        "options": [
+          "Cortex",
+          "Medulla",
+          "Pelvis",
+          "Glomerulus"
+        ],
+        "optionsHindi": [
+          "प्रांतस्था (Cortex)",
+          "मज्जा (Medulla)",
+          "श्रोणि (Pelvis)",
+          "ग्लोमेरुलस"
+        ],
+        "answer": 1,
+        "explanation": "The Loop of Henle is located in the medulla of the kidney.",
+        "explanationHindi": "हेनले पाश (Loop of Henle) गुर्दे की मज्जा (Medulla) में स्थित होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Urine is transported from the kidney to the urinary bladder through:",
+        "questionHindi": "गुर्दे से मूत्राशय तक मूत्र का परिवहन किसके माध्यम से होता है?",
+        "options": [
+          "Urethra",
+          "Ureter",
+          "Nephron",
+          "Renal vein"
+        ],
+        "optionsHindi": [
+          "मूत्रमार्ग",
+          "मूत्रवाहिनी (Ureter)",
+          "नेफ्रॉन",
+          "गुर्दे की शिरा"
+        ],
+        "answer": 1,
+        "explanation": "Urine is transported from the kidney to the urinary bladder through the ureter.",
+        "explanationHindi": "गुर्दे से मूत्राशय तक मूत्र का परिवहन मूत्रवाहिनी (Ureter) के माध्यम से होता है।"
+      }
+    ]
+  }
+]
