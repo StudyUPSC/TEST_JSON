@@ -1,0 +1,328 @@
+[
+  {
+    "id": "science3",
+    "title": "उत्तर प्रदेश के प्रमुख अनुसंधान संस्थान (Major Research Institutes of Uttar Pradesh)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Indian Institute of Toxicology Research is located in which city?",
+        "questionHindi": "भारतीय विष विज्ञान अनुसंधान संस्थान (Indian Institute of Toxicology Research) किस शहर में स्थित है?",
+        "options": [
+          "Kanpur",
+          "Varanasi",
+          "Lucknow",
+          "Prayagraj"
+        ],
+        "optionsHindi": [
+          "कानपुर",
+          "वाराणसी",
+          "लखनऊ",
+          "प्रयागराज"
+        ],
+        "answer": 2,
+        "explanation": "Indian Institute of Toxicology Research is located in Lucknow.",
+        "explanationHindi": "भारतीय विष विज्ञान अनुसंधान संस्थान लखनऊ में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "National Botanical Research Institute is situated in:",
+        "questionHindi": "राष्ट्रीय वनस्पति अनुसंधान संस्थान (National Botanical Research Institute) कहाँ स्थित है?",
+        "options": [
+          "Kanpur",
+          "Lucknow",
+          "Varanasi",
+          "Jhansi"
+        ],
+        "optionsHindi": [
+          "कानपुर",
+          "लखनऊ",
+          "वाराणसी",
+          "झाँसी"
+        ],
+        "answer": 1,
+        "explanation": "National Botanical Research Institute is located in Lucknow.",
+        "explanationHindi": "राष्ट्रीय वनस्पति अनुसंधान संस्थान लखनऊ में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Central Drug Research Institute is based in which city?",
+        "questionHindi": "केन्द्रीय औषधि अनुसंधान संस्थान (Central Drug Research Institute) किस शहर में स्थित है?",
+        "options": [
+          "Lucknow",
+          "Kanpur",
+          "Varanasi",
+          "Prayagraj"
+        ],
+        "optionsHindi": [
+          "लखनऊ",
+          "कानपुर",
+          "वाराणसी",
+          "प्रयागराज"
+        ],
+        "answer": 0,
+        "explanation": "Central Drug Research Institute is located in Lucknow.",
+        "explanationHindi": "केन्द्रीय औषधि अनुसंधान संस्थान लखनऊ में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "National Sugar Research Institute is located in:",
+        "questionHindi": "राष्ट्रीय चीनी अनुसंधान संस्थान (National Sugar Research Institute) कहाँ स्थित है?",
+        "options": [
+          "Lucknow",
+          "Kanpur",
+          "Varanasi",
+          "Saharanpur"
+        ],
+        "optionsHindi": [
+          "लखनऊ",
+          "कानपुर",
+          "वाराणसी",
+          "सहारनपुर"
+        ],
+        "answer": 1,
+        "explanation": "National Sugar Research Institute is located in Kanpur.",
+        "explanationHindi": "राष्ट्रीय चीनी अनुसंधान संस्थान कानपुर में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Birbal Sahni Institute of Palaeobotany is situated in:",
+        "questionHindi": "बिड़ला साहनी पुरावनस्पति संस्थान (Birbal Sahni Institute of Palaeobotany) कहाँ स्थित है?",
+        "options": [
+          "Prayagraj",
+          "Varanasi",
+          "Lucknow",
+          "Jhansi"
+        ],
+        "optionsHindi": [
+          "प्रयागराज",
+          "वाराणसी",
+          "लखनऊ",
+          "झाँसी"
+        ],
+        "answer": 2,
+        "explanation": "Birbal Sahni Institute of Palaeobotany is located in Lucknow.",
+        "explanationHindi": "बिड़ला साहनी पुरावनस्पति संस्थान लखनऊ में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Indian Veterinary Research Institute is located at:",
+        "questionHindi": "भारतीय पशु चिकित्सा अनुसंधान संस्थान (Indian Veterinary Research Institute) कहाँ स्थित है?",
+        "options": [
+          "Jhansi",
+          "Mathura",
+          "Izatnagar",
+          "Hapur"
+        ],
+        "optionsHindi": [
+          "झाँसी",
+          "मथुरा",
+          "इज्जतनगर",
+          "हापुड़"
+        ],
+        "answer": 2,
+        "explanation": "Indian Veterinary Research Institute is located at Izatnagar.",
+        "explanationHindi": "भारतीय पशु चिकित्सा अनुसंधान संस्थान इज्जतनगर में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Indian Institute of Handloom Technology is situated in:",
+        "questionHindi": "भारतीय हथकरघा प्रौद्योगिकी संस्थान (Indian Institute of Handloom Technology) कहाँ स्थित है?",
+        "options": [
+          "Lucknow",
+          "Kanpur",
+          "Varanasi",
+          "Prayagraj"
+        ],
+        "optionsHindi": [
+          "लखनऊ",
+          "कानपुर",
+          "वाराणसी",
+          "प्रयागराज"
+        ],
+        "answer": 2,
+        "explanation": "Indian Institute of Handloom Technology is located in Varanasi.",
+        "explanationHindi": "भारतीय हथकरघा प्रौद्योगिकी संस्थान वाराणसी में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Central Agroforestry Research Institute is based in which city?",
+        "questionHindi": "केन्द्रीय कृषि वानिकी अनुसंधान संस्थान (Central Agroforestry Research Institute) किस शहर में स्थित है?",
+        "options": [
+          "Lucknow",
+          "Jhansi",
+          "Kanpur",
+          "Varanasi"
+        ],
+        "optionsHindi": [
+          "लखनऊ",
+          "झाँसी",
+          "कानपुर",
+          "वाराणसी"
+        ],
+        "answer": 1,
+        "explanation": "Central Agroforestry Research Institute is located in Jhansi.",
+        "explanationHindi": "केन्द्रीय कृषि वानिकी अनुसंधान संस्थान झाँसी में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Indian Grassland and Fodder Research Institute is situated in:",
+        "questionHindi": "भारतीय चरागाह एवं चारा अनुसंधान संस्थान (Indian Grassland and Fodder Research Institute) कहाँ स्थित है?",
+        "options": [
+          "Lucknow",
+          "Jhansi",
+          "Kanpur",
+          "Mathura"
+        ],
+        "optionsHindi": [
+          "लखनऊ",
+          "झाँसी",
+          "कानपुर",
+          "मथुरा"
+        ],
+        "answer": 1,
+        "explanation": "Indian Grassland and Fodder Research Institute is located in Jhansi.",
+        "explanationHindi": "भारतीय चरागाह एवं चारा अनुसंधान संस्थान झाँसी में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "National Sugarcane Research Institute is located in:",
+        "questionHindi": "राष्ट्रीय गन्ना अनुसंधान संस्थान (National Sugarcane Research Institute) कहाँ स्थित है?",
+        "options": [
+          "Kanpur",
+          "Varanasi",
+          "Lucknow",
+          "Prayagraj"
+        ],
+        "optionsHindi": [
+          "कानपुर",
+          "वाराणसी",
+          "लखनऊ",
+          "प्रयागराज"
+        ],
+        "answer": 2,
+        "explanation": "National Sugarcane Research Institute is located in Lucknow.",
+        "explanationHindi": "राष्ट्रीय गन्ना अनुसंधान संस्थान लखनऊ में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Central Avian Research Institute is located at:",
+        "questionHindi": "केन्द्रीय पक्षी अनुसंधान संस्थान (Central Avian Research Institute) कहाँ स्थित है?",
+        "options": [
+          "Jhansi",
+          "Mathura",
+          "Izatnagar",
+          "Hapur"
+        ],
+        "optionsHindi": [
+          "झाँसी",
+          "मथुरा",
+          "इज्जतनगर",
+          "हापुड़"
+        ],
+        "answer": 2,
+        "explanation": "Central Avian Research Institute is located at Izatnagar.",
+        "explanationHindi": "केन्द्रीय पक्षी अनुसंधान संस्थान इज्जतनगर में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Indian Institute of Pulses Research is situated in:",
+        "questionHindi": "भारतीय दलहन अनुसंधान संस्थान (Indian Institute of Pulses Research) कहाँ स्थित है?",
+        "options": [
+          "Lucknow",
+          "Varanasi",
+          "Kanpur",
+          "Prayagraj"
+        ],
+        "optionsHindi": [
+          "लखनऊ",
+          "वाराणसी",
+          "कानपुर",
+          "प्रयागराज"
+        ],
+        "answer": 2,
+        "explanation": "Indian Institute of Pulses Research is located in Kanpur.",
+        "explanationHindi": "भारतीय दलहन अनुसंधान संस्थान कानपुर में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Indian Institute of Vegetable Research is based in which city?",
+        "questionHindi": "भारतीय सब्जी अनुसंधान संस्थान (Indian Institute of Vegetable Research) किस शहर में स्थित है?",
+        "options": [
+          "Lucknow",
+          "Kanpur",
+          "Varanasi",
+          "Prayagraj"
+        ],
+        "optionsHindi": [
+          "लखनऊ",
+          "कानपुर",
+          "वाराणसी",
+          "प्रयागराज"
+        ],
+        "answer": 2,
+        "explanation": "Indian Institute of Vegetable Research is located in Varanasi.",
+        "explanationHindi": "भारतीय सब्जी अनुसंधान संस्थान वाराणसी में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Harish Chandra Research Institute is situated in:",
+        "questionHindi": "हरिश्चन्द्र अनुसंधान संस्थान (Harish Chandra Research Institute) कहाँ स्थित है?",
+        "options": [
+          "Lucknow",
+          "Varanasi",
+          "Prayagraj",
+          "Jhansi"
+        ],
+        "optionsHindi": [
+          "लखनऊ",
+          "वाराणसी",
+          "प्रयागराज",
+          "झाँसी"
+        ],
+        "answer": 2,
+        "explanation": "Harish Chandra Research Institute is located in Prayagraj.",
+        "explanationHindi": "हरिश्चन्द्र अनुसंधान संस्थान प्रयागराज में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Central Institute of Subtropical Horticulture, previously known as Central Mango Research Institute, is located in:",
+        "questionHindi": "केन्द्रीय उपोष्ण बागवानी संस्थान (Central Institute of Subtropical Horticulture), जिसका पूर्व नाम केन्द्रीय आम अनुसंधान संस्थान था, कहाँ स्थित है?",
+        "options": [
+          "Kanpur",
+          "Varanasi",
+          "Lucknow",
+          "Prayagraj"
+        ],
+        "optionsHindi": [
+          "कानपुर",
+          "वाराणसी",
+          "लखनऊ",
+          "प्रयागराज"
+        ],
+        "answer": 2,
+        "explanation": "Central Institute of Subtropical Horticulture is located in Lucknow.",
+        "explanationHindi": "केन्द्रीय उपोष्ण बागवानी संस्थान लखनऊ में स्थित है।"
+      },
+      {
+        "type": "normal",
+        "question": "Central Pulp and Paper Research Institute is based in which city?",
+        "questionHindi": "केन्द्रीय लुग्दी एवं कागज अनुसंधान संस्थान (Central Pulp and Paper Research Institute) किस शहर में स्थित है?",
+        "options": [
+          "Saharanpur",
+          "Hapur",
+          "Bhadai",
+          "Noida"
+        ],
+        "optionsHindi": [
+          "सहारनपुर",
+          "हापुड़",
+          "भदई",
+          "नोएडा"
+        ],
+        "answer": 0,
+        "explanation": "Central Pulp and Paper Research Institute is located in Saharanpur.",
+        "explanationHindi": "केन्द्रीय लुग्दी एवं कागज अनुसंधान संस्थान सहारनपुर में स्थित है।"
+      }
+    ]
+  }
+]
