@@ -1,0 +1,328 @@
+[
+  {
+    "id": "science1",
+    "title": "मानव जनन तंत्र (Human Reproductive System)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Which hormone is responsible for secondary sexual characteristics in males?",
+        "questionHindi": "पुरुषों में द्वितीयक लैंगिक लक्षणों के लिए कौन-सा हार्मोन उत्तरदायी है?",
+        "options": [
+          "Estrogen",
+          "Progesterone",
+          "Testosterone",
+          "Relaxin"
+        ],
+        "optionsHindi": [
+          "एस्ट्रोजन",
+          "प्रोजेस्टेरोन",
+          "टेस्टोस्टेरोन",
+          "रिलैक्सिन"
+        ],
+        "answer": 2,
+        "explanation": "Testosterone is the hormone responsible for secondary sexual characteristics in males, such as deepening of voice and growth of facial hair.",
+        "explanationHindi": "टेस्टोस्टेरोन पुरुषों में द्वितीयक लैंगिक लक्षणों (जैसे आवाज का भारी होना, दाढ़ी-मूछ का आना) के लिए उत्तरदायी है।"
+      },
+      {
+        "type": "normal",
+        "question": "The female gonads (reproductive glands) are called:",
+        "questionHindi": "मादा जनन ग्रंथियों (गोनैड्स) को क्या कहा जाता है?",
+        "options": [
+          "Testes",
+          "Ovaries",
+          "Prostate gland",
+          "Seminal vesicles"
+        ],
+        "optionsHindi": [
+          "वृषण",
+          "अंडाशय",
+          "प्रोस्टेट ग्रंथि",
+          "शुक्राशय"
+        ],
+        "answer": 1,
+        "explanation": "The female gonads are called ovaries. They produce eggs (ova) and hormones like estrogen and progesterone.",
+        "explanationHindi": "मादा जनन ग्रंथियों को अंडाशय (Ovaries) कहा जाता है। ये अण्डाणु तथा एस्ट्रोजन और प्रोजेस्टेरोन हार्मोन का उत्पादन करते हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which hormones are secreted by the ovaries?",
+        "questionHindi": "अंडाशय द्वारा कौन-से हार्मोन स्रावित होते हैं?",
+        "options": [
+          "Testosterone and Estrogen",
+          "Estrogen and Progesterone",
+          "Progesterone and Testosterone",
+          "Relaxin and Testosterone"
+        ],
+        "optionsHindi": [
+          "टेस्टोस्टेरोन और एस्ट्रोजन",
+          "एस्ट्रोजन और प्रोजेस्टेरोन",
+          "प्रोजेस्टेरोन और टेस्टोस्टेरोन",
+          "रिलैक्सिन और टेस्टोस्टेरोन"
+        ],
+        "answer": 1,
+        "explanation": "Ovaries secrete two hormones - Estrogen and Progesterone.",
+        "explanationHindi": "अंडाशय दो हार्मोन - एस्ट्रोजन और प्रोजेस्टेरोन - स्रावित करते हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "After how many days does a mature egg (ovum) get released from the ovary?",
+        "questionHindi": "अंडाशय से परिपक्व अण्डाणु लगभग कितने दिनों में निर्गमित होता है?",
+        "options": [
+          "14 days",
+          "28 days",
+          "21 days",
+          "35 days"
+        ],
+        "optionsHindi": [
+          "14 दिन",
+          "28 दिन",
+          "21 दिन",
+          "35 दिन"
+        ],
+        "answer": 1,
+        "explanation": "Approximately every 28 days, an egg matures and is released from the ovary.",
+        "explanationHindi": "लगभग प्रत्येक 28 दिनों में अण्डाणु परिपक्व होकर अंडाशय से निर्गमित होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "What is the process of release of a mature egg from the ovary called?",
+        "questionHindi": "अंडाशय से परिपक्व अंडे के निर्गमन की प्रक्रिया को क्या कहते हैं?",
+        "options": [
+          "Menstruation",
+          "Ovulation",
+          "Fertilization",
+          "Implantation"
+        ],
+        "optionsHindi": [
+          "रजोधर्म",
+          "अण्डोत्सर्जन (Ovulation)",
+          "निषेचन",
+          "प्रत्यारोपण"
+        ],
+        "answer": 1,
+        "explanation": "The process of release of a mature egg from the ovary is called ovulation.",
+        "explanationHindi": "अंडाशय से परिपक्व अंडे के निर्गमन की प्रक्रिया को अण्डोत्सर्जन (Ovulation) कहते हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Fertilization of the egg by sperm typically occurs in which part of the female reproductive system?",
+        "questionHindi": "अंडाणु का शुक्राणु द्वारा निषेचन सामान्यतः महिला जनन तंत्र के किस भाग में होता है?",
+        "options": [
+          "Ovary",
+          "Uterus",
+          "Ampulla of fallopian tube",
+          "Vagina"
+        ],
+        "optionsHindi": [
+          "अंडाशय",
+          "गर्भाशय",
+          "डिम्बवाहिनी नली का ऐम्पुला",
+          "योनि"
+        ],
+        "answer": 2,
+        "explanation": "Fertilization typically occurs in the ampulla (dilated part) of the fallopian tube.",
+        "explanationHindi": "निषेचन सामान्यतः डिम्बवाहिनी नली के विस्कपित भाग (ऐम्पुला) में होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Uterus is also known as:",
+        "questionHindi": "गर्भाशय को किस नाम से भी जाना जाता है?",
+        "options": [
+          "Womb",
+          "Vagina",
+          "Ovary",
+          "Cervix"
+        ],
+        "optionsHindi": [
+          "गर्भाशय (Womb)",
+          "योनि",
+          "अंडाशय",
+          "गर्भाशय ग्रीवा"
+        ],
+        "answer": 0,
+        "explanation": "The uterus is also known as the womb.",
+        "explanationHindi": "गर्भाशय (Uterus) को Womb भी कहा जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "What is the average duration of the menstrual cycle in humans?",
+        "questionHindi": "मनुष्यों में रजोधर्म चक्र की औसत अवधि क्या है?",
+        "options": [
+          "21 days",
+          "28 days",
+          "35 days",
+          "40 days"
+        ],
+        "optionsHindi": [
+          "21 दिन",
+          "28 दिन",
+          "35 दिन",
+          "40 दिन"
+        ],
+        "answer": 1,
+        "explanation": "The average duration of the menstrual cycle in humans is about 28 days.",
+        "explanationHindi": "मनुष्यों में रजोधर्म चक्र की औसत अवधि लगभग 28 दिन है।"
+      },
+      {
+        "type": "normal",
+        "question": "The uterine wall has how many layers?",
+        "questionHindi": "गर्भाशय की दीवार में कितनी परतें होती हैं?",
+        "options": [
+          "2 layers",
+          "3 layers",
+          "4 layers",
+          "5 layers"
+        ],
+        "optionsHindi": [
+          "2 परतें",
+          "3 परतें",
+          "4 परतें",
+          "5 परतें"
+        ],
+        "answer": 1,
+        "explanation": "The uterine wall has 3 layers: endometrium (inner), myometrium (middle), and perimetrium (outer).",
+        "explanationHindi": "गर्भाशय की दीवार में 3 परतें होती हैं: अंत:स्तर (एंडोमेट्रियम), मध्यस्तर (मायोमेट्रियम) तथा बाह्य आवरण (पेरिमेट्रियम)।"
+      },
+      {
+        "type": "normal",
+        "question": "The clitoris in females is homologous to which organ in males?",
+        "questionHindi": "महिलाओं में भगशेषक (क्लिटोरिस) पुरुषों में किस अंग के समतुल्य है?",
+        "options": [
+          "Testis",
+          "Penis",
+          "Prostate gland",
+          "Seminal vesicle"
+        ],
+        "optionsHindi": [
+          "वृषण",
+          "शिश्न",
+          "प्रोस्टेट ग्रंथि",
+          "शुक्राशय"
+        ],
+        "answer": 1,
+        "explanation": "The clitoris in females is homologous to the penis in males.",
+        "explanationHindi": "महिलाओं में भगशेषक (क्लिटोरिस) पुरुषों में शिश्न (पेनिस) के समतुल्य है।"
+      },
+      {
+        "type": "normal",
+        "question": "Bartholin's glands are located in:",
+        "questionHindi": "बार्थोलिन ग्रंथियाँ कहाँ स्थित होती हैं?",
+        "options": [
+          "Male reproductive system",
+          "Female reproductive system",
+          "Endocrine system",
+          "Digestive system"
+        ],
+        "optionsHindi": [
+          "पुरुष जनन तंत्र में",
+          "महिला जनन तंत्र में",
+          "अंतःस्रावी तंत्र में",
+          "पाचन तंत्र में"
+        ],
+        "answer": 1,
+        "explanation": "Bartholin's glands are located in the female reproductive system, on both sides of the vaginal opening.",
+        "explanationHindi": "बार्थोलिन ग्रंथियाँ महिला जनन तंत्र में, योनि कक्ष के दोनों ओर स्थित होती हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Menstruation typically starts at what age in females?",
+        "questionHindi": "महिलाओं में रजोधर्म सामान्यतः किस आयु में शुरू होता है?",
+        "options": [
+          "8-10 years",
+          "10-12 years",
+          "12-14 years",
+          "14-16 years"
+        ],
+        "optionsHindi": [
+          "8-10 वर्ष",
+          "10-12 वर्ष",
+          "12-14 वर्ष",
+          "14-16 वर्ष"
+        ],
+        "answer": 2,
+        "explanation": "Menstruation typically starts at around 12 years of age in females.",
+        "explanationHindi": "महिलाओं में रजोधर्म सामान्यतः लगभग 12 वर्ष की आयु में शुरू होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "How many immature eggs (oocytes) does a female have at birth approximately?",
+        "questionHindi": "जन्म के समय एक महिला में लगभग कितने अपरिपक्व अंडे (oocytes) होते हैं?",
+        "options": [
+          "100,000",
+          "200,000",
+          "350,000",
+          "500,000"
+        ],
+        "optionsHindi": [
+          "100,000",
+          "200,000",
+          "350,000",
+          "500,000"
+        ],
+        "answer": 2,
+        "explanation": "At birth, a female has approximately 350,000 immature eggs (oocytes).",
+        "explanationHindi": "जन्म के समय एक महिला में लगभग 3,50,000 अपरिपक्व अंडे होते हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "What is the main function of the prostate gland in the male reproductive system?",
+        "questionHindi": "पुरुष जनन तंत्र में प्रोस्टेट ग्रंथि का मुख्य कार्य क्या है?",
+        "options": [
+          "Production of sperm",
+          "Secretion of seminal fluid",
+          "Production of testosterone",
+          "Storage of sperm"
+        ],
+        "optionsHindi": [
+          "शुक्राणु उत्पादन",
+          "शुक्र द्रव का स्राव",
+          "टेस्टोस्टेरोन का उत्पादन",
+          "शुक्राणु का भंडारण"
+        ],
+        "answer": 1,
+        "explanation": "The prostate gland secretes seminal fluid which nourishes and protects sperm.",
+        "explanationHindi": "प्रोस्टेट ग्रंथि शुक्र द्रव (seminal fluid) का स्राव करती है जो शुक्राणुओं को पोषण और सुरक्षा प्रदान करता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which hormone stimulates the development of follicles in the ovary?",
+        "questionHindi": "अंडाशय में पुटकों (follicles) के विकास को कौन-सा हार्मोन उद्दीपित करता है?",
+        "options": [
+          "Luteinizing Hormone (LH)",
+          "Follicle Stimulating Hormone (FSH)",
+          "Estrogen",
+          "Progesterone"
+        ],
+        "optionsHindi": [
+          "ल्यूटिनाइजिंग हार्मोन (LH)",
+          "फॉलिकल स्टिमुलेटिंग हार्मोन (FSH)",
+          "एस्ट्रोजन",
+          "प्रोजेस्टेरोन"
+        ],
+        "answer": 1,
+        "explanation": "Follicle Stimulating Hormone (FSH) stimulates the development of follicles in the ovary.",
+        "explanationHindi": "फॉलिकल स्टिमुलेटिंग हार्मोन (FSH) अंडाशय में पुटकों के विकास को उद्दीपित करता है।"
+      },
+      {
+        "type": "normal",
+        "question": "What happens to the egg if it is not fertilized?",
+        "questionHindi": "यदि अंडाणु निषेचित नहीं होता है तो क्या होता है?",
+        "options": [
+          "It remains in the ovary",
+          "It disintegrates and is shed with menstrual flow",
+          "It travels back to the ovary",
+          "It develops into a cyst"
+        ],
+        "optionsHindi": [
+          "यह अंडाशय में ही रहता है",
+          "यह विघटित होकर रजोधर्म प्रवाह के साथ शरीर से बाहर निकल जाता है",
+          "यह वापस अंडाशय में चला जाता है",
+          "यह एक पुटी (सिस्ट) में विकसित हो जाता है"
+        ],
+        "answer": 1,
+        "explanation": "If not fertilized, the egg disintegrates and is shed along with the thickened uterine lining during menstruation.",
+        "explanationHindi": "यदि निषेचित नहीं होता है, तो अंडाणु विघटित होकर गर्भाशय की मोटी हुई भीतरी परत के साथ रजोधर्म के दौरान शरीर से बाहर निकल जाता है।"
+      }
+    ]
+  }
+]
