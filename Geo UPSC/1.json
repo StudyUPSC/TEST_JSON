@@ -1,0 +1,208 @@
+[
+  {
+    "id": "geography1",
+    "title": "समुद्री तट के प्रकार (Types of Coasts)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Consider the following pairs: 1. Ria Coast - Submerged glacial valleys 2. Fjord Coast - Submerged non-glaciated valleys 3. Dalmatian Coast - Submergence of coastal mountains parallel to the shore Which of the pairs given above are correctly matched?",
+        "questionHindi": "निम्नलिखित युग्मों पर विचार कीजिए: 1. रिया तट - जलमग्न हिमानी घाटियाँ 2. फियोर्ड तट - जलमग्न गैर-हिमानीकृत घाटियाँ 3. डाल्मेशियन तट - तट के समानांतर पर्वतों का जलमग्न होना उपर्युक्त युग्मों में से कौन-से सही सुमेलित हैं?",
+        "options": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "optionsHindi": [
+          "केवल एक",
+          "केवल दो",
+          "तीनों",
+          "कोई नहीं"
+        ],
+        "answer": 0,
+        "explanation": "Only pair 3 is correctly matched. Ria Coast is formed by submergence of non-glaciated valleys (V-shaped), not glacial valleys. Fjord Coast is formed by submergence of glacial valleys (U-shaped), not non-glaciated valleys.",
+        "explanationHindi": "केवल युग्म 3 सही सुमेलित है। रिया तट गैर-हिमानीकृत घाटियों (V-आकार) के जलमग्न होने से बनता है, न कि हिमानी घाटियों से। फियोर्ड तट हिमानी घाटियों (U-आकार) के जलमग्न होने से बनता है, न कि गैर-हिमानीकृत घाटियों से।"
+      },
+      {
+        "type": "normal",
+        "question": "With reference to the coastline of submergence, consider the following statements: 1. The coastline is generally regular and straight. 2. Erosional landforms are more prominent than depositional landforms. 3. V-shaped valleys when submerged form Ria coasts. Which of the statements given above are correct?",
+        "questionHindi": "निमज्जित तट के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिए: 1. तटरेखा सामान्यतः नियमित एवं सीधी होती है। 2. अपरदन जनित स्थलाकृतियाँ, निक्षेपित स्थलाकृतियों की तुलना में अधिक प्रमुख होती हैं। 3. V-आकार की घाटियों के जलमग्न होने पर रिया तट बनते हैं। उपर्युक्त कथनों में से कौन-से सही हैं?",
+        "options": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "optionsHindi": [
+          "केवल 1 और 2",
+          "केवल 2 और 3",
+          "केवल 1 और 3",
+          "1, 2 और 3"
+        ],
+        "answer": 1,
+        "explanation": "Statements 2 and 3 are correct. In submergence coasts, the coastline is irregular, not regular. Erosional landforms are more prominent, and V-shaped valleys when submerged form Ria coasts.",
+        "explanationHindi": "कथन 2 और 3 सही हैं। निमज्जित तटों में तटरेखा अनियमित होती है, नियमित नहीं। अपरदन जनित स्थलाकृतियाँ अधिक प्रमुख होती हैं तथा V-आकार की घाटियों के जलमग्न होने पर रिया तट बनते हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following is NOT a characteristic feature of a coastline of emergence?",
+        "questionHindi": "निम्नलिखित में से कौन-सा उन्मज्जित तट की विशेषता नहीं है?",
+        "options": [
+          "Regular coastline",
+          "Predominance of depositional landforms",
+          "Irregular coastline with submerged valleys",
+          "Presence of deltas and coastal plains"
+        ],
+        "optionsHindi": [
+          "नियमित तटरेखा",
+          "निक्षेपित स्थलाकृतियों की प्रधानता",
+          "जलमग्न घाटियों वाली अनियमित तटरेखा",
+          "डेल्टा एवं तटीय मैदानों की उपस्थिति"
+        ],
+        "answer": 2,
+        "explanation": "Irregular coastline with submerged valleys is a characteristic of submergence coast, not emergence coast. Emergence coasts have relatively straight and regular coastlines.",
+        "explanationHindi": "जलमग्न घाटियों वाली अनियमित तटरेखा निमज्जित तट की विशेषता है, उन्मज्जित तट की नहीं। उन्मज्जित तटों में तटरेखा अपेक्षाकृत सीधी एवं नियमित होती है।"
+      },
+      {
+        "type": "normal",
+        "question": "Consider the following statements regarding Fjord Coast: 1. It is formed by the submergence of glacial valleys. 2. The valleys are V-shaped in cross-section. 3. Norway is a classic example of Fjord coast. Which of the statements given above is/are correct?",
+        "questionHindi": "फियोर्ड तट के संबंध में निम्नलिखित कथनों पर विचार कीजिए: 1. यह हिमानी घाटियों के जलमग्न होने से बनता है। 2. घाटियाँ अनुप्रस्थ काट में V-आकार की होती हैं। 3. नॉर्वे फियोर्ड तट का उत्कृष्ट उदाहरण है। उपर्युक्त कथनों में से कौन-से सही हैं?",
+        "options": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "optionsHindi": [
+          "केवल 1 और 2",
+          "केवल 2 और 3",
+          "केवल 1 और 3",
+          "1, 2 और 3"
+        ],
+        "answer": 2,
+        "explanation": "Statements 1 and 3 are correct. Fjord coast is formed by submergence of U-shaped glacial valleys, not V-shaped valleys. Norway is the classic example of fjord coasts.",
+        "explanationHindi": "कथन 1 और 3 सही हैं। फियोर्ड तट U-आकार की हिमानी घाटियों के जलमग्न होने से बनता है, V-आकार की घाटियों से नहीं। नॉर्वे फियोर्ड तटों का उत्कृष्ट उदाहरण है।"
+      },
+      {
+        "type": "normal",
+        "question": "With reference to Dalmatian Coast, consider the following statements: 1. It is formed due to submergence of ridges running parallel to the coast. 2. The higher ridges appear as islands while lower areas get submerged. 3. It is named after a region in the Mediterranean Sea. Which of the statements given above are correct?",
+        "questionHindi": "डाल्मेशियन तट के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिए: 1. यह तट के समानांतर चलने वाली श्रेणियों के जलमग्न होने से बनता है। 2. ऊँची श्रेणियाँ द्वीपों के रूप में दिखाई देती हैं जबकि निचले भाग जलमग्न हो जाते हैं। 3. इसका नाम भूमध्य सागर के एक क्षेत्र के नाम पर पड़ा है। उपर्युक्त कथनों में से कौन-से सही हैं?",
+        "options": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "optionsHindi": [
+          "केवल 1 और 2",
+          "केवल 2 और 3",
+          "केवल 1 और 3",
+          "1, 2 और 3"
+        ],
+        "answer": 3,
+        "explanation": "All three statements are correct. Dalmatian coast forms by submergence of ridges parallel to the coast, higher ridges appear as islands, and it is named after Dalmatia region on the eastern coast of the Adriatic Sea (Mediterranean).",
+        "explanationHindi": "तीनों कथन सही हैं। डाल्मेशियन तट तट के समानांतर श्रेणियों के जलमग्न होने से बनता है, ऊँची श्रेणियाँ द्वीपों के रूप में दिखती हैं, और इसका नाम एड्रियाटिक सागर (भूमध्य सागर) के पूर्वी तट पर स्थित डाल्मेशिया क्षेत्र के नाम पर पड़ा है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following is an example of Estuarine Coast?",
+        "questionHindi": "निम्नलिखित में से कौन-सा ज्वारनदमुख तट (Estuarine Coast) का उदाहरण है?",
+        "options": [
+          "Norwegian Coast",
+          "Spanish Coast",
+          "Thames River, Britain",
+          "Baltic Coast"
+        ],
+        "optionsHindi": [
+          "नॉर्वे तट",
+          "स्पेन तट",
+          "थेम्स नदी, ब्रिटेन",
+          "बाल्टिक तट"
+        ],
+        "answer": 2,
+        "explanation": "Thames River in Britain is a classic example of Estuarine Coast where sea water enters the river mouth and the estuary remains free from sand and silt.",
+        "explanationHindi": "ब्रिटेन की थेम्स नदी ज्वारनदमुख तट का उत्कृष्ट उदाहरण है, जहाँ समुद्री जल नदी के मुहाने में प्रवेश करता है और मुहाना रेत एवं पंक से मुक्त रहता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Consider the following: 1. Ria Coast - Spain 2. Fjord Coast - Norway 3. Dalmatian Coast - Croatia 4. Submerged Lowland Coast - Baltic Sea Which of the above pairs are correctly matched?",
+        "questionHindi": "निम्नलिखित पर विचार कीजिए: 1. रिया तट - स्पेन 2. फियोर्ड तट - नॉर्वे 3. डाल्मेशियन तट - क्रोएशिया 4. निमग्न निम्नभूमि तट - बाल्टिक सागर उपर्युक्त में से कौन-से युग्म सही सुमेलित हैं?",
+        "options": [
+          "1, 2 and 3 only",
+          "2, 3 and 4 only",
+          "1, 3 and 4 only",
+          "1, 2, 3 and 4"
+        ],
+        "optionsHindi": [
+          "केवल 1, 2 और 3",
+          "केवल 2, 3 और 4",
+          "केवल 1, 3 और 4",
+          "1, 2, 3 और 4"
+        ],
+        "answer": 3,
+        "explanation": "All four pairs are correctly matched. Ria Coast is found in Spain (NW Spain), Fjord Coast in Norway, Dalmatian Coast in Croatia, and Submerged Lowland Coast in the Baltic Sea region.",
+        "explanationHindi": "सभी चारों युग्म सही सुमेलित हैं। रिया तट स्पेन (उत्तर-पश्चिमी स्पेन) में, फियोर्ड तट नॉर्वे में, डाल्मेशियन तट क्रोएशिया में तथा निमग्न निम्नभूमि तट बाल्टिक सागर क्षेत्र में पाया जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following features is associated with the Coastline of Emergence?",
+        "questionHindi": "निम्नलिखित में से कौन-सी विशेषता उन्मज्जित तट से संबंधित है?",
+        "options": [
+          "Irregular coastline",
+          "Deeply submerged valleys",
+          "Presence of deltas and coastal plains",
+          "Erosional landforms are more prominent"
+        ],
+        "optionsHindi": [
+          "अनियमित तटरेखा",
+          "गहरी जलमग्न घाटियाँ",
+          "डेल्टा एवं तटीय मैदानों की उपस्थिति",
+          "अपरदन स्थलाकृतियाँ अधिक प्रमुख"
+        ],
+        "answer": 2,
+        "explanation": "Presence of deltas and coastal plains is associated with emergence coast. Irregular coastline, deeply submerged valleys, and predominance of erosional landforms are features of submergence coast.",
+        "explanationHindi": "डेल्टा एवं तटीय मैदानों की उपस्थिति उन्मज्जित तट की विशेषता है। अनियमित तटरेखा, गहरी जलमग्न घाटियाँ तथा अपरदन स्थलाकृतियों की प्रधानता निमज्जित तट की विशेषताएँ हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Consider the following statements about Ria Coast: 1. It is formed by the submergence of glaciated valleys. 2. The valleys are typically V-shaped. 3. It is commonly found in north-western Spain. Which of the statements given above is/are correct?",
+        "questionHindi": "रिया तट के बारे में निम्नलिखित कथनों पर विचार कीजिए: 1. यह हिमानीकृत घाटियों के जलमग्न होने से बनता है। 2. घाटियाँ सामान्यतः V-आकार की होती हैं। 3. यह उत्तर-पश्चिमी स्पेन में सामान्यतः पाया जाता है। उपर्युक्त कथनों में से कौन-से सही हैं?",
+        "options": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "optionsHindi": [
+          "केवल 1 और 2",
+          "केवल 2 और 3",
+          "केवल 1 और 3",
+          "1, 2 और 3"
+        ],
+        "answer": 1,
+        "explanation": "Statements 2 and 3 are correct. Ria Coast is formed by submergence of non-glaciated valleys (not glaciated), which are V-shaped. It is found in north-western Spain and south-western Ireland.",
+        "explanationHindi": "कथन 2 और 3 सही हैं। रिया तट गैर-हिमानीकृत घाटियों (हिमानीकृत नहीं) के जलमग्न होने से बनता है, जो V-आकार की होती हैं। यह उत्तर-पश्चिमी स्पेन और दक्षिण-पश्चिमी आयरलैंड में पाया जाता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Match the following types of coasts with their characteristic features: List I (Type) - List II (Feature) A. Ria Coast - 1. Submerged glacial valleys, U-shaped B. Fjord Coast - 2. Submerged ridges parallel to coast C. Dalmatian Coast - 3. Submerged non-glacial valleys, V-shaped D. Estuarine Coast - 4. Sea water enters river mouth Select the correct answer using the codes given below:",
+        "questionHindi": "निम्नलिखित तटों के प्रकारों को उनकी विशिष्ट विशेषताओं से सुमेलित कीजिए: सूची I (प्रकार) - सूची II (विशेषता) A. रिया तट - 1. जलमग्न हिमानी घाटियाँ, U-आकार B. फियोर्ड तट - 2. तट के समानांतर जलमग्न श्रेणियाँ C. डाल्मेशियन तट - 3. जलमग्न गैर-हिमानी घाटियाँ, V-आकार D. ज्वारनदमुख तट - 4. समुद्री जल का नदी मुहाने में प्रवेश नीचे दिए गए कूटों का उपयोग करके सही उत्तर चुनिए:",
+        "options": [
+          "A-1, B-3, C-2, D-4",
+          "A-3, B-1, C-2, D-4",
+          "A-3, B-2, C-1, D-4",
+          "A-1, B-2, C-3, D-4"
+        ],
+        "optionsHindi": [
+          "A-1, B-3, C-2, D-4",
+          "A-3, B-1, C-2, D-4",
+          "A-3, B-2, C-1, D-4",
+          "A-1, B-2, C-3, D-4"
+        ],
+        "answer": 1,
+        "explanation": "The correct matching is: A-3 (Ria - submerged non-glacial V-shaped valleys), B-1 (Fjord - submerged glacial U-shaped valleys), C-2 (Dalmatian - submerged ridges parallel to coast), D-4 (Estuarine - sea water enters river mouth).",
+        "explanationHindi": "सही सुमेलन है: A-3 (रिया - जलमग्न गैर-हिमानी V-आकार घाटियाँ), B-1 (फियोर्ड - जलमग्न हिमानी U-आकार घाटियाँ), C-2 (डाल्मेशियन - तट के समानांतर जलमग्न श्रेणियाँ), D-4 (ज्वारनदमुख - समुद्री जल का नदी मुहाने में प्रवेश)।"
+      }
+    ]
+  }
+]
