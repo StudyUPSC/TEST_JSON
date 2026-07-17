@@ -1,0 +1,106 @@
+{
+  "id": "Q#X9@L2m!7R$A1",
+  "title": "सौरमंडल में पृथ्वी (Earth in the Solar System) - Part 2",
+  "questions": [
+    {
+      "type": "normal",
+      "question": "Consider the following statements regarding the Solar System:\n1. The Sun is at the centre of the Solar System.\n2. Asteroids and meteoroids are also members of the Solar System.\n3. Pluto is presently classified as a major planet.\nWhich of the statements given above are correct?",
+      "questionHindi": "सौरमंडल के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. सूर्य सौरमंडल के केंद्र में स्थित है।\n2. क्षुद्रग्रह एवं उल्कापिंड भी सौरमंडल के सदस्य हैं।\n3. प्लूटो वर्तमान में एक प्रमुख ग्रह के रूप में वर्गीकृत है।\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "optionsHindi": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct. The Sun is at the centre of the Solar System. Asteroids and meteoroids are members of the Solar System. Pluto is classified as a dwarf planet.",
+      "explanationHindi": "विकल्प A सही है। सूर्य सौरमंडल के केंद्र में स्थित है। क्षुद्रग्रह एवं उल्कापिंड सौरमंडल के सदस्य हैं। प्लूटो को बौना ग्रह माना जाता है।"
+    },
+    {
+      "type": "normal",
+      "question": "Which of the following is NOT a characteristic of the Earth?",
+      "questionHindi": "निम्नलिखित में से कौन-सी पृथ्वी की विशेषता नहीं है?",
+      "options": [
+        "Third planet from the Sun",
+        "Known as the Blue Planet",
+        "Has no natural satellite",
+        "Supports life"
+      ],
+      "optionsHindi": [
+        "सूर्य से तीसरा ग्रह",
+        "नीला ग्रह कहलाता है",
+        "कोई प्राकृतिक उपग्रह नहीं है",
+        "जीवन का समर्थन करता है"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct. Earth has one natural satellite, the Moon.",
+      "explanationHindi": "विकल्प C सही है। पृथ्वी का एक प्राकृतिक उपग्रह चंद्रमा है।"
+    },
+    {
+      "type": "normal",
+      "question": "Consider the following statements regarding the Moon:\n1. The Moon is Earth's only natural satellite.\n2. The Moon completes one rotation and one revolution around the Earth in nearly the same time.\n3. Therefore, the same side of the Moon is always visible from Earth.\nWhich of the statements given above are correct?",
+      "questionHindi": "चंद्रमा के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. चंद्रमा पृथ्वी का एकमात्र प्राकृतिक उपग्रह है।\n2. चंद्रमा अपने अक्ष पर घूर्णन एवं पृथ्वी की परिक्रमा लगभग समान समय में करता है।\n3. इसलिए पृथ्वी से चंद्रमा का एक ही भाग दिखाई देता है।\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "optionsHindi": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct. All three statements are correct.",
+      "explanationHindi": "विकल्प D सही है। तीनों कथन सही हैं।"
+    },
+    {
+      "type": "normal",
+      "question": "Which of the following is correctly matched?",
+      "questionHindi": "निम्नलिखित में से कौन-सा सही सुमेलित है?",
+      "options": [
+        "Asteroids - Between Mars and Jupiter",
+        "Artificial Satellite - Revolves around the Sun",
+        "Meteoroid - Emits its own light",
+        "Galaxy - A group of planets only"
+      ],
+      "optionsHindi": [
+        "क्षुद्रग्रह - मंगल एवं बृहस्पति के बीच",
+        "कृत्रिम उपग्रह - सूर्य की परिक्रमा करता है",
+        "उल्कापिंड - अपना प्रकाश उत्सर्जित करता है",
+        "आकाशगंगा - केवल ग्रहों का समूह"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct. Most asteroids are found between Mars and Jupiter.",
+      "explanationHindi": "विकल्प A सही है। अधिकांश क्षुद्रग्रह मंगल एवं बृहस्पति के बीच पाए जाते हैं।"
+    },
+    {
+      "type": "normal",
+      "question": "Match the following:\nList I (Celestial Body) - List II (Characteristic)\nA. Asteroid - 1. Group of billions of stars\nB. Meteoroid - 2. Rocky body between Mars and Jupiter\nC. Galaxy - 3. Small rocky body revolving around the Sun\nD. Artificial Satellite - 4. Human-made object launched into space\nSelect the correct answer using the codes given below:",
+      "questionHindi": "निम्नलिखित का सुमेलन कीजिए:\nसूची I (खगोलीय पिंड) - सूची II (विशेषता)\nA. क्षुद्रग्रह - 1. अरबों तारों का समूह\nB. उल्कापिंड - 2. मंगल एवं बृहस्पति के बीच स्थित चट्टानी पिंड\nC. आकाशगंगा - 3. सूर्य की परिक्रमा करने वाला छोटा चट्टानी पिंड\nD. कृत्रिम उपग्रह - 4. मानव निर्मित अंतरिक्ष पिंड\nनीचे दिए गए कूटों का उपयोग करके सही उत्तर चुनिए:",
+      "options": [
+        "A-2, B-3, C-1, D-4",
+        "A-1, B-2, C-3, D-4",
+        "A-3, B-1, C-2, D-4",
+        "A-4, B-2, C-1, D-3"
+      ],
+      "optionsHindi": [
+        "A-2, B-3, C-1, D-4",
+        "A-1, B-2, C-3, D-4",
+        "A-3, B-1, C-2, D-4",
+        "A-4, B-2, C-1, D-3"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct. Asteroids lie mainly between Mars and Jupiter, meteoroids are small rocky bodies, galaxies are groups of billions of stars, and artificial satellites are human-made objects.",
+      "explanationHindi": "विकल्प A सही है। क्षुद्रग्रह मुख्यतः मंगल एवं बृहस्पति के बीच पाए जाते हैं, उल्कापिंड छोटे चट्टानी पिंड होते हैं, आकाशगंगा अरबों तारों का समूह है तथा कृत्रिम उपग्रह मानव निर्मित होते हैं।"
+    }
+  ]
+}
