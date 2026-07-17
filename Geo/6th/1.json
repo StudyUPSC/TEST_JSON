@@ -83,26 +83,26 @@
         "explanation": "Option B is correct. Saptarishi is a constellation of seven prominent stars. Pole Star indicates north direction, Venus is a planet, and the Moon reflects sunlight.",
         "explanationHindi": "विकल्प B सही है। सप्तऋषि सात प्रमुख तारों का तारामंडल है। ध्रुव तारा उत्तर दिशा बताता है, शुक्र ग्रह है तथा चंद्रमा अपना प्रकाश नहीं देता।"
       },
-      {
-        "type": "normal",
-        "question": "Match the following:\nList I (Planet) - List II (Feature)\nA. Mercury - 1. Earth's twin\nB. Venus - 2. Planet with rings\nC. Saturn - 3. Nearest planet to the Sun\nD. Earth - 4. Blue Planet\nSelect the correct answer using the codes given below:",
-        "questionHindi": "निम्नलिखित का सुमेलन कीजिए:\nसूची I (ग्रह) - सूची II (विशेषता)\nA. बुध - 1. पृथ्वी का जुड़वाँ ग्रह\nB. शुक्र - 2. छल्लों वाला ग्रह\nC. शनि - 3. सूर्य का सबसे निकटतम ग्रह\nD. पृथ्वी - 4. नीला ग्रह\nनीचे दिए गए कूटों का उपयोग करके सही उत्तर चुनिए:",
-        "options": [
-          "A-0, B-1, C-2, D-3",
-          "A-3, B-1, C-2, D-4",
-          "A-1, B-2, C-3, D-4",
-          "A-2, B-3, C-4, D-1"
-        ],
-        "optionsHindi": [
-          "A-0, B-1, C-2, D-3",
-          "A-3, B-1, C-2, D-4",
-          "A-1, B-2, C-3, D-4",
-          "A-2, B-3, C-4, D-1"
-        ],
-        "answer": 0,
-        "explanation": "Option A is correct. Mercury-3, Venus-1, Saturn-2 and Earth-4 are the correct matches. Since code '3' is represented as '0' in the given coding pattern, A-0, B-1, C-2, D-3 is the correct option.",
-        "explanationHindi": "विकल्प A सही है। सही सुमेलन बुध-3, शुक्र-1, शनि-2 तथा पृथ्वी-4 है। दिए गए कोडिंग पैटर्न में '3' को '0' द्वारा दर्शाया गया है, इसलिए A-0, B-1, C-2, D-3 सही उत्तर है।"
-      }
+     {
+  "type": "normal",
+  "question": "Match the following:\nList I (Planet) - List II (Feature)\nA. Mercury - 1. Nearest planet to the Sun\nB. Venus - 2. Earth's twin\nC. Saturn - 3. Planet with rings\nD. Earth - 4. Blue Planet\nSelect the correct answer using the codes given below:",
+  "questionHindi": "निम्नलिखित का सुमेलन कीजिए:\nसूची I (ग्रह) - सूची II (विशेषता)\nA. बुध - 1. सूर्य का सबसे निकटतम ग्रह\nB. शुक्र - 2. पृथ्वी का जुड़वाँ ग्रह\nC. शनि - 3. छल्लों वाला ग्रह\nD. पृथ्वी - 4. नीला ग्रह\nनीचे दिए गए कूटों का उपयोग करके सही उत्तर चुनिए:",
+  "options": [
+    "A-1, B-2, C-3, D-4",
+    "A-2, B-1, C-3, D-4",
+    "A-1, B-3, C-2, D-4",
+    "A-3, B-2, C-1, D-4"
+  ],
+  "optionsHindi": [
+    "A-1, B-2, C-3, D-4",
+    "A-2, B-1, C-3, D-4",
+    "A-1, B-3, C-2, D-4",
+    "A-3, B-2, C-1, D-4"
+  ],
+  "answer": 0,
+  "explanation": "Option A is correct. Mercury is the nearest planet to the Sun, Venus is Earth's twin, Saturn is famous for its rings, and Earth is known as the Blue Planet.",
+  "explanationHindi": "विकल्प A सही है। बुध सूर्य का सबसे निकटतम ग्रह है, शुक्र पृथ्वी का जुड़वाँ ग्रह है, शनि छल्लों वाला ग्रह है तथा पृथ्वी को नीला ग्रह कहा जाता है।"
+}
     ]
   }
 ]
