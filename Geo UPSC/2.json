@@ -1,0 +1,204 @@
+[
+  {
+    "id": "geo_rocks_set1",
+    "title": "Geography - Rocks (Set 1)",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Which two elements together constitute nearly 75% of the Earth's crust by weight?",
+        "questionHindi": "भार के अनुसार पृथ्वी की भूपर्पटी का लगभग 75% भाग किन दो तत्वों से मिलकर बना है?",
+        "options": [
+          "Oxygen and Silicon",
+          "Iron and Magnesium",
+          "Calcium and Sodium",
+          "Aluminium and Potassium"
+        ],
+        "optionsHindi": [
+          "ऑक्सीजन और सिलिकन",
+          "आयरन और मैग्नीशियम",
+          "कैल्शियम और सोडियम",
+          "एल्यूमिनियम और पोटैशियम"
+        ],
+        "answer": 0,
+        "explanation": "Nearly 75% of the Earth's crust by weight consists of Oxygen and Silicon.",
+        "explanationHindi": "भार के अनुसार पृथ्वी की भूपर्पटी का लगभग 75% भाग ऑक्सीजन और सिलिकन से बना है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which one of the following is NOT a characteristic of igneous rocks?",
+        "questionHindi": "निम्नलिखित में से कौन-सी आग्नेय चट्टानों की विशेषता नहीं है?",
+        "options": [
+          "Presence of fossils",
+          "Crystalline texture",
+          "Massive and non-layered",
+          "Primary rocks"
+        ],
+        "optionsHindi": [
+          "जीवाश्मों की उपस्थिति",
+          "रवेदार संरचना",
+          "परतहीन संरचना",
+          "प्राथमिक चट्टानें"
+        ],
+        "answer": 0,
+        "explanation": "Igneous rocks do not contain fossils because they are formed from molten magma.",
+        "explanationHindi": "आग्नेय चट्टानों में जीवाश्म नहीं पाए जाते क्योंकि उनका निर्माण मैग्मा/लावा के ठंडा होने से होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Black cotton soil of the Deccan Plateau is mainly formed due to the weathering of which rock?",
+        "questionHindi": "दक्कन के पठार की काली मिट्टी मुख्यतः किस चट्टान के अपक्षय से बनी है?",
+        "options": [
+          "Basalt",
+          "Granite",
+          "Limestone",
+          "Shale"
+        ],
+        "optionsHindi": [
+          "बेसाल्ट",
+          "ग्रेनाइट",
+          "चूना पत्थर",
+          "शेल"
+        ],
+        "answer": 0,
+        "explanation": "Black cotton soil is formed by the weathering of basaltic lava rocks.",
+        "explanationHindi": "काली मिट्टी का निर्माण मुख्यतः बेसाल्टिक लावा चट्टानों के अपक्षय से होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Petroleum and natural gas are generally associated with which type of rocks?",
+        "questionHindi": "पेट्रोलियम एवं प्राकृतिक गैस सामान्यतः किस प्रकार की चट्टानों से संबंधित होते हैं?",
+        "options": [
+          "Sedimentary rocks",
+          "Igneous rocks",
+          "Metamorphic rocks",
+          "Volcanic rocks"
+        ],
+        "optionsHindi": [
+          "अवसादी चट्टानें",
+          "आग्नेय चट्टानें",
+          "कायांतरित चट्टानें",
+          "ज्वालामुखीय चट्टानें"
+        ],
+        "answer": 0,
+        "explanation": "Petroleum and natural gas are mainly found in sedimentary basins.",
+        "explanationHindi": "पेट्रोलियम एवं प्राकृतिक गैस मुख्यतः अवसादी बेसिनों में पाए जाते हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which process converts loose sediments into sedimentary rocks?",
+        "questionHindi": "ढीले अवसादों को अवसादी चट्टानों में बदलने की प्रक्रिया क्या कहलाती है?",
+        "options": [
+          "Lithification",
+          "Metamorphism",
+          "Crystallization",
+          "Volcanism"
+        ],
+        "optionsHindi": [
+          "शिलीभवन",
+          "कायांतरण",
+          "रवे बनना",
+          "ज्वालामुखीय क्रिया"
+        ],
+        "answer": 0,
+        "explanation": "Lithification is the process of converting sediments into sedimentary rocks.",
+        "explanationHindi": "शिलीभवन वह प्रक्रिया है जिसके द्वारा अवसाद अवसादी चट्टानों में परिवर्तित होते हैं।"
+      },
+      {
+        "type": "table",
+        "question": "Consider the following pairs:\nHow many pairs given above are correctly matched?",
+        "questionHindi": "निम्नलिखित युग्मों पर विचार कीजिए:\nउपर्युक्त में से कितने युग्म सही सुमेलित हैं?",
+        "tableHeaders": [
+          "S.No.",
+          "Original Rock",
+          "Metamorphic Rock"
+        ],
+        "tableHeadersHindi": [
+          "क्र.",
+          "मौलिक चट्टान",
+          "कायांतरित चट्टान"
+        ],
+        "tableRows": [
+          {
+            "en": ["1", "Limestone", "Marble"],
+            "hi": ["1", "चूना पत्थर", "संगमरमर"]
+          },
+          {
+            "en": ["2", "Sandstone", "Quartzite"],
+            "hi": ["2", "बलुआ पत्थर", "क्वार्टजाइट"]
+          },
+          {
+            "en": ["3", "Granite", "Slate"],
+            "hi": ["3", "ग्रेनाइट", "स्लेट"]
+          },
+          {
+            "en": ["4", "Shale", "Slate"],
+            "hi": ["4", "शेल", "स्लेट"]
+          }
+        ],
+        "options": [
+          "Only one",
+          "Only two",
+          "Only three",
+          "All four"
+        ],
+        "optionsHindi": [
+          "केवल एक",
+          "केवल दो",
+          "केवल तीन",
+          "सभी चार"
+        ],
+        "answer": 2,
+        "explanation": "Pairs 1, 2 and 4 are correctly matched. Granite metamorphoses into Gneiss, not Slate.",
+        "explanationHindi": "युग्म 1, 2 और 4 सही हैं। ग्रेनाइट का कायांतरण नीस में होता है, स्लेट में नहीं।"
+      },
+      {
+        "type": "table",
+        "question": "Consider the following pairs:\nHow many pairs given above are correctly matched?",
+        "questionHindi": "निम्नलिखित युग्मों पर विचार कीजिए:\nउपर्युक्त में से कितने युग्म सही सुमेलित हैं?",
+        "tableHeaders": [
+          "S.No.",
+          "Rock Type",
+          "Characteristic"
+        ],
+        "tableHeadersHindi": [
+          "क्र.",
+          "चट्टान का प्रकार",
+          "विशेषता"
+        ],
+        "tableRows": [
+          {
+            "en": ["1", "Igneous", "Primary rock"],
+            "hi": ["1", "आग्नेय", "प्राथमिक चट्टान"]
+          },
+          {
+            "en": ["2", "Sedimentary", "Contains fossils"],
+            "hi": ["2", "अवसादी", "जीवाश्म युक्त"]
+          },
+          {
+            "en": ["3", "Metamorphic", "Highly porous"],
+            "hi": ["3", "कायांतरित", "अत्यधिक सरंध्र"]
+          },
+          {
+            "en": ["4", "Sedimentary", "Layered structure"],
+            "hi": ["4", "अवसादी", "परतदार संरचना"]
+          }
+        ],
+        "options": [
+          "Only one",
+          "Only two",
+          "Only three",
+          "All four"
+        ],
+        "optionsHindi": [
+          "केवल एक",
+          "केवल दो",
+          "केवल तीन",
+          "सभी चार"
+        ],
+        "answer": 2,
+        "explanation": "Pairs 1, 2 and 4 are correct. Metamorphic rocks are generally hard and compact, not highly porous.",
+        "explanationHindi": "युग्म 1, 2 और 4 सही हैं। कायांतरित चट्टानें सामान्यतः कठोर एवं सघन होती हैं, अत्यधिक सरंध्र नहीं।"
+      }
+    ]
+  }
+]
