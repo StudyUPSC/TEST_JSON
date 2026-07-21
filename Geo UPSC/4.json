@@ -1,0 +1,208 @@
+[
+  {
+    "id": "geo2",
+    "title": "Geography - Chapter 1 (Universe and Solar System) - Part 2",
+    "questions": [
+      {
+        "type": "normal",
+        "question": "Which of the following is the closest star to Earth after the Sun?",
+        "questionHindi": "सूर्य के बाद पृथ्वी का सबसे निकटतम तारा निम्नलिखित में से कौन सा है?",
+        "options": [
+          "Alpha Centauri",
+          "Proxima Centauri",
+          "Sirius",
+          "Vega"
+        ],
+        "optionsHindi": [
+          "अल्फा सेंटौरी",
+          "प्रॉक्सिमा सेंटौरी",
+          "सीरियस",
+          "वेगा"
+        ],
+        "answer": 1,
+        "explanation": "Option B is correct.\n\nA is incorrect: Alpha Centauri is 4.3 light years away, making it the second closest.\nB is correct: Proxima Centauri is the closest star to Earth after the Sun, at a distance of 4.22 light years.\nC is incorrect: Sirius is one of the brightest stars but not the closest.\nD is incorrect: Vega is a bright star but far from Earth.",
+        "explanationHindi": "विकल्प B सही है।\n\nA गलत है: अल्फा सेंटौरी 4.3 प्रकाश वर्ष दूर है, जो इसे दूसरा सबसे निकट बनाता है।\nB सही है: प्रॉक्सिमा सेंटौरी सूर्य के बाद पृथ्वी का सबसे निकटतम तारा है, जो 4.22 प्रकाश वर्ष दूर है।\nC गलत है: सीरियस सबसे चमकीले तारों में से एक है लेकिन सबसे निकट नहीं है।\nD गलत है: वेगा एक चमकीला तारा है लेकिन पृथ्वी से बहुत दूर है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following planets has the highest temperature in the solar system?",
+        "questionHindi": "निम्नलिखित में से कौन सा ग्रह सौरमंडल में सबसे अधिक तापमान वाला है?",
+        "options": [
+          "Mercury",
+          "Venus",
+          "Earth",
+          "Mars"
+        ],
+        "optionsHindi": [
+          "बुध",
+          "शुक्र",
+          "पृथ्वी",
+          "मंगल"
+        ],
+        "answer": 1,
+        "explanation": "Option B is correct.\n\nA is incorrect: Mercury has the greatest temperature variation but Venus is hotter overall.\nB is correct: Venus is the hottest planet due to its thick carbon dioxide atmosphere causing a runaway greenhouse effect.\nC is incorrect: Earth has a moderate temperature suitable for life.\nD is incorrect: Mars is colder than Earth.",
+        "explanationHindi": "विकल्प B सही है।\n\nA गलत है: बुध में सबसे अधिक तापांतर है लेकिन समग्र रूप से शुक्र अधिक गर्म है।\nB सही है: शुक्र अपने मोटे कार्बन डाइऑक्साइड वायुमंडल के कारण सबसे गर्म ग्रह है, जो ग्रीनहाउस प्रभाव का कारण बनता है।\nC गलत है: पृथ्वी का तापमान जीवन के लिए उपयुक्त है।\nD गलत है: मंगल पृथ्वी से अधिक ठंडा है।"
+      },
+      {
+        "type": "normal",
+        "question": "Consider the following statements regarding the planets:\n1. Jupiter is the largest planet in the solar system.\n2. Venus rotates clockwise on its axis.\n3. Saturn has the least density among all planets.\n4. Uranus is known as the 'lying planet'.\n\nWhich of the statements given above are correct?",
+        "questionHindi": "ग्रहों के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. बृहस्पति सौरमंडल का सबसे बड़ा ग्रह है।\n2. शुक्र अपनी धुरी पर दक्षिणावर्त घूर्णन करता है।\n3. शनि का घनत्व सभी ग्रहों में सबसे कम है।\n4. अरुण को 'लेटा हुआ ग्रह' कहा जाता है।\n\nउपर्युक्त कथनों में से कौन से सही हैं?",
+        "options": [
+          "1, 2, 3 and 4",
+          "1, 2 and 3 only",
+          "1, 3 and 4 only",
+          "2 and 4 only"
+        ],
+        "optionsHindi": [
+          "1, 2, 3 और 4",
+          "केवल 1, 2 और 3",
+          "केवल 1, 3 और 4",
+          "केवल 2 और 4"
+        ],
+        "answer": 0,
+        "explanation": "Option A is correct.\n\nStatement 1 is correct: Jupiter is the largest planet.\nStatement 2 is correct: Venus rotates clockwise (east to west), unlike most planets.\nStatement 3 is correct: Saturn has the lowest density, less than water.\nStatement 4 is correct: Uranus is called the 'lying planet' because its axis is tilted so much that it appears to roll on its side.",
+        "explanationHindi": "विकल्प A सही है।\n\nकथन 1 सही है: बृहस्पति सबसे बड़ा ग्रह है।\nकथन 2 सही है: शुक्र दक्षिणावर्त (पूर्व से पश्चिम) घूर्णन करता है, जो अधिकांश ग्रहों से अलग है।\nकथन 3 सही है: शनि का घनत्व सबसे कम है, जो पानी से भी कम है।\nकथन 4 सही है: अरुण को 'लेटा हुआ ग्रह' कहा जाता है क्योंकि इसकी धुरी इतनी झुकी हुई है कि यह करवट लेटा हुआ प्रतीत होता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which planet has the largest number of natural satellites in the solar system?",
+        "questionHindi": "सौरमंडल में किस ग्रह के सबसे अधिक प्राकृतिक उपग्रह हैं?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptune"
+        ],
+        "optionsHindi": [
+          "बृहस्पति",
+          "शनि",
+          "अरुण",
+          "वरुण"
+        ],
+        "answer": 1,
+        "explanation": "Option B is correct.\n\nA is incorrect: Jupiter has many moons but Saturn has more confirmed moons.\nB is correct: Saturn currently has the highest number of confirmed natural satellites (moons).\nC is incorrect: Uranus has fewer moons than Saturn and Jupiter.\nD is incorrect: Neptune has fewer moons than Saturn.",
+        "explanationHindi": "विकल्प B सही है।\n\nA गलत है: बृहस्पति के कई चंद्रमा हैं लेकिन शनि के सबसे अधिक पुष्टि किए गए चंद्रमा हैं।\nB सही है: शनि के वर्तमान में सबसे अधिक पुष्टि किए गए प्राकृतिक उपग्रह (चंद्रमा) हैं।\nC गलत है: अरुण के शनि और बृहस्पति से कम चंद्रमा हैं।\nD गलत है: वरुण के शनि से कम चंद्रमा हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Consider the following pairs:\n1. Phobos - Satellite of Mars\n2. Titan - Satellite of Saturn\n3. Ganymede - Satellite of Jupiter\n4. Triton - Satellite of Neptune\n\nHow many of the pairs given above are correctly matched?",
+        "questionHindi": "निम्नलिखित युग्मों पर विचार कीजिए:\n1. फोबोस - मंगल का उपग्रह\n2. टाइटन - शनि का उपग्रह\n3. गैनीमीड - बृहस्पति का उपग्रह\n4. ट्राइटन - वरुण का उपग्रह\n\nउपर्युक्त में से कितने युग्म सही सुमेलित हैं?",
+        "options": [
+          "Only one",
+          "Only two",
+          "Only three",
+          "All four"
+        ],
+        "optionsHindi": [
+          "केवल एक",
+          "केवल दो",
+          "केवल तीन",
+          "सभी चार"
+        ],
+        "answer": 3,
+        "explanation": "Option D is correct.\n\nAll four pairs are correctly matched.\nPair 1 is correct: Phobos is a satellite of Mars.\nPair 2 is correct: Titan is a satellite of Saturn.\nPair 3 is correct: Ganymede is a satellite of Jupiter (and the largest moon in the solar system).\nPair 4 is correct: Triton is a satellite of Neptune.",
+        "explanationHindi": "विकल्प D सही है।\n\nसभी चार युग्म सही सुमेलित हैं।\nयुग्म 1 सही है: फोबोस मंगल का उपग्रह है।\nयुग्म 2 सही है: टाइटन शनि का उपग्रह है।\nयुग्म 3 सही है: गैनीमीड बृहस्पति का उपग्रह है (और सौरमंडल का सबसे बड़ा चंद्रमा है)।\nयुग्म 4 सही है: ट्राइटन वरुण का उपग्रह है।"
+      },
+      {
+        "type": "normal",
+        "question": "What is the 'Great Red Spot' on Jupiter?",
+        "questionHindi": "बृहस्पति पर 'ग्रेट रेड स्पॉट' क्या है?",
+        "options": [
+          "A volcanic crater",
+          "A giant, circular and permanent storm",
+          "A mountain range",
+          "A dried-up ocean"
+        ],
+        "optionsHindi": [
+          "एक ज्वालामुखीय गर्त",
+          "एक विशाल, चक्राकार एवं स्थायी तूफान",
+          "एक पर्वत श्रृंखला",
+          "एक सूखा हुआ महासागर"
+        ],
+        "answer": 1,
+        "explanation": "Option B is correct.\n\nA is incorrect: It is not a volcanic crater.\nB is correct: The Great Red Spot is a giant, circular, and permanent storm on Jupiter, similar to a hurricane on Earth, and has been observed for over 400 years.\nC is incorrect: It is not a mountain range.\nD is incorrect: It is not a dried-up ocean.",
+        "explanationHindi": "विकल्प B सही है।\n\nA गलत है: यह ज्वालामुखीय गर्त नहीं है।\nB सही है: ग्रेट रेड स्पॉट बृहस्पति पर एक विशाल, चक्राकार एवं स्थायी तूफान है, जो पृथ्वी पर हरिकेन के समान है और 400 वर्षों से देखा जा रहा है।\nC गलत है: यह पर्वत श्रृंखला नहीं है।\nD गलत है: यह सूखा हुआ महासागर नहीं है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following correctly describes the 'Kuiper Belt'?",
+        "questionHindi": "निम्नलिखित में से कौन 'कुइपर बेल्ट' का सही वर्णन करता है?",
+        "options": [
+          "A belt of asteroids located between Mars and Jupiter",
+          "A ring of icy bodies beyond Neptune's orbit",
+          "A region of hot gases near the Sun",
+          "A cluster of stars at the center of the Milky Way"
+        ],
+        "optionsHindi": [
+          "मंगल और बृहस्पति के बीच स्थित क्षुद्रग्रहों की एक पेटी",
+          "वरुण (नेपच्यून) की कक्षा से परे बर्फीले पिंडों का एक वलय",
+          "सूर्य के निकट गर्म गैसों का एक क्षेत्र",
+          "आकाशगंगा के केंद्र में तारों का एक समूह"
+        ],
+        "answer": 1,
+        "explanation": "Option B is correct.\n\nA is incorrect: This describes the asteroid belt between Mars and Jupiter.\nB is correct: The Kuiper Belt is a ring of icy bodies beyond Neptune's orbit and is the source of short-period comets.\nC is incorrect: This does not describe the Kuiper Belt.\nD is incorrect: This does not describe the Kuiper Belt.",
+        "explanationHindi": "विकल्प B सही है।\n\nA गलत है: यह मंगल और बृहस्पति के बीच की क्षुद्रग्रह पेटी का वर्णन करता है।\nB सही है: कुइपर बेल्ट वरुण की कक्षा से परे बर्फीले पिंडों का एक वलय है और अल्प-अवधि के धूमकेतुओं का स्रोत है।\nC गलत है: यह कुइपर बेल्ट का वर्णन नहीं करता है।\nD गलत है: यह कुइपर बेल्ट का वर्णन नहीं करता है।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following statements about 'Exoplanets' is correct?",
+        "questionHindi": "'एक्सोप्लैनेट' के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+        "options": [
+          "They orbit the Sun like other planets.",
+          "They are planets that orbit stars outside our solar system.",
+          "They are moons of Jupiter.",
+          "They are asteroids found in the Kuiper Belt."
+        ],
+        "optionsHindi": [
+          "ये अन्य ग्रहों की तरह सूर्य की परिक्रमा करते हैं।",
+          "ये ऐसे ग्रह हैं जो हमारे सौरमंडल के बाहर तारों की परिक्रमा करते हैं।",
+          "ये बृहस्पति के चंद्रमा हैं।",
+          "ये कुइपर बेल्ट में पाए जाने वाले क्षुद्रग्रह हैं।"
+        ],
+        "answer": 1,
+        "explanation": "Option B is correct.\n\nA is incorrect: Exoplanets do not orbit our Sun.\nB is correct: Exoplanets are planets that orbit stars outside our solar system.\nC is incorrect: They are not moons of Jupiter.\nD is incorrect: They are not asteroids in the Kuiper Belt.",
+        "explanationHindi": "विकल्प B सही है।\n\nA गलत है: एक्सोप्लैनेट हमारे सूर्य की परिक्रमा नहीं करते हैं।\nB सही है: एक्सोप्लैनेट ऐसे ग्रह हैं जो हमारे सौरमंडल के बाहर तारों की परिक्रमा करते हैं।\nC गलत है: ये बृहस्पति के चंद्रमा नहीं हैं।\nD गलत है: ये कुइपर बेल्ट में क्षुद्रग्रह नहीं हैं।"
+      },
+      {
+        "type": "normal",
+        "question": "Which of the following missions is associated with the study of Jupiter?",
+        "questionHindi": "निम्नलिखित में से कौन सा मिशन बृहस्पति के अध्ययन से संबंधित है?",
+        "options": [
+          "Cassini-Huygens",
+          "Juno",
+          "New Horizons",
+          "OSIRIS-REx"
+        ],
+        "optionsHindi": [
+          "कैसिनी-होयगेंस",
+          "जूनो",
+          "न्यू होराइजन्स",
+          "ओसीरिस-रेक्स"
+        ],
+        "answer": 1,
+        "explanation": "Option B is correct.\n\nA is incorrect: Cassini-Huygens was associated with Saturn.\nB is correct: Juno is NASA's mission to study Jupiter, its atmosphere, magnetic field, and water presence.\nC is incorrect: New Horizons explored Pluto.\nD is incorrect: OSIRIS-REx is studying the asteroid Bennu.",
+        "explanationHindi": "विकल्प B सही है।\n\nA गलत है: कैसिनी-होयगेंस शनि से संबंधित था।\nB सही है: जूनो बृहस्पति, इसके वायुमंडल, चुंबकीय क्षेत्र और जल की उपस्थिति का अध्ययन करने के लिए NASA का मिशन है।\nC गलत है: न्यू होराइजन्स ने प्लूटो की खोज की।\nD गलत है: ओसीरिस-रेक्स क्षुद्रग्रह बेन्नू का अध्ययन कर रहा है।"
+      },
+      {
+        "type": "normal",
+        "question": "Consider the following statements:\n1. The Moon rotates on its axis in the same time it takes to orbit the Earth, which is why we see only one side of the Moon.\n2. The Moon's density is greater than Earth's density.\n3. The Moon was formed from a giant impact between Earth and a Mars-sized body.\n\nWhich of the statements given above are correct?",
+        "questionHindi": "निम्नलिखित कथनों पर विचार कीजिए:\n1. चंद्रमा अपनी धुरी पर उतने ही समय में घूर्णन करता है जितने समय में वह पृथ्वी की परिक्रमा करता है, यही कारण है कि हम चंद्रमा का केवल एक ही पहलू देख पाते हैं।\n2. चंद्रमा का घनत्व पृथ्वी के घनत्व से अधिक है।\n3. चंद्रमा का निर्माण पृथ्वी और मंगल के आकार के पिंड के बीच एक बड़ी टक्कर से हुआ था।\n\nउपर्युक्त कथनों में से कौन से सही हैं?",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "optionsHindi": [
+          "केवल 1 और 2",
+          "केवल 1 और 3",
+          "केवल 2 और 3",
+          "1, 2 और 3"
+        ],
+        "answer": 1,
+        "explanation": "Option B is correct.\n\nStatement 1 is correct: The Moon's rotation period equals its orbital period (27.32 days), so we see only one side.\nStatement 2 is incorrect: The Moon's density is much lower than Earth's density.\nStatement 3 is correct: The Moon is believed to have formed from a giant impact (The Big Splat) between Earth and a Mars-sized body.",
+        "explanationHindi": "विकल्प B सही है।\n\nकथन 1 सही है: चंद्रमा का घूर्णन काल उसके परिक्रमण काल (27.32 दिन) के बराबर है, इसलिए हम केवल एक ही पहलू देख पाते हैं।\nकथन 2 गलत है: चंद्रमा का घनत्व पृथ्वी के घनत्व से बहुत कम है।\nकथन 3 सही है: माना जाता है कि चंद्रमा का निर्माण पृथ्वी और मंगल के आकार के पिंड के बीच एक बड़ी टक्कर (द बिग स्प्लैट) से हुआ था।"
+      }
+    ]
+  }
+]
