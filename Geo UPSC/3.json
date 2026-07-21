@@ -104,25 +104,25 @@
         "explanationHindi": "विकल्प B सही है।\n\nकथन 1 सही है: आकाशगंगा सर्पिलाकार है।\nकथन 2 सही है: इसका व्यास लगभग 1,00,000 प्रकाश वर्ष है।\nकथन 3 गलत है: सूर्य केंद्र पर नहीं है; यह केंद्र से लगभग 27,000 प्रकाश वर्ष दूर है।\nकथन 4 सही है: यह अपने केंद्र पर वामावर्त दिशा में घूर्णन करती है।"
       },
       {
-        "type": "normal",
-        "question": "Consider the following pairs:\n1. Protostar - A stage in star formation that emits light.\n2. Red Giant Stage - A star expands and its color becomes red.\n3. White Dwarf Star - A dense core of helium that has cooled down.\n4. Supernova - A massive explosion of a star.\n\nHow many of the pairs given above are correctly matched?",
-        "questionHindi": "निम्नलिखित युग्मों पर विचार कीजिए:\n1. प्रोटोस्टार - तारा निर्माण का एक चरण जो प्रकाश उत्सर्जित करता है।\n2. रेड जाइन्ट चरण - तारा फैलता है और उसका रंग लाल हो जाता है।\n3. श्वेत वामन तारा - हीलियम का सघन कोर जो ठंडा हो गया है।\n4. सुपरनोवा - एक तारे का भीषण विस्फोट।\n\nउपर्युक्त में से कितने युग्म सही सुमेलित हैं?",
-        "options": [
-          "Only one",
-          "Only two",
-          "Only three",
-          "All four"
-        ],
-        "optionsHindi": [
-          "केवल एक",
-          "केवल दो",
-          "केवल तीन",
-          "सभी चार"
-        ],
-        "answer": 2,
-        "explanation": "Option C is correct.\n\nPair 1 is incorrect: A Protostar does not emit light; it becomes a star later.\nPair 2 is correct: In the Red Giant stage, the star expands and becomes red.\nPair 3 is incorrect: A White Dwarf star is hot and dense, not cooled down. It is the remnant core after a star sheds its outer layers.\nPair 4 is correct: A Supernova is a massive explosion of a star.",
-        "explanationHindi": "विकल्प C सही है।\n\nयुग्म 1 गलत है: प्रोटोस्टार प्रकाश उत्सर्जित नहीं करता; यह बाद में तारा बनता है।\nयुग्म 2 सही है: रेड जाइन्ट चरण में, तारा फैलता है और लाल हो जाता है।\nयुग्म 3 गलत है: श्वेत वामन तारा गर्म और सघन होता है, ठंडा नहीं। यह अपनी बाहरी परतें खो देने के बाद बचा हुआ कोर होता है।\nयुग्म 4 सही है: सुपरनोवा एक तारे का भीषण विस्फोट है।"
-      },
+  "type": "normal",
+  "question": "Consider the following pairs:\n1. Protostar - A stage in star formation that emits light.\n2. Red Giant Stage - A star expands and its color becomes red.\n3. White Dwarf Star - A dense core of helium that has cooled down.\n4. Supernova - A massive explosion of a star.\n\nHow many of the pairs given above are correctly matched?",
+  "questionHindi": "निम्नलिखित युग्मों पर विचार कीजिए:\n1. प्रोटोस्टार - तारा निर्माण का एक चरण जो प्रकाश उत्सर्जित करता है।\n2. रेड जाइन्ट चरण - तारा फैलता है और उसका रंग लाल हो जाता है।\n3. श्वेत वामन तारा - हीलियम का सघन कोर जो ठंडा हो गया है।\n4. सुपरनोवा - एक तारे का भीषण विस्फोट।\n\nउपर्युक्त में से कितने युग्म सही सुमेलित हैं?",
+  "options": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All four"
+  ],
+  "optionsHindi": [
+    "केवल एक",
+    "केवल दो",
+    "केवल तीन",
+    "सभी चार"
+  ],
+  "answer": 1,
+  "explanation": "Option B is correct.\n\nOnly two pairs are correctly matched.\n\nPair 1 is incorrect: A Protostar does not emit light; it becomes a star later.\nPair 2 is correct: In the Red Giant stage, the star expands and becomes red.\nPair 3 is incorrect: A White Dwarf star is hot and dense, not cooled down. It is the remnant core after a star sheds its outer layers.\nPair 4 is correct: A Supernova is a massive explosion of a star.",
+  "explanationHindi": "विकल्प B सही है।\n\nकेवल दो युग्म सही सुमेलित हैं।\n\nयुग्म 1 गलत है: प्रोटोस्टार प्रकाश उत्सर्जित नहीं करता; यह बाद में तारा बनता है।\nयुग्म 2 सही है: रेड जाइन्ट चरण में, तारा फैलता है और लाल हो जाता है।\nयुग्म 3 गलत है: श्वेत वामन तारा गर्म और सघन होता है, ठंडा नहीं। यह अपनी बाहरी परतें खो देने के बाद बचा हुआ कोर होता है।\nयुग्म 4 सही है: सुपरनोवा एक तारे का भीषण विस्फोट है।"
+},
       {
         "type": "normal",
         "question": "What is the 'Chandrasekhar limit'?",
